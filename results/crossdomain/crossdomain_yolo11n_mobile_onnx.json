@@ -1,0 +1,25 @@
+{
+  "modelo": "D:\\QUINUA\\DETECTION\\runs\\detect\\det_runs_mobile\\yolo11n_mobile\\weights\\best.onnx",
+  "nombre": "yolo11n_mobile_onnx",
+  "imgsz": 640,
+  "resultados": {
+    "in_domain_camara": {
+      "mAP50_95": 0.9057,
+      "mAP50": 0.9906,
+      "precision": 0.9861,
+      "recall": 0.995
+    },
+    "cross_domain_movil": {
+      "mAP50_95": 0.5748,
+      "mAP50": 0.9112,
+      "precision": 0.9083,
+      "recall": 0.8638
+    }
+  },
+  "brecha_de_dominio": {
+    "delta_mAP50_95": 0.3309,
+    "delta_mAP50": 0.0794,
+    "delta_recall": 0.1312,
+    "retencion_mAP50_95": 0.6346
+  }
+}

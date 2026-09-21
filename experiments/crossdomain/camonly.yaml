@@ -1,0 +1,6 @@
+# Condicion A: entrenamiento SOLO con imagenes de la camara fija (prefijo cam_).
+path: ./MobileALPR_dataset   # ajusta a la ruta local del dataset
+train: splits/train_camonly.txt   # 3000 img (solo cam_)
+val:   splits/val_camonly.txt     # 600 img  (solo cam_)
+nc: 1
+names: ['placa']

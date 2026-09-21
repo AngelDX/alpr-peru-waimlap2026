@@ -1,0 +1,25 @@
+{
+  "modelo": "F:\\DATAPLACAS\\benchmark\\det_runs\\yolov8s\\weights\\best.pt",
+  "nombre": "yolov8s_camara",
+  "imgsz": 640,
+  "resultados": {
+    "in_domain_camara": {
+      "mAP50_95": 0.9081,
+      "mAP50": 0.9881,
+      "precision": 0.9783,
+      "recall": 0.9967
+    },
+    "cross_domain_movil": {
+      "mAP50_95": 0.1574,
+      "mAP50": 0.3857,
+      "precision": 0.6099,
+      "recall": 0.3884
+    }
+  },
+  "brecha_de_dominio": {
+    "delta_mAP50_95": 0.7507,
+    "delta_mAP50": 0.6024,
+    "delta_recall": 0.6083,
+    "retencion_mAP50_95": 0.1733
+  }
+}

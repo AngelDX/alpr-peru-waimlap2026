@@ -1,0 +1,8 @@
+# Evaluacion IN-DOMAIN (camara fija):  yolo val data=data_test_camara.yaml split=test
+path: F:/DATAPLACAS/MobileALPR_dataset
+train: train/images
+val: valid/images
+test: test_camara/images
+
+nc: 1
+names: ['placa']

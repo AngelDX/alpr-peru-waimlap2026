@@ -1,0 +1,80 @@
+{
+  "semilla": 42,
+  "camara": {
+    "train": {
+      "placas_unicas": 23943,
+      "objetivo": 3000,
+      "obtenidos": 3000
+    },
+    "val": {
+      "placas_unicas": 2993,
+      "objetivo": 600,
+      "obtenidos": 600
+    },
+    "test": {
+      "placas_unicas": 2992,
+      "objetivo": 1500,
+      "obtenidos": 1500
+    }
+  },
+  "movil": {
+    "train": {
+      "imagenes": 1508,
+      "destino": "train"
+    },
+    "valid": {
+      "imagenes": 323,
+      "destino": "valid"
+    },
+    "test": {
+      "imagenes": 323,
+      "destino": "test_movil"
+    }
+  },
+  "salida": "F:\\DATAPLACAS\\MobileALPR_dataset",
+  "area_px2_muestreada": {
+    "train": {
+      "n": 3000,
+      "q1": 4185.0,
+      "mediana": 5184.0,
+      "q3": 6555.0
+    },
+    "valid": {
+      "n": 600,
+      "q1": 4171.0,
+      "mediana": 5130.0,
+      "q3": 6480.0
+    },
+    "test_camara": {
+      "n": 1500,
+      "q1": 4232.0,
+      "mediana": 5201.9,
+      "q3": 6554.0
+    }
+  },
+  "corpus_area_px2_referencia": {
+    "q1": 4095.0,
+    "mediana": 5136.0,
+    "q3": 6510.0
+  },
+  "por_split": {
+    "train": {
+      "camara": 3000,
+      "movil": 1508
+    },
+    "valid": {
+      "camara": 600,
+      "movil": 323
+    },
+    "test_camara": {
+      "camara": 1500
+    },
+    "test_movil": {
+      "movil": 323
+    }
+  },
+  "escritura": {
+    "link": 7254
+  },
+  "imagenes_anonimizadas": true
+}

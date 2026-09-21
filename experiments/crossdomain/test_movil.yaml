@@ -1,0 +1,7 @@
+# Evaluacion CROSS-DOMAIN (celular/web)
+path: ./MobileALPR_dataset   # ajusta a la ruta local del dataset
+train: train/images
+val: valid/images
+test: test_movil/images
+nc: 1
+names: ['placa']

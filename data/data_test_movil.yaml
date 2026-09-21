@@ -1,0 +1,8 @@
+# Evaluacion CROSS-DOMAIN (celular/web):  yolo val data=data_test_movil.yaml split=test
+path: F:/DATAPLACAS/MobileALPR_dataset
+train: train/images
+val: valid/images
+test: test_movil/images
+
+nc: 1
+names: ['placa']

@@ -1,0 +1,16 @@
+# Dependencias de la aplicación (PyPI).
+#
+# IMPORTANTE: torch (CUDA) y paddlepaddle-gpu se instalan ANTES, desde sus propios
+# índices (ver README.md), porque no viven en PyPI con build de GPU. Una vez instalados,
+# este archivo completa el resto sin tocarlos:
+#
+#   pip install -r requirements.txt
+#
+# - ultralytics ya encuentra torch satisfecho (no lo reinstala).
+# - paddleocr NO depende de paddlepaddle por pip, así que no arrastra una versión CPU.
+
+ultralytics>=8.2
+paddleocr==3.6.0
+opencv-python>=4.8
+requests
+numpy

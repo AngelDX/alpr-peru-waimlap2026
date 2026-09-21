@@ -1,0 +1,25 @@
+{
+  "modelo": "F:\\ARTICULOS\\WAIMLAP\\det_runs_crossdomain\\yolov8n_camonly\\weights\\best.pt",
+  "nombre": "yolov8n_camonly",
+  "imgsz": 640,
+  "resultados": {
+    "in_domain_camara": {
+      "mAP50_95": 0.9424,
+      "mAP50": 0.9921,
+      "precision": 0.9878,
+      "recall": 0.996
+    },
+    "cross_domain_movil": {
+      "mAP50_95": 0.1427,
+      "mAP50": 0.3341,
+      "precision": 0.6127,
+      "recall": 0.3348
+    }
+  },
+  "brecha_de_dominio": {
+    "delta_mAP50_95": 0.7997,
+    "delta_mAP50": 0.658,
+    "delta_recall": 0.6612,
+    "retencion_mAP50_95": 0.1514
+  }
+}

@@ -1,0 +1,9 @@
+# Detector movil de placas de auto. Generado por benchmark/build_mobile_dataset.py
+# test = dominio movil (el objetivo). Para el otro dominio: data_test_camara.yaml
+path: F:/DATAPLACAS/MobileALPR_dataset
+train: train/images
+val: valid/images
+test: test_movil/images
+
+nc: 1
+names: ['placa']

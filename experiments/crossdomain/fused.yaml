@@ -1,0 +1,6 @@
+# Condicion B: entrenamiento con el corpus FUSIONADO (camara + movil publico).
+path: ./MobileALPR_dataset   # ajusta a la ruta local del dataset
+train: splits/train_fused.txt     # 4508 img (cam_ + mob_)
+val:   splits/val_fused.txt        # 923 img
+nc: 1
+names: ['placa']

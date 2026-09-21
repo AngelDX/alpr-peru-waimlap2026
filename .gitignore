@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Pesos y modelos (no versionar; compartir por release/enlace)
+*.pt
+*.onnx
+*.engine
+
+# Datos crudos (ver DATASET.md: no se versionan las imagenes)
+**/images/
+**/labels/
+*.jpg
+*.jpeg
+*.png
+!results/**/*.png          # excepcion: curvas y matrices de resultados si se desean versionar
+data/**/*.cache
+
+# Salidas de entrenamiento voluminosas
+det_runs_*/
+runs/
+
+# Credenciales / entorno
+.env
+*.key
+
+# Sistema
+.DS_Store
+Thumbs.db
+.claude/

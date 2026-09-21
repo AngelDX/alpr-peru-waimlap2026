@@ -1,0 +1,7 @@
+# Evaluacion IN-DOMAIN (camara fija)
+path: ./MobileALPR_dataset   # ajusta a la ruta local del dataset
+train: train/images
+val: valid/images
+test: test_camara/images
+nc: 1
+names: ['placa']

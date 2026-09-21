@@ -1,0 +1,22 @@
+# Dependencias consolidadas del repositorio.
+#
+# IMPORTANTE: instala PRIMERO PyTorch (CUDA) y PaddlePaddle-GPU desde sus indices
+# oficiales (no viven en PyPI con build de GPU). Ver README.md:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+#   pip install paddlepaddle-gpu
+# Luego:
+#   pip install -r requirements.txt
+
+# --- Detección / entrenamiento / evaluación ---
+ultralytics>=8.2
+
+# --- OCR ---
+paddleocr==3.6.0
+
+# --- Utilidades del pipeline ---
+opencv-python>=4.8
+numpy
+requests
+
+# --- Experimentos / resultados ---
+openpyxl        # medir_e2e.py rellena la plantilla Excel de evaluación end-to-end

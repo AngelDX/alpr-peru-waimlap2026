@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article below."
+title: "Real-Time ALPR System for Urban Video Surveillance: Detection and Recognition of Peruvian Vehicle License Plates with YOLO and PaddleOCR"
+authors:
+  - family-names: "Condori Coaquira"
+    given-names: "Angel Rosendo"
+    orcid: "https://orcid.org/0000-0003-4681-4272"
+    affiliation: "Universidad Peruana Unión"
+  - family-names: "Quea Lopez"
+    given-names: "Godofredo"
+    orcid: "https://orcid.org/0000-0001-5325-4133"
+    affiliation: "Universidad Peruana Unión"
+  - family-names: "Mamani-Pari"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0002-5836-2018"
+    affiliation: "Universidad Peruana Unión"
+  - family-names: "Humpiri Flores"
+    given-names: "Milton Edward"
+    orcid: "https://orcid.org/0009-0006-9189-0994"
+    affiliation: "Universidad Peruana Unión"
+  - family-names: "Tocto Cano"
+    given-names: "Esteban"
+    orcid: "https://orcid.org/0000-0003-4729-4192"
+    affiliation: "Universidad Peruana Unión"
+date-released: "2026-11-18"
+license: MIT
+keywords:
+  - ALPR
+  - license plate recognition
+  - YOLO
+  - PaddleOCR
+  - cross-domain generalization
+  - Peru
+preferred-citation:
+  type: conference-paper
+  title: "Real-Time ALPR System for Urban Video Surveillance: Detection and Recognition of Peruvian Vehicle License Plates with YOLO and PaddleOCR"
+  authors:
+    - family-names: "Condori Coaquira"
+      given-names: "Angel Rosendo"
+    - family-names: "Quea Lopez"
+      given-names: "Godofredo"
+    - family-names: "Mamani-Pari"
+      given-names: "David"
+    - family-names: "Humpiri Flores"
+      given-names: "Milton Edward"
+    - family-names: "Tocto Cano"
+      given-names: "Esteban"
+  collection-title: "Artificial Intelligence and Machine Learning Applications 2026 (WAIMLAP 2026)"
+  conference:
+    name: "WAIMLAP 2026 — Workshop on Artificial Intelligence and Machine Learning Applications"
+    city: "Lima"
+    country: "PE"
+    date-start: "2026-11-18"
+    date-end: "2026-11-20"
+  publisher:
+    name: "Springer"
+  year: 2026

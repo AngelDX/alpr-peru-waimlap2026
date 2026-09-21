@@ -1,0 +1,1846 @@
+valid/images/cam_1741804202.30845_0.8_(720, 1280, 3)_Z6N-084.jpg
+valid/images/cam_1741804202.30845_0.8_(720, 1280, 3)_Z6N-084.npy
+valid/images/cam_1742302443.8752928_0.77_(720, 1280, 3)_F2W-107.jpg
+valid/images/cam_1742302443.8752928_0.77_(720, 1280, 3)_F2W-107.npy
+valid/images/cam_1742561624.9584067_0.87_(720, 1280, 3)_DSN-004.jpg
+valid/images/cam_1742561624.9584067_0.87_(720, 1280, 3)_DSN-004.npy
+valid/images/cam_1742830765.9477131_0.94_(720, 1280, 3)_851-039.jpg
+valid/images/cam_1742830765.9477131_0.94_(720, 1280, 3)_851-039.npy
+valid/images/cam_1742832331.350247_0.92_(720, 1280, 3)_AVG-910.jpg
+valid/images/cam_1742832331.350247_0.92_(720, 1280, 3)_AVG-910.npy
+valid/images/cam_1742834738.6807194_0.88_(720, 1280, 3)_750-138.jpg
+valid/images/cam_1742834738.6807194_0.88_(720, 1280, 3)_750-138.npy
+valid/images/cam_1742836776.807477_0.91_(720, 1280, 3)_078-008.jpg
+valid/images/cam_1742836776.807477_0.91_(720, 1280, 3)_078-008.npy
+valid/images/cam_1742843131.675398_0.91_(720, 1280, 3)_VAO-856.jpg
+valid/images/cam_1742843131.675398_0.91_(720, 1280, 3)_VAO-856.npy
+valid/images/cam_1742849662.24472_0.91_(720, 1280, 3)_V8Q-331.jpg
+valid/images/cam_1742849662.24472_0.91_(720, 1280, 3)_V8Q-331.npy
+valid/images/cam_1742906578.95024_0.91_(720, 1280, 3)_V31-541.jpg
+valid/images/cam_1742906578.95024_0.91_(720, 1280, 3)_V31-541.npy
+valid/images/cam_1742907194.5696921_0.92_(720, 1280, 3)_A3K-956.jpg
+valid/images/cam_1742907194.5696921_0.92_(720, 1280, 3)_A3K-956.npy
+valid/images/cam_1742912821.7991507_0.91_(720, 1280, 3)_ABL-210.jpg
+valid/images/cam_1742912821.7991507_0.91_(720, 1280, 3)_ABL-210.npy
+valid/images/cam_1742914697.935575_0.92_(720, 1280, 3)_077-513.jpg
+valid/images/cam_1742914697.935575_0.92_(720, 1280, 3)_077-513.npy
+valid/images/cam_1742914767.4099114_0.93_(720, 1280, 3)_Z70-398.jpg
+valid/images/cam_1742914767.4099114_0.93_(720, 1280, 3)_Z70-398.npy
+valid/images/cam_1742992351.0902135_0.92_(720, 1280, 3)_Z7V-157.jpg
+valid/images/cam_1742992351.0902135_0.92_(720, 1280, 3)_Z7V-157.npy
+valid/images/cam_1742994764.1464515_0.92_(720, 1280, 3)_CFO-611.jpg
+valid/images/cam_1742994764.1464515_0.92_(720, 1280, 3)_CFO-611.npy
+valid/images/cam_1742999673.734723_0.93_(720, 1280, 3)_15B-065.jpg
+valid/images/cam_1742999673.734723_0.93_(720, 1280, 3)_15B-065.npy
+valid/images/cam_1743094684.8948429_0.91_(720, 1280, 3)_73F-906.jpg
+valid/images/cam_1743094684.8948429_0.91_(720, 1280, 3)_73F-906.npy
+valid/images/cam_1743098422.1774533_0.91_(720, 1280, 3)_18Q-740.jpg
+valid/images/cam_1743098422.1774533_0.91_(720, 1280, 3)_18Q-740.npy
+valid/images/cam_1743111743.2487376_0.92_(720, 1280, 3)_Z3X-059.jpg
+valid/images/cam_1743111743.2487376_0.92_(720, 1280, 3)_Z3X-059.npy
+valid/images/cam_1743165950.7437618_0.93_(720, 1280, 3)_AMS-223.jpg
+valid/images/cam_1743165950.7437618_0.93_(720, 1280, 3)_AMS-223.npy
+valid/images/cam_1743423018.3570375_0.91_(720, 1280, 3)_V1G-205.jpg
+valid/images/cam_1743423018.3570375_0.91_(720, 1280, 3)_V1G-205.npy
+valid/images/cam_1743443832.6207695_0.9_(720, 1280, 3)_VBP-956.jpg
+valid/images/cam_1743443832.6207695_0.9_(720, 1280, 3)_VBP-956.npy
+valid/images/cam_1743683797.5685346_0.9_(720, 1280, 3)_Z7N-761.jpg
+valid/images/cam_1743683797.5685346_0.9_(720, 1280, 3)_Z7N-761.npy
+valid/images/cam_1743771414.826907_0.9_(720, 1280, 3)_B6N-129.jpg
+valid/images/cam_1743771414.826907_0.9_(720, 1280, 3)_B6N-129.npy
+valid/images/cam_1743774943.2262154_0.92_(720, 1280, 3)_V71-247.jpg
+valid/images/cam_1743774943.2262154_0.92_(720, 1280, 3)_V71-247.npy
+valid/images/cam_1743879185.0983841_0.91_(720, 1280, 3)_Z6U-283.jpg
+valid/images/cam_1743879185.0983841_0.91_(720, 1280, 3)_Z6U-283.npy
+valid/images/cam_1743944596.5787888_0.9_(720, 1280, 3)_Z51-132.jpg
+valid/images/cam_1743944596.5787888_0.9_(720, 1280, 3)_Z51-132.npy
+valid/images/cam_1744116355.0008867_0.91_(720, 1280, 3)_ALE-200.jpg
+valid/images/cam_1744116355.0008867_0.91_(720, 1280, 3)_ALE-200.npy
+valid/images/cam_1744224554.8752906_0.91_(720, 1280, 3)_V5E-354.jpg
+valid/images/cam_1744224554.8752906_0.91_(720, 1280, 3)_V5E-354.npy
+valid/images/cam_1744229696.4491944_0.9_(720, 1280, 3)_BNV-692.jpg
+valid/images/cam_1744229696.4491944_0.9_(720, 1280, 3)_BNV-692.npy
+valid/images/cam_1744316736.1284666_0.91_(720, 1280, 3)_V41-439.jpg
+valid/images/cam_1744316736.1284666_0.91_(720, 1280, 3)_V41-439.npy
+valid/images/cam_1744397893.920123_0.9_(720, 1280, 3)_Z8R-940.jpg
+valid/images/cam_1744397893.920123_0.9_(720, 1280, 3)_Z8R-940.npy
+valid/images/cam_1744414403.9297721_0.9_(720, 1280, 3)_BFN-201.jpg
+valid/images/cam_1744414403.9297721_0.9_(720, 1280, 3)_BFN-201.npy
+valid/images/cam_1744554768.9085941_0.9_(720, 1280, 3)_Z7P-657.jpg
+valid/images/cam_1744554768.9085941_0.9_(720, 1280, 3)_Z7P-657.npy
+valid/images/cam_1744662142.8944125_0.9_(720, 1280, 3)_V8J-842.jpg
+valid/images/cam_1744662142.8944125_0.9_(720, 1280, 3)_V8J-842.npy
+valid/images/cam_1744662921.1028287_0.9_(720, 1280, 3)_J7C-217.jpg
+valid/images/cam_1744662921.1028287_0.9_(720, 1280, 3)_J7C-217.npy
+valid/images/cam_1744753886.6302335_0.9_(720, 1280, 3)_ANV-423.jpg
+valid/images/cam_1744753886.6302335_0.9_(720, 1280, 3)_ANV-423.npy
+valid/images/cam_1745238496.43135_0.91_(720, 1280, 3)_Z8Q-912.jpg
+valid/images/cam_1745238496.43135_0.91_(720, 1280, 3)_Z8Q-912.npy
+valid/images/cam_1745249351.737298_0.91_(720, 1280, 3)_Z47-211.jpg
+valid/images/cam_1745249351.737298_0.91_(720, 1280, 3)_Z47-211.npy
+valid/images/cam_1745271927.7121296_0.91_(720, 1280, 3)_VBH-729.jpg
+valid/images/cam_1745271927.7121296_0.91_(720, 1280, 3)_VBH-729.npy
+valid/images/cam_1745334567.4716082_0.91_(720, 1280, 3)_Z7Y-605.jpg
+valid/images/cam_1745334567.4716082_0.91_(720, 1280, 3)_Z7Y-605.npy
+valid/images/cam_1745412600.9100702_0.9_(720, 1280, 3)_CCZ-760.jpg
+valid/images/cam_1745412600.9100702_0.9_(720, 1280, 3)_CCZ-760.npy
+valid/images/cam_1745436218.5588267_0.9_(720, 1280, 3)_V3S-511.jpg
+valid/images/cam_1745436218.5588267_0.9_(720, 1280, 3)_V3S-511.npy
+valid/images/cam_1745505004.2398226_0.9_(720, 1280, 3)_Z6J-241.jpg
+valid/images/cam_1745505004.2398226_0.9_(720, 1280, 3)_Z6J-241.npy
+valid/images/cam_1745518615.9515314_0.9_(720, 1280, 3)_CKD-145.jpg
+valid/images/cam_1745518615.9515314_0.9_(720, 1280, 3)_CKD-145.npy
+valid/images/cam_1745843374.4539554_0.92_(720, 1280, 3)_VOL-802.jpg
+valid/images/cam_1745843374.4539554_0.92_(720, 1280, 3)_VOL-802.npy
+valid/images/cam_1745861146.0329406_0.9_(720, 1280, 3)_Z6L-217.jpg
+valid/images/cam_1745861146.0329406_0.9_(720, 1280, 3)_Z6L-217.npy
+valid/images/cam_1745957905.352945_0.9_(720, 1280, 3)_Z6H-909.jpg
+valid/images/cam_1745957905.352945_0.9_(720, 1280, 3)_Z6H-909.npy
+valid/images/cam_1746107217.6048167_0.9_(720, 1280, 3)_ACU-833.jpg
+valid/images/cam_1746107217.6048167_0.9_(720, 1280, 3)_ACU-833.npy
+valid/images/cam_1746131118.728567_0.9_(720, 1280, 3)_V8U-402.jpg
+valid/images/cam_1746131118.728567_0.9_(720, 1280, 3)_V8U-402.npy
+valid/images/cam_1746375957.2559018_0.92_(720, 1280, 3)_BBW-397.jpg
+valid/images/cam_1746375957.2559018_0.92_(720, 1280, 3)_BBW-397.npy
+valid/images/cam_1746388933.3815331_0.91_(720, 1280, 3)_CHH-339.jpg
+valid/images/cam_1746388933.3815331_0.91_(720, 1280, 3)_CHH-339.npy
+valid/images/cam_1746624379.5784097_0.9_(720, 1280, 3)_VDN-939.jpg
+valid/images/cam_1746624379.5784097_0.9_(720, 1280, 3)_VDN-939.npy
+valid/images/cam_1746733407.222897_0.91_(720, 1280, 3)_V7V-535.jpg
+valid/images/cam_1746733407.222897_0.91_(720, 1280, 3)_V7V-535.npy
+valid/images/cam_1746800165.0578268_0.91_(720, 1280, 3)_AEN-346.jpg
+valid/images/cam_1746800165.0578268_0.91_(720, 1280, 3)_AEN-346.npy
+valid/images/cam_1747139470.3775625_0.91_(720, 1280, 3)_Z7C-753.jpg
+valid/images/cam_1747139470.3775625_0.91_(720, 1280, 3)_Z7C-753.npy
+valid/images/cam_1747154632.943452_0.9_(720, 1280, 3)_Z6N-679.jpg
+valid/images/cam_1747154632.943452_0.9_(720, 1280, 3)_Z6N-679.npy
+valid/images/cam_1747194480.022339_0.9_(720, 1280, 3)_V4N-106.jpg
+valid/images/cam_1747194480.022339_0.9_(720, 1280, 3)_V4N-106.npy
+valid/images/cam_1747321052.494226_0.9_(720, 1280, 3)_Z8A-791.jpg
+valid/images/cam_1747321052.494226_0.9_(720, 1280, 3)_Z8A-791.npy
+valid/images/cam_1747409374.2207308_0.9_(720, 1280, 3)_Z2Z-000.jpg
+valid/images/cam_1747409374.2207308_0.9_(720, 1280, 3)_Z2Z-000.npy
+valid/images/cam_1747523358.5529609_0.9_(720, 1280, 3)_x2u-686.jpg
+valid/images/cam_1747523358.5529609_0.9_(720, 1280, 3)_x2u-686.npy
+valid/images/cam_1747745552.9066133_0.9_(720, 1280, 3)_Z7W-388.jpg
+valid/images/cam_1747745552.9066133_0.9_(720, 1280, 3)_Z7W-388.npy
+valid/images/cam_1747767103.674234_0.91_(720, 1280, 3)_F41-288.jpg
+valid/images/cam_1747767103.674234_0.91_(720, 1280, 3)_F41-288.npy
+valid/images/cam_1747920426.9591916_0.9_(720, 1280, 3)_16S-321.jpg
+valid/images/cam_1747920426.9591916_0.9_(720, 1280, 3)_16S-321.npy
+valid/images/cam_1748006103.3513129_0.9_(720, 1280, 3)_Z1B-643.jpg
+valid/images/cam_1748006103.3513129_0.9_(720, 1280, 3)_Z1B-643.npy
+valid/images/cam_1748261723.2618818_0.9_(720, 1280, 3)_AHC-330.jpg
+valid/images/cam_1748261723.2618818_0.9_(720, 1280, 3)_AHC-330.npy
+valid/images/cam_1748523751.6443179_0.9_(720, 1280, 3)_Z60-939.jpg
+valid/images/cam_1748523751.6443179_0.9_(720, 1280, 3)_Z60-939.npy
+valid/images/cam_1748555698.487967_0.9_(720, 1280, 3)_1SU-240.jpg
+valid/images/cam_1748555698.487967_0.9_(720, 1280, 3)_1SU-240.npy
+valid/images/cam_1748621141.416791_0.91_(720, 1280, 3)_X3P-675.jpg
+valid/images/cam_1748621141.416791_0.91_(720, 1280, 3)_X3P-675.npy
+valid/images/cam_1748627737.211884_0.9_(720, 1280, 3)_Z7C-220.jpg
+valid/images/cam_1748627737.211884_0.9_(720, 1280, 3)_Z7C-220.npy
+valid/images/cam_1748819297.6945217_0.9_(720, 1280, 3)_BEQ-318.jpg
+valid/images/cam_1748819297.6945217_0.9_(720, 1280, 3)_BEQ-318.npy
+valid/images/cam_1748866521.8344855_0.91_(720, 1280, 3)_Z5K-305.jpg
+valid/images/cam_1748866521.8344855_0.91_(720, 1280, 3)_Z5K-305.npy
+valid/images/cam_1748986307.0328991_0.9_(720, 1280, 3)_418-533.jpg
+valid/images/cam_1748986307.0328991_0.9_(720, 1280, 3)_418-533.npy
+valid/images/cam_1749049113.8891108_0.9_(720, 1280, 3)_AZC-216.jpg
+valid/images/cam_1749049113.8891108_0.9_(720, 1280, 3)_AZC-216.npy
+valid/images/cam_1749049521.100651_0.9_(720, 1280, 3)_Y1Q-669.jpg
+valid/images/cam_1749049521.100651_0.9_(720, 1280, 3)_Y1Q-669.npy
+valid/images/cam_1749127199.3044178_0.9_(720, 1280, 3)_BOT-442.jpg
+valid/images/cam_1749127199.3044178_0.9_(720, 1280, 3)_BOT-442.npy
+valid/images/cam_1749147409.4019842_0.9_(720, 1280, 3)_H2C-450.jpg
+valid/images/cam_1749147409.4019842_0.9_(720, 1280, 3)_H2C-450.npy
+valid/images/cam_1749151041.9740858_0.91_(720, 1280, 3)_Z3K-491.jpg
+valid/images/cam_1749151041.9740858_0.91_(720, 1280, 3)_Z3K-491.npy
+valid/images/cam_1749329233.8055553_0.9_(720, 1280, 3)_BRX-486.jpg
+valid/images/cam_1749329233.8055553_0.9_(720, 1280, 3)_BRX-486.npy
+valid/images/cam_1749332480.3658266_0.9_(720, 1280, 3)_F6C-818.jpg
+valid/images/cam_1749332480.3658266_0.9_(720, 1280, 3)_F6C-818.npy
+valid/images/cam_1749397097.5991843_0.92_(720, 1280, 3)_Z7H-689.jpg
+valid/images/cam_1749397097.5991843_0.92_(720, 1280, 3)_Z7H-689.npy
+valid/images/cam_1749403454.0650558_0.91_(720, 1280, 3)_CCT-373.jpg
+valid/images/cam_1749403454.0650558_0.91_(720, 1280, 3)_CCT-373.npy
+valid/images/cam_1749502708.0621908_0.9_(720, 1280, 3)_Z7P-949.jpg
+valid/images/cam_1749502708.0621908_0.9_(720, 1280, 3)_Z7P-949.npy
+valid/images/cam_1749578893.5455883_0.91_(720, 1280, 3)_Z6Q-965.jpg
+valid/images/cam_1749578893.5455883_0.91_(720, 1280, 3)_Z6Q-965.npy
+valid/images/cam_1749666234.0637088_0.91_(720, 1280, 3)_V7K-270.jpg
+valid/images/cam_1749666234.0637088_0.91_(720, 1280, 3)_V7K-270.npy
+valid/images/cam_1749750749.5448115_0.91_(720, 1280, 3)_BLC-775.jpg
+valid/images/cam_1749750749.5448115_0.91_(720, 1280, 3)_BLC-775.npy
+valid/images/cam_1749817586.0341582_0.9_(720, 1280, 3)_C7Q-094.jpg
+valid/images/cam_1749817586.0341582_0.9_(720, 1280, 3)_C7Q-094.npy
+valid/images/cam_1749824976.6078742_0.9_(720, 1280, 3)_IAN-256.jpg
+valid/images/cam_1749824976.6078742_0.9_(720, 1280, 3)_IAN-256.npy
+valid/images/cam_1749825295.1412659_0.9_(720, 1280, 3)_Z4Y-234.jpg
+valid/images/cam_1749825295.1412659_0.9_(720, 1280, 3)_Z4Y-234.npy
+valid/images/cam_1749840286.233195_0.92_(720, 1280, 3)_VBQ-502.jpg
+valid/images/cam_1749840286.233195_0.92_(720, 1280, 3)_VBQ-502.npy
+valid/images/cam_1749849834.0513837_0.9_(720, 1280, 3)_267-477.jpg
+valid/images/cam_1749849834.0513837_0.9_(720, 1280, 3)_267-477.npy
+valid/images/cam_1750020708.0768497_0.9_(720, 1280, 3)_F1A-889.jpg
+valid/images/cam_1750020708.0768497_0.9_(720, 1280, 3)_F1A-889.npy
+valid/images/cam_1750162835.803059_0.91_(720, 1280, 3)_CCS-150.jpg
+valid/images/cam_1750162835.803059_0.91_(720, 1280, 3)_CCS-150.npy
+valid/images/cam_1750257818.4276938_0.9_(720, 1280, 3)_VOT-540.jpg
+valid/images/cam_1750257818.4276938_0.9_(720, 1280, 3)_VOT-540.npy
+valid/images/cam_1750270091.7150044_0.9_(720, 1280, 3)_Z3L-206.jpg
+valid/images/cam_1750270091.7150044_0.9_(720, 1280, 3)_Z3L-206.npy
+valid/images/cam_1750335243.447848_0.9_(720, 1280, 3)_BCI-136.jpg
+valid/images/cam_1750335243.447848_0.9_(720, 1280, 3)_BCI-136.npy
+valid/images/cam_1750352636.308977_0.9_(720, 1280, 3)_82U-790.jpg
+valid/images/cam_1750352636.308977_0.9_(720, 1280, 3)_82U-790.npy
+valid/images/cam_1750427721.065279_0.9_(720, 1280, 3)_14W-606.jpg
+valid/images/cam_1750427721.065279_0.9_(720, 1280, 3)_14W-606.npy
+valid/images/cam_1750767536.5214524_0.91_(720, 1280, 3)_BHJ-854.jpg
+valid/images/cam_1750767536.5214524_0.91_(720, 1280, 3)_BHJ-854.npy
+valid/images/cam_1750878911.8489058_0.9_(720, 1280, 3)_Z6P-657.jpg
+valid/images/cam_1750878911.8489058_0.9_(720, 1280, 3)_Z6P-657.npy
+valid/images/cam_1751048119.234271_0.9_(720, 1280, 3)_DOI-475.jpg
+valid/images/cam_1751048119.234271_0.9_(720, 1280, 3)_DOI-475.npy
+valid/images/cam_1751284718.4877672_0.9_(720, 1280, 3)_VAD-569.jpg
+valid/images/cam_1751284718.4877672_0.9_(720, 1280, 3)_VAD-569.npy
+valid/images/cam_1751402523.3456347_0.91_(720, 1280, 3)_X4U-396.jpg
+valid/images/cam_1751402523.3456347_0.91_(720, 1280, 3)_X4U-396.npy
+valid/images/cam_1751403360.8161523_0.9_(720, 1280, 3)_Z2R-908.jpg
+valid/images/cam_1751403360.8161523_0.9_(720, 1280, 3)_Z2R-908.npy
+valid/images/cam_1751471678.054226_0.9_(720, 1280, 3)_V7V-230.jpg
+valid/images/cam_1751471678.054226_0.9_(720, 1280, 3)_V7V-230.npy
+valid/images/cam_1751478681.378856_0.91_(720, 1280, 3)_D3M-795.jpg
+valid/images/cam_1751478681.378856_0.91_(720, 1280, 3)_D3M-795.npy
+valid/images/cam_1751571840.063249_0.92_(720, 1280, 3)_A9C-000.jpg
+valid/images/cam_1751571840.063249_0.92_(720, 1280, 3)_A9C-000.npy
+valid/images/cam_1751657179.9274967_0.91_(720, 1280, 3)_X3G-219.jpg
+valid/images/cam_1751657179.9274967_0.91_(720, 1280, 3)_X3G-219.npy
+valid/images/cam_1751918762.9059176_0.9_(720, 1280, 3)_X2A-753.jpg
+valid/images/cam_1751918762.9059176_0.9_(720, 1280, 3)_X2A-753.npy
+valid/images/cam_1752001867.1267433_0.91_(720, 1280, 3)_X4F-140.jpg
+valid/images/cam_1752001867.1267433_0.91_(720, 1280, 3)_X4F-140.npy
+valid/images/cam_1752071644.0496607_0.9_(720, 1280, 3)_ASV-923.jpg
+valid/images/cam_1752071644.0496607_0.9_(720, 1280, 3)_ASV-923.npy
+valid/images/cam_1752154299.1986976_0.92_(720, 1280, 3)_AAP-545.jpg
+valid/images/cam_1752154299.1986976_0.92_(720, 1280, 3)_AAP-545.npy
+valid/images/cam_1752163383.2768435_0.9_(720, 1280, 3)_718-643.jpg
+valid/images/cam_1752163383.2768435_0.9_(720, 1280, 3)_718-643.npy
+valid/images/cam_1752409857.7007058_0.9_(720, 1280, 3)_D6K-966.jpg
+valid/images/cam_1752409857.7007058_0.9_(720, 1280, 3)_D6K-966.npy
+valid/images/cam_1752412959.5294595_0.9_(720, 1280, 3)_AYP-511.jpg
+valid/images/cam_1752412959.5294595_0.9_(720, 1280, 3)_AYP-511.npy
+valid/images/cam_1752416883.0785277_0.9_(720, 1280, 3)_VBH-372.jpg
+valid/images/cam_1752416883.0785277_0.9_(720, 1280, 3)_VBH-372.npy
+valid/images/cam_1752584783.0570555_0.9_(720, 1280, 3)_BAH-150.jpg
+valid/images/cam_1752584783.0570555_0.9_(720, 1280, 3)_BAH-150.npy
+valid/images/cam_1752585441.2963166_0.9_(720, 1280, 3)_D7R-805.jpg
+valid/images/cam_1752585441.2963166_0.9_(720, 1280, 3)_D7R-805.npy
+valid/images/cam_1752595546.3797965_0.9_(720, 1280, 3)_ANJ-150.jpg
+valid/images/cam_1752595546.3797965_0.9_(720, 1280, 3)_ANJ-150.npy
+valid/images/cam_1752607374.019433_0.92_(720, 1280, 3)_BUZ-594.jpg
+valid/images/cam_1752607374.019433_0.92_(720, 1280, 3)_BUZ-594.npy
+valid/images/cam_1752672737.9127226_0.9_(720, 1280, 3)_710-278.jpg
+valid/images/cam_1752672737.9127226_0.9_(720, 1280, 3)_710-278.npy
+valid/images/cam_1752757821.5758288_0.9_(720, 1280, 3)_VOC-162.jpg
+valid/images/cam_1752757821.5758288_0.9_(720, 1280, 3)_VOC-162.npy
+valid/images/cam_1752775260.8890257_0.9_(720, 1280, 3)_D9V-013.jpg
+valid/images/cam_1752775260.8890257_0.9_(720, 1280, 3)_D9V-013.npy
+valid/images/cam_1752785350.2544239_0.91_(720, 1280, 3)_AWT-143.jpg
+valid/images/cam_1752785350.2544239_0.91_(720, 1280, 3)_AWT-143.npy
+valid/images/cam_1752853359.462701_0.9_(720, 1280, 3)_Z6U-802.jpg
+valid/images/cam_1752853359.462701_0.9_(720, 1280, 3)_Z6U-802.npy
+valid/images/cam_1752927856.4269218_0.9_(720, 1280, 3)_X3S-559.jpg
+valid/images/cam_1752927856.4269218_0.9_(720, 1280, 3)_X3S-559.npy
+valid/images/cam_1753023439.02717_0.9_(720, 1280, 3)_X1R-612.jpg
+valid/images/cam_1753023439.02717_0.9_(720, 1280, 3)_X1R-612.npy
+valid/images/cam_1753028440.0170906_0.9_(720, 1280, 3)_Z2D-926.jpg
+valid/images/cam_1753028440.0170906_0.9_(720, 1280, 3)_Z2D-926.npy
+valid/images/cam_1753112827.4556782_0.91_(720, 1280, 3)_BOS-888.jpg
+valid/images/cam_1753112827.4556782_0.91_(720, 1280, 3)_BOS-888.npy
+valid/images/cam_1753128188.1975625_0.91_(720, 1280, 3)_VOM-230.jpg
+valid/images/cam_1753128188.1975625_0.91_(720, 1280, 3)_VOM-230.npy
+valid/images/cam_1753203626.7212758_0.9_(720, 1280, 3)_Z6X-849.jpg
+valid/images/cam_1753203626.7212758_0.9_(720, 1280, 3)_Z6X-849.npy
+valid/images/cam_1753382889.4117448_0.91_(720, 1280, 3)_Z1X-230.jpg
+valid/images/cam_1753382889.4117448_0.91_(720, 1280, 3)_Z1X-230.npy
+valid/images/cam_1753884172.276519_0.91_(720, 1280, 3)_B6V-451.jpg
+valid/images/cam_1753884172.276519_0.91_(720, 1280, 3)_B6V-451.npy
+valid/images/cam_1753994443.0054355_0.9_(720, 1280, 3)_X4R-655.jpg
+valid/images/cam_1753994443.0054355_0.9_(720, 1280, 3)_X4R-655.npy
+valid/images/cam_1754066452.3062212_0.9_(720, 1280, 3)_A6L-945.jpg
+valid/images/cam_1754066452.3062212_0.9_(720, 1280, 3)_A6L-945.npy
+valid/images/cam_1754748659.1873214_0.91_(720, 1280, 3)_Z8F-922.jpg
+valid/images/cam_1754748659.1873214_0.91_(720, 1280, 3)_Z8F-922.npy
+valid/images/cam_1755001977.0088758_0.9_(720, 1280, 3)_CDK-359.jpg
+valid/images/cam_1755001977.0088758_0.9_(720, 1280, 3)_CDK-359.npy
+valid/images/cam_1755032333.727921_0.9_(720, 1280, 3)_Z4R-569.jpg
+valid/images/cam_1755032333.727921_0.9_(720, 1280, 3)_Z4R-569.npy
+valid/images/cam_1755090189.398347_0.9_(720, 1280, 3)_X5T-443.jpg
+valid/images/cam_1755090189.398347_0.9_(720, 1280, 3)_X5T-443.npy
+valid/images/cam_1755172961.4685924_0.9_(720, 1280, 3)_Z7L-711.jpg
+valid/images/cam_1755172961.4685924_0.9_(720, 1280, 3)_Z7L-711.npy
+valid/images/cam_1755174644.5839067_0.9_(720, 1280, 3)_VON-543.jpg
+valid/images/cam_1755174644.5839067_0.9_(720, 1280, 3)_VON-543.npy
+valid/images/cam_1755185233.864787_0.9_(720, 1280, 3)_Z8G-773.jpg
+valid/images/cam_1755185233.864787_0.9_(720, 1280, 3)_Z8G-773.npy
+valid/images/cam_1755283714.3676488_0.9_(720, 1280, 3)_44M-405.jpg
+valid/images/cam_1755283714.3676488_0.9_(720, 1280, 3)_44M-405.npy
+valid/images/cam_1755868058_0.91_(720, 1280, 3)_72Y-720.jpg
+valid/images/cam_1755868058_0.91_(720, 1280, 3)_72Y-720.npy
+valid/images/cam_1755978431_0.91_(720, 1280, 3)_75F-628.jpg
+valid/images/cam_1755978431_0.91_(720, 1280, 3)_75F-628.npy
+valid/images/cam_1756042538_0.91_(720, 1280, 3)_V4U-293.jpg
+valid/images/cam_1756042538_0.91_(720, 1280, 3)_V4U-293.npy
+valid/images/cam_1756042634_0.91_(720, 1280, 3)_V8K-538.jpg
+valid/images/cam_1756042634_0.91_(720, 1280, 3)_V8K-538.npy
+valid/images/cam_1756045926_0.9_(720, 1280, 3)_Z8B-400.jpg
+valid/images/cam_1756045926_0.9_(720, 1280, 3)_Z8B-400.npy
+valid/images/cam_1756048431_0.91_(720, 1280, 3)_Z7H-894.jpg
+valid/images/cam_1756048431_0.91_(720, 1280, 3)_Z7H-894.npy
+valid/images/cam_1756055782_0.91_(720, 1280, 3)_Z6B-613.jpg
+valid/images/cam_1756055782_0.91_(720, 1280, 3)_Z6B-613.npy
+valid/images/cam_1756226050_0.9_(720, 1280, 3)_E9T-648.jpg
+valid/images/cam_1756226050_0.9_(720, 1280, 3)_E9T-648.npy
+valid/images/cam_1756231363_0.91_(720, 1280, 3)_X1Q-631.jpg
+valid/images/cam_1756231363_0.91_(720, 1280, 3)_X1Q-631.npy
+valid/images/cam_1756320628_0.9_(720, 1280, 3)_J0H-936.jpg
+valid/images/cam_1756320628_0.9_(720, 1280, 3)_J0H-936.npy
+valid/images/cam_1756325239_0.9_(720, 1280, 3)_171-419.jpg
+valid/images/cam_1756325239_0.9_(720, 1280, 3)_171-419.npy
+valid/images/cam_1756481202_0.9_(720, 1280, 3)_X2L-007.jpg
+valid/images/cam_1756481202_0.9_(720, 1280, 3)_X2L-007.npy
+valid/images/cam_1756490259_0.9_(720, 1280, 3)_V3T-415.jpg
+valid/images/cam_1756490259_0.9_(720, 1280, 3)_V3T-415.npy
+valid/images/cam_1756497706_0.91_(720, 1280, 3)_Z51-510.jpg
+valid/images/cam_1756497706_0.91_(720, 1280, 3)_Z51-510.npy
+valid/images/cam_1756574202_0.9_(720, 1280, 3)_Z8B-538.jpg
+valid/images/cam_1756574202_0.9_(720, 1280, 3)_Z8B-538.npy
+valid/images/cam_1756930272_0.9_(720, 1280, 3)_606-H9Z.jpg
+valid/images/cam_1756930272_0.9_(720, 1280, 3)_606-H9Z.npy
+valid/images/cam_1757010544_0.91_(720, 1280, 3)_Z2S-181.jpg
+valid/images/cam_1757010544_0.91_(720, 1280, 3)_Z2S-181.npy
+valid/images/cam_1757018812_0.9_(720, 1280, 3)_VAW-267.jpg
+valid/images/cam_1757018812_0.9_(720, 1280, 3)_VAW-267.npy
+valid/images/cam_1757098895_0.9_(720, 1280, 3)_Z5Q-100.jpg
+valid/images/cam_1757098895_0.9_(720, 1280, 3)_Z5Q-100.npy
+valid/images/cam_1757161200_0.9_(720, 1280, 3)_Z21-881.jpg
+valid/images/cam_1757161200_0.9_(720, 1280, 3)_Z21-881.npy
+valid/images/cam_1757163702_0.9_(720, 1280, 3)_C7G-175.jpg
+valid/images/cam_1757163702_0.9_(720, 1280, 3)_C7G-175.npy
+valid/images/cam_1757173738_0.91_(720, 1280, 3)_X1V-676.jpg
+valid/images/cam_1757173738_0.91_(720, 1280, 3)_X1V-676.npy
+valid/images/cam_1757280226_0.91_(720, 1280, 3)_V9W-862.jpg
+valid/images/cam_1757280226_0.91_(720, 1280, 3)_V9W-862.npy
+valid/images/cam_1757342611_0.9_(720, 1280, 3)_Z6S-074.jpg
+valid/images/cam_1757342611_0.9_(720, 1280, 3)_Z6S-074.npy
+valid/images/cam_1757356561_0.91_(720, 1280, 3)_RKM-032.jpg
+valid/images/cam_1757356561_0.91_(720, 1280, 3)_RKM-032.npy
+valid/images/cam_1757508854_0.92_(720, 1280, 3)_V8F-325.jpg
+valid/images/cam_1757508854_0.92_(720, 1280, 3)_V8F-325.npy
+valid/images/cam_1757534280_0.91_(720, 1280, 3)_X7Q-953.jpg
+valid/images/cam_1757534280_0.91_(720, 1280, 3)_X7Q-953.npy
+valid/images/cam_1757536137_0.91_(720, 1280, 3)_Y1D-008.jpg
+valid/images/cam_1757536137_0.91_(720, 1280, 3)_Y1D-008.npy
+valid/images/cam_1757698523_0.92_(720, 1280, 3)_Z4M-319.jpg
+valid/images/cam_1757698523_0.92_(720, 1280, 3)_Z4M-319.npy
+valid/images/cam_1757769817_0.9_(720, 1280, 3)_Z2K-944.jpg
+valid/images/cam_1757769817_0.9_(720, 1280, 3)_Z2K-944.npy
+valid/images/cam_1757791472_0.92_(720, 1280, 3)_W5F-368.jpg
+valid/images/cam_1757791472_0.92_(720, 1280, 3)_W5F-368.npy
+valid/images/cam_1757792526_0.92_(720, 1280, 3)_Y1B-618.jpg
+valid/images/cam_1757792526_0.92_(720, 1280, 3)_Y1B-618.npy
+valid/images/cam_1757855841_0.91_(720, 1280, 3)_V7U-519.jpg
+valid/images/cam_1757855841_0.91_(720, 1280, 3)_V7U-519.npy
+valid/images/cam_1757949024_0.92_(720, 1280, 3)_V2V-904.jpg
+valid/images/cam_1757949024_0.92_(720, 1280, 3)_V2V-904.npy
+valid/images/cam_1758027909_0.93_(720, 1280, 3)_AXW-752.jpg
+valid/images/cam_1758027909_0.93_(720, 1280, 3)_AXW-752.npy
+valid/images/cam_1758111763_0.93_(720, 1280, 3)_C4U-559.jpg
+valid/images/cam_1758111763_0.93_(720, 1280, 3)_C4U-559.npy
+valid/images/cam_1758132684_0.92_(720, 1280, 3)_AWD-551.jpg
+valid/images/cam_1758132684_0.92_(720, 1280, 3)_AWD-551.npy
+valid/images/cam_1758160039_0.93_(720, 1280, 3)_C1S-762.jpg
+valid/images/cam_1758160039_0.93_(720, 1280, 3)_C1S-762.npy
+valid/images/cam_1758199160_0.93_(720, 1280, 3)_74Q-203.jpg
+valid/images/cam_1758199160_0.93_(720, 1280, 3)_74Q-203.npy
+valid/images/cam_1758201376_0.93_(720, 1280, 3)_BEU-943.jpg
+valid/images/cam_1758201376_0.93_(720, 1280, 3)_BEU-943.npy
+valid/images/cam_1758286404_0.93_(720, 1280, 3)_IOT-143.jpg
+valid/images/cam_1758286404_0.93_(720, 1280, 3)_IOT-143.npy
+valid/images/cam_1758369382_0.94_(720, 1280, 3)_Z61-393.jpg
+valid/images/cam_1758369382_0.94_(720, 1280, 3)_Z61-393.npy
+valid/images/cam_1758374293_0.93_(720, 1280, 3)_147-716.jpg
+valid/images/cam_1758374293_0.93_(720, 1280, 3)_147-716.npy
+valid/images/cam_1758377014_0.93_(720, 1280, 3)_773-533.jpg
+valid/images/cam_1758377014_0.93_(720, 1280, 3)_773-533.npy
+valid/images/cam_1758378584_0.93_(720, 1280, 3)_V5N-499.jpg
+valid/images/cam_1758378584_0.93_(720, 1280, 3)_V5N-499.npy
+valid/images/cam_1758379184_0.92_(720, 1280, 3)_X5K-542.jpg
+valid/images/cam_1758379184_0.92_(720, 1280, 3)_X5K-542.npy
+valid/images/cam_1758388784_0.93_(720, 1280, 3)_E3E-226.jpg
+valid/images/cam_1758388784_0.93_(720, 1280, 3)_E3E-226.npy
+valid/images/cam_1758389226_0.91_(720, 1280, 3)_X7V-950.jpg
+valid/images/cam_1758389226_0.91_(720, 1280, 3)_X7V-950.npy
+valid/images/cam_1758391507_0.92_(720, 1280, 3)_Z7P-690.jpg
+valid/images/cam_1758391507_0.92_(720, 1280, 3)_Z7P-690.npy
+valid/images/cam_1758391511_0.93_(720, 1280, 3)_Z7X-555.jpg
+valid/images/cam_1758391511_0.93_(720, 1280, 3)_Z7X-555.npy
+valid/images/cam_1758459064_0.93_(720, 1280, 3)_Z5Q-497.jpg
+valid/images/cam_1758459064_0.93_(720, 1280, 3)_Z5Q-497.npy
+valid/images/cam_1758463430_0.93_(720, 1280, 3)_Z6T-420.jpg
+valid/images/cam_1758463430_0.93_(720, 1280, 3)_Z6T-420.npy
+valid/images/cam_1758463890_0.93_(720, 1280, 3)_8LI-799.jpg
+valid/images/cam_1758463890_0.93_(720, 1280, 3)_8LI-799.npy
+valid/images/cam_1758467205_0.93_(720, 1280, 3)_Z5A-950.jpg
+valid/images/cam_1758467205_0.93_(720, 1280, 3)_Z5A-950.npy
+valid/images/cam_1758468230_0.95_(720, 1280, 3)_Y4X-224.jpg
+valid/images/cam_1758468230_0.95_(720, 1280, 3)_Y4X-224.npy
+valid/images/cam_1758473727_0.92_(720, 1280, 3)_BYH-808.jpg
+valid/images/cam_1758473727_0.92_(720, 1280, 3)_BYH-808.npy
+valid/images/cam_1758974249_0.94_(720, 1280, 3)_Z2Z-585.jpg
+valid/images/cam_1758974249_0.94_(720, 1280, 3)_Z2Z-585.npy
+valid/images/cam_1758974260_0.92_(720, 1280, 3)_727-585.jpg
+valid/images/cam_1758974260_0.92_(720, 1280, 3)_727-585.npy
+valid/images/cam_1758979489_0.93_(720, 1280, 3)_72X-404.jpg
+valid/images/cam_1758979489_0.93_(720, 1280, 3)_72X-404.npy
+valid/images/cam_1759091993_0.91_(720, 1280, 3)_Z6Y-512.jpg
+valid/images/cam_1759091993_0.91_(720, 1280, 3)_Z6Y-512.npy
+valid/images/cam_1759175386_0.93_(720, 1280, 3)_Z8N-714.jpg
+valid/images/cam_1759175386_0.93_(720, 1280, 3)_Z8N-714.npy
+valid/images/cam_1759175617_0.93_(720, 1280, 3)_022-795.jpg
+valid/images/cam_1759175617_0.93_(720, 1280, 3)_022-795.npy
+valid/images/cam_1759182216_0.92_(720, 1280, 3)_H2Z-471.jpg
+valid/images/cam_1759182216_0.92_(720, 1280, 3)_H2Z-471.npy
+valid/images/cam_1759237386_0.91_(720, 1280, 3)_A5P-712.jpg
+valid/images/cam_1759237386_0.91_(720, 1280, 3)_A5P-712.npy
+valid/images/cam_1759237800_0.9_(720, 1280, 3)_Z13-755.jpg
+valid/images/cam_1759237800_0.9_(720, 1280, 3)_Z13-755.npy
+valid/images/cam_1759258319_0.93_(720, 1280, 3)_C7Y-462.jpg
+valid/images/cam_1759258319_0.93_(720, 1280, 3)_C7Y-462.npy
+valid/images/cam_1759323993_0.92_(720, 1280, 3)_Z5M-669.jpg
+valid/images/cam_1759323993_0.92_(720, 1280, 3)_Z5M-669.npy
+valid/images/cam_1759324449_0.93_(720, 1280, 3)_61B-772.jpg
+valid/images/cam_1759324449_0.93_(720, 1280, 3)_61B-772.npy
+valid/images/cam_1759325534_0.92_(720, 1280, 3)_W2L-711.jpg
+valid/images/cam_1759325534_0.92_(720, 1280, 3)_W2L-711.npy
+valid/images/cam_1759328243_0.94_(720, 1280, 3)_72P-512.jpg
+valid/images/cam_1759328243_0.94_(720, 1280, 3)_72P-512.npy
+valid/images/cam_1759343846_0.91_(720, 1280, 3)_AZE-479.jpg
+valid/images/cam_1759343846_0.91_(720, 1280, 3)_AZE-479.npy
+valid/images/cam_1759349968_0.92_(720, 1280, 3)_36E-589.jpg
+valid/images/cam_1759349968_0.92_(720, 1280, 3)_36E-589.npy
+valid/images/cam_1759353392_0.93_(720, 1280, 3)_Z3Z-716.jpg
+valid/images/cam_1759353392_0.93_(720, 1280, 3)_Z3Z-716.npy
+valid/images/cam_1759354663_0.92_(720, 1280, 3)_016-202.jpg
+valid/images/cam_1759354663_0.92_(720, 1280, 3)_016-202.npy
+valid/images/cam_1759355252_0.91_(720, 1280, 3)_Z5D-845.jpg
+valid/images/cam_1759355252_0.91_(720, 1280, 3)_Z5D-845.npy
+valid/images/cam_1759424887_0.93_(720, 1280, 3)_009-342.jpg
+valid/images/cam_1759424887_0.93_(720, 1280, 3)_009-342.npy
+valid/images/cam_1759428849_0.91_(720, 1280, 3)_Z7S-884.jpg
+valid/images/cam_1759428849_0.91_(720, 1280, 3)_Z7S-884.npy
+valid/images/cam_1759433001_0.92_(720, 1280, 3)_F9V-303.jpg
+valid/images/cam_1759433001_0.92_(720, 1280, 3)_F9V-303.npy
+valid/images/cam_1759498025_0.93_(720, 1280, 3)_813-851.jpg
+valid/images/cam_1759498025_0.93_(720, 1280, 3)_813-851.npy
+valid/images/cam_1759511829_0.91_(720, 1280, 3)_U70-947.jpg
+valid/images/cam_1759511829_0.91_(720, 1280, 3)_U70-947.npy
+valid/images/cam_1759527528_0.93_(720, 1280, 3)_AKT-126.jpg
+valid/images/cam_1759527528_0.93_(720, 1280, 3)_AKT-126.npy
+valid/images/cam_1759768190_0.91_(720, 1280, 3)_188-860.jpg
+valid/images/cam_1759768190_0.91_(720, 1280, 3)_188-860.npy
+valid/images/cam_1759772917_0.93_(720, 1280, 3)_75L-517.jpg
+valid/images/cam_1759772917_0.93_(720, 1280, 3)_75L-517.npy
+valid/images/cam_1759778969_0.93_(720, 1280, 3)_J6F-093.jpg
+valid/images/cam_1759778969_0.93_(720, 1280, 3)_J6F-093.npy
+valid/images/cam_1759788538_0.92_(720, 1280, 3)_13M-155.jpg
+valid/images/cam_1759788538_0.92_(720, 1280, 3)_13M-155.npy
+valid/images/cam_1759791776_0.91_(720, 1280, 3)_NOB-337.jpg
+valid/images/cam_1759791776_0.91_(720, 1280, 3)_NOB-337.npy
+valid/images/cam_1759863498_0.93_(720, 1280, 3)_CPR-605.jpg
+valid/images/cam_1759863498_0.93_(720, 1280, 3)_CPR-605.npy
+valid/images/cam_1759946363_0.92_(720, 1280, 3)_Z7C-199.jpg
+valid/images/cam_1759946363_0.92_(720, 1280, 3)_Z7C-199.npy
+valid/images/cam_1760103925_0.93_(720, 1280, 3)_Z6M-872.jpg
+valid/images/cam_1760103925_0.93_(720, 1280, 3)_Z6M-872.npy
+valid/images/cam_1760105712_0.91_(720, 1280, 3)_140-779.jpg
+valid/images/cam_1760105712_0.91_(720, 1280, 3)_140-779.npy
+valid/images/cam_1760107652_0.93_(720, 1280, 3)_Y1L-765.jpg
+valid/images/cam_1760107652_0.93_(720, 1280, 3)_Y1L-765.npy
+valid/images/cam_1760192960_0.94_(720, 1280, 3)_LVF-076.jpg
+valid/images/cam_1760192960_0.94_(720, 1280, 3)_LVF-076.npy
+valid/images/cam_1760274440_0.92_(720, 1280, 3)_FDE-903.jpg
+valid/images/cam_1760274440_0.92_(720, 1280, 3)_FDE-903.npy
+valid/images/cam_1760277727_0.93_(720, 1280, 3)_IAF-495.jpg
+valid/images/cam_1760277727_0.93_(720, 1280, 3)_IAF-495.npy
+valid/images/cam_1760293793_0.93_(720, 1280, 3)_Z7G-842.jpg
+valid/images/cam_1760293793_0.93_(720, 1280, 3)_Z7G-842.npy
+valid/images/cam_1760358425_0.92_(720, 1280, 3)_Z3V-137.jpg
+valid/images/cam_1760358425_0.92_(720, 1280, 3)_Z3V-137.npy
+valid/images/cam_1760360348_0.92_(720, 1280, 3)_76A-411.jpg
+valid/images/cam_1760360348_0.92_(720, 1280, 3)_76A-411.npy
+valid/images/cam_1760559262_0.93_(720, 1280, 3)_J1Y-819.jpg
+valid/images/cam_1760559262_0.93_(720, 1280, 3)_J1Y-819.npy
+valid/images/cam_1760624090_0.93_(720, 1280, 3)_Z1T-574.jpg
+valid/images/cam_1760624090_0.93_(720, 1280, 3)_Z1T-574.npy
+valid/images/cam_1760633979_0.92_(720, 1280, 3)_127-951.jpg
+valid/images/cam_1760633979_0.92_(720, 1280, 3)_127-951.npy
+valid/images/cam_1760702921_0.93_(720, 1280, 3)_ASD-757.jpg
+valid/images/cam_1760702921_0.93_(720, 1280, 3)_ASD-757.npy
+valid/images/cam_1760808687_0.93_(720, 1280, 3)_JBC-514.jpg
+valid/images/cam_1760808687_0.93_(720, 1280, 3)_JBC-514.npy
+valid/images/cam_1760891938_0.92_(720, 1280, 3)_BEB-859.jpg
+valid/images/cam_1760891938_0.92_(720, 1280, 3)_BEB-859.npy
+valid/images/cam_1760967995_0.93_(720, 1280, 3)_Z2Z-161.jpg
+valid/images/cam_1760967995_0.93_(720, 1280, 3)_Z2Z-161.npy
+valid/images/cam_1760979666_0.93_(720, 1280, 3)_Z1N-750.jpg
+valid/images/cam_1760979666_0.93_(720, 1280, 3)_Z1N-750.npy
+valid/images/cam_1761051372_0.9_(720, 1280, 3)_HOG-723.jpg
+valid/images/cam_1761051372_0.9_(720, 1280, 3)_HOG-723.npy
+valid/images/cam_1761059399_0.93_(720, 1280, 3)_Y3Z-128.jpg
+valid/images/cam_1761059399_0.93_(720, 1280, 3)_Y3Z-128.npy
+valid/images/cam_1761062074_0.93_(720, 1280, 3)_831-219.jpg
+valid/images/cam_1761062074_0.93_(720, 1280, 3)_831-219.npy
+valid/images/cam_1761063886_0.93_(720, 1280, 3)_J4L-658.jpg
+valid/images/cam_1761063886_0.93_(720, 1280, 3)_J4L-658.npy
+valid/images/cam_1761070096_0.92_(720, 1280, 3)_72Z-349.jpg
+valid/images/cam_1761070096_0.92_(720, 1280, 3)_72Z-349.npy
+valid/images/cam_1761138247_0.92_(720, 1280, 3)_AGF-964.jpg
+valid/images/cam_1761138247_0.92_(720, 1280, 3)_AGF-964.npy
+valid/images/cam_1761144307_0.93_(720, 1280, 3)_17E-683.jpg
+valid/images/cam_1761144307_0.93_(720, 1280, 3)_17E-683.npy
+valid/images/cam_1761159023_0.93_(720, 1280, 3)_V4L-532.jpg
+valid/images/cam_1761159023_0.93_(720, 1280, 3)_V4L-532.npy
+valid/images/cam_1761219948_0.94_(720, 1280, 3)_V8Y-171.jpg
+valid/images/cam_1761219948_0.94_(720, 1280, 3)_V8Y-171.npy
+valid/images/cam_1761223347_0.93_(720, 1280, 3)_Y40-131.jpg
+valid/images/cam_1761223347_0.93_(720, 1280, 3)_Y40-131.npy
+valid/images/cam_1761231864_0.93_(720, 1280, 3)_IDT-831.jpg
+valid/images/cam_1761231864_0.93_(720, 1280, 3)_IDT-831.npy
+valid/images/cam_1761235048_0.94_(720, 1280, 3)_ICA-035.jpg
+valid/images/cam_1761235048_0.94_(720, 1280, 3)_ICA-035.npy
+valid/images/cam_1761244571_0.94_(720, 1280, 3)_720-37L.jpg
+valid/images/cam_1761244571_0.94_(720, 1280, 3)_720-37L.npy
+valid/images/cam_1761245631_0.93_(720, 1280, 3)_12Q-913.jpg
+valid/images/cam_1761245631_0.93_(720, 1280, 3)_12Q-913.npy
+valid/images/cam_1761253431_0.93_(720, 1280, 3)_Z5Z-919.jpg
+valid/images/cam_1761253431_0.93_(720, 1280, 3)_Z5Z-919.npy
+valid/images/cam_1761572882_0.91_(720, 1280, 3)_C1F-799.jpg
+valid/images/cam_1761572882_0.91_(720, 1280, 3)_C1F-799.npy
+valid/images/cam_1761690295_0.93_(720, 1280, 3)_Z7F-320.jpg
+valid/images/cam_1761690295_0.93_(720, 1280, 3)_Z7F-320.npy
+valid/images/cam_1761742516_0.93_(720, 1280, 3)_Z5H-086.jpg
+valid/images/cam_1761742516_0.93_(720, 1280, 3)_Z5H-086.npy
+valid/images/cam_1761744835_0.94_(720, 1280, 3)_Z1L-803.jpg
+valid/images/cam_1761744835_0.94_(720, 1280, 3)_Z1L-803.npy
+valid/images/cam_1761757620_0.93_(720, 1280, 3)_TCS-385.jpg
+valid/images/cam_1761757620_0.93_(720, 1280, 3)_TCS-385.npy
+valid/images/cam_1761762398_0.94_(720, 1280, 3)_Z70-899.jpg
+valid/images/cam_1761762398_0.94_(720, 1280, 3)_Z70-899.npy
+valid/images/cam_1761763370_0.94_(720, 1280, 3)_N9P-914.jpg
+valid/images/cam_1761763370_0.94_(720, 1280, 3)_N9P-914.npy
+valid/images/cam_1761826687_0.91_(720, 1280, 3)_M10-917.jpg
+valid/images/cam_1761826687_0.91_(720, 1280, 3)_M10-917.npy
+valid/images/cam_1761838616_0.93_(720, 1280, 3)_Z2S-561.jpg
+valid/images/cam_1761838616_0.93_(720, 1280, 3)_Z2S-561.npy
+valid/images/cam_1761841606_0.91_(720, 1280, 3)_C61-924.jpg
+valid/images/cam_1761841606_0.91_(720, 1280, 3)_C61-924.npy
+valid/images/cam_1761858129_0.91_(720, 1280, 3)_D9U-548.jpg
+valid/images/cam_1761858129_0.91_(720, 1280, 3)_D9U-548.npy
+valid/images/cam_1762200742_0.93_(720, 1280, 3)_V6Y-511.jpg
+valid/images/cam_1762200742_0.93_(720, 1280, 3)_V6Y-511.npy
+valid/images/cam_1762259312_0.9_(720, 1280, 3)_X2Q-768.jpg
+valid/images/cam_1762259312_0.9_(720, 1280, 3)_X2Q-768.npy
+valid/images/cam_1762262735_0.92_(720, 1280, 3)_V20-081.jpg
+valid/images/cam_1762262735_0.92_(720, 1280, 3)_V20-081.npy
+valid/images/cam_1762374394_0.93_(720, 1280, 3)_D5H-133.jpg
+valid/images/cam_1762374394_0.93_(720, 1280, 3)_D5H-133.npy
+valid/images/cam_1762381392_0.93_(720, 1280, 3)_Z70-911.jpg
+valid/images/cam_1762381392_0.93_(720, 1280, 3)_Z70-911.npy
+valid/images/cam_1762433166_0.93_(720, 1280, 3)_W4S-497.jpg
+valid/images/cam_1762433166_0.93_(720, 1280, 3)_W4S-497.npy
+valid/images/cam_1762529412_0.92_(720, 1280, 3)_Z4M-346.jpg
+valid/images/cam_1762529412_0.92_(720, 1280, 3)_Z4M-346.npy
+valid/images/cam_1762538846_0.92_(720, 1280, 3)_X1X-703.jpg
+valid/images/cam_1762538846_0.92_(720, 1280, 3)_X1X-703.npy
+valid/images/cam_1762540904_0.92_(720, 1280, 3)_A3Q-704.jpg
+valid/images/cam_1762540904_0.92_(720, 1280, 3)_A3Q-704.npy
+valid/images/cam_1762687733_0.92_(720, 1280, 3)_V30-968.jpg
+valid/images/cam_1762687733_0.92_(720, 1280, 3)_V30-968.npy
+valid/images/cam_1762690498_0.93_(720, 1280, 3)_X2A-195.jpg
+valid/images/cam_1762690498_0.93_(720, 1280, 3)_X2A-195.npy
+valid/images/cam_1762691805_0.93_(720, 1280, 3)_IVD-424.jpg
+valid/images/cam_1762691805_0.93_(720, 1280, 3)_IVD-424.npy
+valid/images/cam_1762692385_0.93_(720, 1280, 3)_X10-603.jpg
+valid/images/cam_1762692385_0.93_(720, 1280, 3)_X10-603.npy
+valid/images/cam_1762696964_0.93_(720, 1280, 3)_Z20-147.jpg
+valid/images/cam_1762696964_0.93_(720, 1280, 3)_Z20-147.npy
+valid/images/cam_1762728655_0.94_(720, 1280, 3)_H5G-260.jpg
+valid/images/cam_1762728655_0.94_(720, 1280, 3)_H5G-260.npy
+valid/images/cam_1762729958_0.92_(720, 1280, 3)_38A-956.jpg
+valid/images/cam_1762729958_0.92_(720, 1280, 3)_38A-956.npy
+valid/images/cam_1762800382_0.91_(720, 1280, 3)_170-779.jpg
+valid/images/cam_1762800382_0.91_(720, 1280, 3)_170-779.npy
+valid/images/cam_1762872725_0.93_(720, 1280, 3)_15P-004.jpg
+valid/images/cam_1762872725_0.93_(720, 1280, 3)_15P-004.npy
+valid/images/cam_1762889589_0.93_(720, 1280, 3)_VDP-927.jpg
+valid/images/cam_1762889589_0.93_(720, 1280, 3)_VDP-927.npy
+valid/images/cam_1762891304_0.92_(720, 1280, 3)_J6J-384.jpg
+valid/images/cam_1762891304_0.92_(720, 1280, 3)_J6J-384.npy
+valid/images/cam_1762898589_0.93_(720, 1280, 3)_737-174.jpg
+valid/images/cam_1762898589_0.93_(720, 1280, 3)_737-174.npy
+valid/images/cam_1762899819_0.93_(720, 1280, 3)_Y4Q-249.jpg
+valid/images/cam_1762899819_0.93_(720, 1280, 3)_Y4Q-249.npy
+valid/images/cam_1763136722_0.93_(720, 1280, 3)_J7M-069.jpg
+valid/images/cam_1763136722_0.93_(720, 1280, 3)_J7M-069.npy
+valid/images/cam_1763151630_0.93_(720, 1280, 3)_ASH-937.jpg
+valid/images/cam_1763151630_0.93_(720, 1280, 3)_ASH-937.npy
+valid/images/cam_1763218881_0.93_(720, 1280, 3)_181-789.jpg
+valid/images/cam_1763218881_0.93_(720, 1280, 3)_181-789.npy
+valid/images/cam_1763220455_0.92_(720, 1280, 3)_B2V-707.jpg
+valid/images/cam_1763220455_0.92_(720, 1280, 3)_B2V-707.npy
+valid/images/cam_1763228273_0.92_(720, 1280, 3)_Z3R-751.jpg
+valid/images/cam_1763228273_0.92_(720, 1280, 3)_Z3R-751.npy
+valid/images/cam_1763229339_0.93_(720, 1280, 3)_72Y-723.jpg
+valid/images/cam_1763229339_0.93_(720, 1280, 3)_72Y-723.npy
+valid/images/cam_1763295609_0.93_(720, 1280, 3)_18E-477.jpg
+valid/images/cam_1763295609_0.93_(720, 1280, 3)_18E-477.npy
+valid/images/cam_1763297524_0.93_(720, 1280, 3)_U7M-157.jpg
+valid/images/cam_1763297524_0.93_(720, 1280, 3)_U7M-157.npy
+valid/images/cam_1763305241_0.93_(720, 1280, 3)_15C-243.jpg
+valid/images/cam_1763305241_0.93_(720, 1280, 3)_15C-243.npy
+valid/images/cam_1763307859_0.94_(720, 1280, 3)_X1B-088.jpg
+valid/images/cam_1763307859_0.94_(720, 1280, 3)_X1B-088.npy
+valid/images/cam_1763385336_0.9_(720, 1280, 3)_BCT-815.jpg
+valid/images/cam_1763385336_0.9_(720, 1280, 3)_BCT-815.npy
+valid/images/cam_1763388973_0.91_(720, 1280, 3)_18D-757.jpg
+valid/images/cam_1763388973_0.91_(720, 1280, 3)_18D-757.npy
+valid/images/cam_1765473562_0.93_(720, 1280, 3)_F9E-795.jpg
+valid/images/cam_1765473562_0.93_(720, 1280, 3)_F9E-795.npy
+valid/images/cam_1765479065_0.93_(720, 1280, 3)_Z6D-073.jpg
+valid/images/cam_1765479065_0.93_(720, 1280, 3)_Z6D-073.npy
+valid/images/cam_1765485151_0.91_(720, 1280, 3)_V9N-135.jpg
+valid/images/cam_1765485151_0.91_(720, 1280, 3)_V9N-135.npy
+valid/images/cam_1765487059_0.95_(720, 1280, 3)_X1H-538.jpg
+valid/images/cam_1765487059_0.95_(720, 1280, 3)_X1H-538.npy
+valid/images/cam_1765546875_0.94_(720, 1280, 3)_13M-399.jpg
+valid/images/cam_1765546875_0.94_(720, 1280, 3)_13M-399.npy
+valid/images/cam_1765802618_0.93_(720, 1280, 3)_ICF-677.jpg
+valid/images/cam_1765802618_0.93_(720, 1280, 3)_ICF-677.npy
+valid/images/cam_1765802861_0.93_(720, 1280, 3)_I6V-080.jpg
+valid/images/cam_1765802861_0.93_(720, 1280, 3)_I6V-080.npy
+valid/images/cam_1765830952_0.93_(720, 1280, 3)_V2H-439.jpg
+valid/images/cam_1765830952_0.93_(720, 1280, 3)_V2H-439.npy
+valid/images/cam_1765835732_0.92_(720, 1280, 3)_T4S-852.jpg
+valid/images/cam_1765835732_0.92_(720, 1280, 3)_T4S-852.npy
+valid/images/cam_1765923092_0.93_(720, 1280, 3)_X4L-189.jpg
+valid/images/cam_1765923092_0.93_(720, 1280, 3)_X4L-189.npy
+valid/images/cam_1766008366_0.93_(720, 1280, 3)_94A-810.jpg
+valid/images/cam_1766008366_0.93_(720, 1280, 3)_94A-810.npy
+valid/images/cam_1766064904_0.92_(720, 1280, 3)_Z5W-300.jpg
+valid/images/cam_1766064904_0.92_(720, 1280, 3)_Z5W-300.npy
+valid/images/cam_1766068838_0.94_(720, 1280, 3)_Y6S-960.jpg
+valid/images/cam_1766068838_0.94_(720, 1280, 3)_Y6S-960.npy
+valid/images/cam_1766078685_0.94_(720, 1280, 3)_Z3B-572.jpg
+valid/images/cam_1766078685_0.94_(720, 1280, 3)_Z3B-572.npy
+valid/images/cam_1766092004_0.93_(720, 1280, 3)_VBC-496.jpg
+valid/images/cam_1766092004_0.93_(720, 1280, 3)_VBC-496.npy
+valid/images/cam_1766162970_0.93_(720, 1280, 3)_Z3Q-758.jpg
+valid/images/cam_1766162970_0.93_(720, 1280, 3)_Z3Q-758.npy
+valid/images/cam_1766167339_0.91_(720, 1280, 3)_VOD-810.jpg
+valid/images/cam_1766167339_0.91_(720, 1280, 3)_VOD-810.npy
+valid/images/cam_1766227375_0.91_(720, 1280, 3)_Z6H-489.jpg
+valid/images/cam_1766227375_0.91_(720, 1280, 3)_Z6H-489.npy
+valid/images/cam_1766404806_0.91_(720, 1280, 3)_18F-796.jpg
+valid/images/cam_1766404806_0.91_(720, 1280, 3)_18F-796.npy
+valid/images/cam_1766427003_0.93_(720, 1280, 3)_16U-967.jpg
+valid/images/cam_1766427003_0.93_(720, 1280, 3)_16U-967.npy
+valid/images/cam_1766501425_0.93_(720, 1280, 3)_X4H-587.jpg
+valid/images/cam_1766501425_0.93_(720, 1280, 3)_X4H-587.npy
+valid/images/cam_1767044297_0.91_(720, 1280, 3)_VDK-830.jpg
+valid/images/cam_1767044297_0.91_(720, 1280, 3)_VDK-830.npy
+valid/images/cam_1767367462_0.94_(720, 1280, 3)_Z5K-672.jpg
+valid/images/cam_1767367462_0.94_(720, 1280, 3)_Z5K-672.npy
+valid/images/cam_1767393101_0.93_(720, 1280, 3)_Z8H-878.jpg
+valid/images/cam_1767393101_0.93_(720, 1280, 3)_Z8H-878.npy
+valid/images/cam_1767702354_0.91_(720, 1280, 3)_77G-207.jpg
+valid/images/cam_1767702354_0.91_(720, 1280, 3)_77G-207.npy
+valid/images/cam_1767715636_0.93_(720, 1280, 3)_TZY-954.jpg
+valid/images/cam_1767715636_0.93_(720, 1280, 3)_TZY-954.npy
+valid/images/cam_1767716201_0.93_(720, 1280, 3)_VAE-579.jpg
+valid/images/cam_1767716201_0.93_(720, 1280, 3)_VAE-579.npy
+valid/images/cam_1767886482_0.93_(720, 1280, 3)_Z6W-617.jpg
+valid/images/cam_1767886482_0.93_(720, 1280, 3)_Z6W-617.npy
+valid/images/cam_1767903335_0.91_(720, 1280, 3)_CHH-313.jpg
+valid/images/cam_1767903335_0.91_(720, 1280, 3)_CHH-313.npy
+valid/images/cam_1767903442_0.93_(720, 1280, 3)_R3C-719.jpg
+valid/images/cam_1767903442_0.93_(720, 1280, 3)_R3C-719.npy
+valid/images/cam_1767974412_0.9_(720, 1280, 3)_BPG-582.jpg
+valid/images/cam_1767974412_0.9_(720, 1280, 3)_BPG-582.npy
+valid/images/cam_1767994855_0.92_(720, 1280, 3)_BKD-889.jpg
+valid/images/cam_1767994855_0.92_(720, 1280, 3)_BKD-889.npy
+valid/images/cam_1768307415_0.93_(720, 1280, 3)_751-426.jpg
+valid/images/cam_1768307415_0.93_(720, 1280, 3)_751-426.npy
+valid/images/cam_1768419201_0.93_(720, 1280, 3)_C4L-865.jpg
+valid/images/cam_1768419201_0.93_(720, 1280, 3)_C4L-865.npy
+valid/images/cam_1768572629_0.92_(720, 1280, 3)_BPG-890.jpg
+valid/images/cam_1768572629_0.92_(720, 1280, 3)_BPG-890.npy
+valid/images/cam_1768742646_0.93_(720, 1280, 3)_190-616.jpg
+valid/images/cam_1768742646_0.93_(720, 1280, 3)_190-616.npy
+valid/images/cam_1768926163_0.91_(720, 1280, 3)_18C-272.jpg
+valid/images/cam_1768926163_0.91_(720, 1280, 3)_18C-272.npy
+valid/images/cam_1768946480_0.92_(720, 1280, 3)_B6Z-915.jpg
+valid/images/cam_1768946480_0.92_(720, 1280, 3)_B6Z-915.npy
+valid/images/cam_1768946621_0.92_(720, 1280, 3)_CPF-246.jpg
+valid/images/cam_1768946621_0.92_(720, 1280, 3)_CPF-246.npy
+valid/images/cam_1769013404_0.92_(720, 1280, 3)_CVF-301.jpg
+valid/images/cam_1769013404_0.92_(720, 1280, 3)_CVF-301.npy
+valid/images/cam_1769446927_0.91_(720, 1280, 3)_X1U-581.jpg
+valid/images/cam_1769446927_0.91_(720, 1280, 3)_X1U-581.npy
+valid/images/cam_1769688439_0.93_(720, 1280, 3)_BHL-715.jpg
+valid/images/cam_1769688439_0.93_(720, 1280, 3)_BHL-715.npy
+valid/images/cam_1769985464_0.93_(720, 1280, 3)_BVN-532.jpg
+valid/images/cam_1769985464_0.93_(720, 1280, 3)_BVN-532.npy
+valid/images/cam_1770039354_0.94_(720, 1280, 3)_13J-845.jpg
+valid/images/cam_1770039354_0.94_(720, 1280, 3)_13J-845.npy
+valid/images/cam_1770050117_0.94_(720, 1280, 3)_VAI-942.jpg
+valid/images/cam_1770050117_0.94_(720, 1280, 3)_VAI-942.npy
+valid/images/cam_1770056754_0.93_(720, 1280, 3)_741-078.jpg
+valid/images/cam_1770056754_0.93_(720, 1280, 3)_741-078.npy
+valid/images/cam_1770122797_0.9_(720, 1280, 3)_L72-089.jpg
+valid/images/cam_1770122797_0.9_(720, 1280, 3)_L72-089.npy
+valid/images/cam_1770124069_0.93_(720, 1280, 3)_V7S-273.jpg
+valid/images/cam_1770124069_0.93_(720, 1280, 3)_V7S-273.npy
+valid/images/cam_1770126840_0.93_(720, 1280, 3)_AF1-907.jpg
+valid/images/cam_1770126840_0.93_(720, 1280, 3)_AF1-907.npy
+valid/images/cam_1770305542_0.94_(720, 1280, 3)_K5C-259.jpg
+valid/images/cam_1770305542_0.94_(720, 1280, 3)_K5C-259.npy
+valid/images/cam_1770323330_0.95_(720, 1280, 3)_J9V-439.jpg
+valid/images/cam_1770323330_0.95_(720, 1280, 3)_J9V-439.npy
+valid/images/cam_1770323674_0.93_(720, 1280, 3)_FEZ-738.jpg
+valid/images/cam_1770323674_0.93_(720, 1280, 3)_FEZ-738.npy
+valid/images/cam_1770402298_0.9_(720, 1280, 3)_13L-742.jpg
+valid/images/cam_1770402298_0.9_(720, 1280, 3)_13L-742.npy
+valid/images/cam_1770404475_0.93_(720, 1280, 3)_RVP-329.jpg
+valid/images/cam_1770404475_0.93_(720, 1280, 3)_RVP-329.npy
+valid/images/cam_1770640468_0.94_(720, 1280, 3)_71X-055.jpg
+valid/images/cam_1770640468_0.94_(720, 1280, 3)_71X-055.npy
+valid/images/cam_1770681152_0.93_(720, 1280, 3)_1SO-225.jpg
+valid/images/cam_1770681152_0.93_(720, 1280, 3)_1SO-225.npy
+valid/images/cam_1770761005_0.93_(720, 1280, 3)_APF-344.jpg
+valid/images/cam_1770761005_0.93_(720, 1280, 3)_APF-344.npy
+valid/images/cam_1771157535_0.9_(720, 1280, 3)_A1X-879.jpg
+valid/images/cam_1771157535_0.9_(720, 1280, 3)_A1X-879.npy
+valid/images/cam_1771159347_0.92_(720, 1280, 3)_D9R-405.jpg
+valid/images/cam_1771159347_0.92_(720, 1280, 3)_D9R-405.npy
+valid/images/cam_1771254330_0.94_(720, 1280, 3)_BKM-875.jpg
+valid/images/cam_1771254330_0.94_(720, 1280, 3)_BKM-875.npy
+valid/images/cam_1771271896_0.93_(720, 1280, 3)_USV-408.jpg
+valid/images/cam_1771271896_0.93_(720, 1280, 3)_USV-408.npy
+valid/images/cam_1771343410_0.93_(720, 1280, 3)_Z6H-884.jpg
+valid/images/cam_1771343410_0.93_(720, 1280, 3)_Z6H-884.npy
+valid/images/cam_1771433609_0.93_(720, 1280, 3)_Z7V-853.jpg
+valid/images/cam_1771433609_0.93_(720, 1280, 3)_Z7V-853.npy
+valid/images/cam_1771439265_0.93_(720, 1280, 3)_V2E-274.jpg
+valid/images/cam_1771439265_0.93_(720, 1280, 3)_V2E-274.npy
+valid/images/cam_1771507374_0.93_(720, 1280, 3)_Z4E-602.jpg
+valid/images/cam_1771507374_0.93_(720, 1280, 3)_Z4E-602.npy
+valid/images/cam_1771529881_0.91_(720, 1280, 3)_747-029.jpg
+valid/images/cam_1771529881_0.91_(720, 1280, 3)_747-029.npy
+valid/images/cam_1771599485_0.91_(720, 1280, 3)_BCQ-444.jpg
+valid/images/cam_1771599485_0.91_(720, 1280, 3)_BCQ-444.npy
+valid/images/cam_1771768540_0.95_(720, 1280, 3)_V10-440.jpg
+valid/images/cam_1771768540_0.95_(720, 1280, 3)_V10-440.npy
+valid/images/cam_1771769348_0.92_(720, 1280, 3)_X3N-435.jpg
+valid/images/cam_1771769348_0.92_(720, 1280, 3)_X3N-435.npy
+valid/images/cam_1771771551_0.91_(720, 1280, 3)_T81-958.jpg
+valid/images/cam_1771771551_0.91_(720, 1280, 3)_T81-958.npy
+valid/images/cam_1771771809_0.92_(720, 1280, 3)_S1E-223.jpg
+valid/images/cam_1771771809_0.92_(720, 1280, 3)_S1E-223.npy
+valid/images/cam_1771772327_0.93_(720, 1280, 3)_V1Y-462.jpg
+valid/images/cam_1771772327_0.93_(720, 1280, 3)_V1Y-462.npy
+valid/images/cam_1771781083_0.94_(720, 1280, 3)_VOB-786.jpg
+valid/images/cam_1771781083_0.94_(720, 1280, 3)_VOB-786.npy
+valid/images/cam_1771853737_0.93_(720, 1280, 3)_X3R-303.jpg
+valid/images/cam_1771853737_0.93_(720, 1280, 3)_X3R-303.npy
+valid/images/cam_1771864652_0.93_(720, 1280, 3)_Z6J-138.jpg
+valid/images/cam_1771864652_0.93_(720, 1280, 3)_Z6J-138.npy
+valid/images/cam_1771886047_0.93_(720, 1280, 3)_AHX-938.jpg
+valid/images/cam_1771886047_0.93_(720, 1280, 3)_AHX-938.npy
+valid/images/cam_1771945700_0.92_(720, 1280, 3)_A8G-808.jpg
+valid/images/cam_1771945700_0.92_(720, 1280, 3)_A8G-808.npy
+valid/images/cam_1771964990_0.93_(720, 1280, 3)_ACH-848.jpg
+valid/images/cam_1771964990_0.93_(720, 1280, 3)_ACH-848.npy
+valid/images/cam_1772031386_0.94_(720, 1280, 3)_Z8F-323.jpg
+valid/images/cam_1772031386_0.94_(720, 1280, 3)_Z8F-323.npy
+valid/images/cam_1772046605_0.94_(720, 1280, 3)_CHN-289.jpg
+valid/images/cam_1772046605_0.94_(720, 1280, 3)_CHN-289.npy
+valid/images/cam_1772112543_0.93_(720, 1280, 3)_Z6C-120.jpg
+valid/images/cam_1772112543_0.93_(720, 1280, 3)_Z6C-120.npy
+valid/images/cam_1772146370_0.93_(720, 1280, 3)_Z74-290.jpg
+valid/images/cam_1772146370_0.93_(720, 1280, 3)_Z74-290.npy
+valid/images/cam_1772224734_0.94_(720, 1280, 3)_76C-765.jpg
+valid/images/cam_1772224734_0.94_(720, 1280, 3)_76C-765.npy
+valid/images/cam_1772308314_0.91_(720, 1280, 3)_BZM-221.jpg
+valid/images/cam_1772308314_0.91_(720, 1280, 3)_BZM-221.npy
+valid/images/cam_1772462658_0.9_(720, 1280, 3)_BBW-785.jpg
+valid/images/cam_1772462658_0.9_(720, 1280, 3)_BBW-785.npy
+valid/images/cam_1772465636_0.94_(720, 1280, 3)_V2N-316.jpg
+valid/images/cam_1772465636_0.94_(720, 1280, 3)_V2N-316.npy
+valid/images/cam_1772468066_0.9_(720, 1280, 3)_Z7E-793.jpg
+valid/images/cam_1772468066_0.9_(720, 1280, 3)_Z7E-793.npy
+valid/images/cam_1772474088_0.92_(720, 1280, 3)_V2F-188.jpg
+valid/images/cam_1772474088_0.92_(720, 1280, 3)_V2F-188.npy
+valid/images/cam_1772482088_0.94_(720, 1280, 3)_A5D-960.jpg
+valid/images/cam_1772482088_0.94_(720, 1280, 3)_A5D-960.npy
+valid/images/cam_1772484451_0.93_(720, 1280, 3)_V1A-114.jpg
+valid/images/cam_1772484451_0.93_(720, 1280, 3)_V1A-114.npy
+valid/images/cam_1772548436_0.94_(720, 1280, 3)_V68-955.jpg
+valid/images/cam_1772548436_0.94_(720, 1280, 3)_V68-955.npy
+valid/images/cam_1772549060_0.94_(720, 1280, 3)_AMX-547.jpg
+valid/images/cam_1772549060_0.94_(720, 1280, 3)_AMX-547.npy
+valid/images/cam_1772553805_0.93_(720, 1280, 3)_770-313.jpg
+valid/images/cam_1772553805_0.93_(720, 1280, 3)_770-313.npy
+valid/images/cam_1772636079_0.93_(720, 1280, 3)_JOV-608.jpg
+valid/images/cam_1772636079_0.93_(720, 1280, 3)_JOV-608.npy
+valid/images/cam_1772637612_0.93_(720, 1280, 3)_Z7K-795.jpg
+valid/images/cam_1772637612_0.93_(720, 1280, 3)_Z7K-795.npy
+valid/images/cam_1772725561_0.94_(720, 1280, 3)_Y9P-466.jpg
+valid/images/cam_1772725561_0.94_(720, 1280, 3)_Y9P-466.npy
+valid/images/cam_1772739419_0.91_(720, 1280, 3)_Z83-674.jpg
+valid/images/cam_1772739419_0.91_(720, 1280, 3)_Z83-674.npy
+valid/images/cam_1772743731_0.94_(720, 1280, 3)_Z6X-372.jpg
+valid/images/cam_1772743731_0.94_(720, 1280, 3)_Z6X-372.npy
+valid/images/cam_1772800793_0.94_(720, 1280, 3)_Z5X-785.jpg
+valid/images/cam_1772800793_0.94_(720, 1280, 3)_Z5X-785.npy
+valid/images/cam_1772983020_0.93_(720, 1280, 3)_JON-156.jpg
+valid/images/cam_1772983020_0.93_(720, 1280, 3)_JON-156.npy
+valid/images/cam_1773072328_0.91_(720, 1280, 3)_Z90-872.jpg
+valid/images/cam_1773072328_0.91_(720, 1280, 3)_Z90-872.npy
+valid/images/cam_1773084748_0.91_(720, 1280, 3)_X3U-845.jpg
+valid/images/cam_1773084748_0.91_(720, 1280, 3)_X3U-845.npy
+valid/images/cam_1773146176_0.93_(720, 1280, 3)_CFG-755.jpg
+valid/images/cam_1773146176_0.93_(720, 1280, 3)_CFG-755.npy
+valid/images/cam_1773159389_0.92_(720, 1280, 3)_BHE-209.jpg
+valid/images/cam_1773159389_0.92_(720, 1280, 3)_BHE-209.npy
+valid/images/cam_1773164091_0.94_(720, 1280, 3)_16R-633.jpg
+valid/images/cam_1773164091_0.94_(720, 1280, 3)_16R-633.npy
+valid/images/cam_1773169209_0.93_(720, 1280, 3)_V6M-925.jpg
+valid/images/cam_1773169209_0.93_(720, 1280, 3)_V6M-925.npy
+valid/images/cam_1773178333_0.94_(720, 1280, 3)_F2J-789.jpg
+valid/images/cam_1773178333_0.94_(720, 1280, 3)_F2J-789.npy
+valid/images/cam_1773250157_0.94_(720, 1280, 3)_BUK-946.jpg
+valid/images/cam_1773250157_0.94_(720, 1280, 3)_BUK-946.npy
+valid/images/cam_1773253739_0.91_(720, 1280, 3)_BTP-001.jpg
+valid/images/cam_1773253739_0.91_(720, 1280, 3)_BTP-001.npy
+valid/images/cam_1773253935_0.92_(720, 1280, 3)_BOC-804.jpg
+valid/images/cam_1773253935_0.92_(720, 1280, 3)_BOC-804.npy
+valid/images/cam_1773259632_0.92_(720, 1280, 3)_Z5B-355.jpg
+valid/images/cam_1773259632_0.92_(720, 1280, 3)_Z5B-355.npy
+valid/images/cam_1773321166_0.92_(720, 1280, 3)_VCS-231.jpg
+valid/images/cam_1773321166_0.92_(720, 1280, 3)_VCS-231.npy
+valid/images/cam_1773322750_0.93_(720, 1280, 3)_Z5C-278.jpg
+valid/images/cam_1773322750_0.93_(720, 1280, 3)_Z5C-278.npy
+valid/images/cam_1773323651_0.95_(720, 1280, 3)_Z81-310.jpg
+valid/images/cam_1773323651_0.95_(720, 1280, 3)_Z81-310.npy
+valid/images/cam_1773323845_0.93_(720, 1280, 3)_V2E-378.jpg
+valid/images/cam_1773323845_0.93_(720, 1280, 3)_V2E-378.npy
+valid/images/cam_1773337977_0.93_(720, 1280, 3)_11H-608.jpg
+valid/images/cam_1773337977_0.93_(720, 1280, 3)_11H-608.npy
+valid/images/cam_1773340036_0.93_(720, 1280, 3)_L1E-097.jpg
+valid/images/cam_1773340036_0.93_(720, 1280, 3)_L1E-097.npy
+valid/images/cam_1773349359_0.93_(720, 1280, 3)_P3K-360.jpg
+valid/images/cam_1773349359_0.93_(720, 1280, 3)_P3K-360.npy
+valid/images/cam_1773352722_0.91_(720, 1280, 3)_V2K-540.jpg
+valid/images/cam_1773352722_0.91_(720, 1280, 3)_V2K-540.npy
+valid/images/cam_1773419527_0.91_(720, 1280, 3)_Z2W-359.jpg
+valid/images/cam_1773419527_0.91_(720, 1280, 3)_Z2W-359.npy
+valid/images/cam_1773431739_0.93_(720, 1280, 3)_Z5J-364.jpg
+valid/images/cam_1773431739_0.93_(720, 1280, 3)_Z5J-364.npy
+valid/images/cam_1773436996_0.93_(720, 1280, 3)_767-379.jpg
+valid/images/cam_1773436996_0.93_(720, 1280, 3)_767-379.npy
+valid/images/cam_1773578452_0.93_(720, 1280, 3)_Y9T-886.jpg
+valid/images/cam_1773578452_0.93_(720, 1280, 3)_Y9T-886.npy
+valid/images/cam_1773615485_0.93_(720, 1280, 3)_Z5H-695.jpg
+valid/images/cam_1773615485_0.93_(720, 1280, 3)_Z5H-695.npy
+valid/images/cam_1773663504_0.91_(720, 1280, 3)_714-677.jpg
+valid/images/cam_1773663504_0.91_(720, 1280, 3)_714-677.npy
+valid/images/cam_1773664900_0.91_(720, 1280, 3)_VAL-358.jpg
+valid/images/cam_1773664900_0.91_(720, 1280, 3)_VAL-358.npy
+valid/images/cam_1773670198_0.94_(720, 1280, 3)_16L-517.jpg
+valid/images/cam_1773670198_0.94_(720, 1280, 3)_16L-517.npy
+valid/images/cam_1773695084_0.93_(720, 1280, 3)_F4P-439.jpg
+valid/images/cam_1773695084_0.93_(720, 1280, 3)_F4P-439.npy
+valid/images/cam_1773745365_0.93_(720, 1280, 3)_BNS-056.jpg
+valid/images/cam_1773745365_0.93_(720, 1280, 3)_BNS-056.npy
+valid/images/cam_1773750526_0.92_(720, 1280, 3)_15M-738.jpg
+valid/images/cam_1773750526_0.92_(720, 1280, 3)_15M-738.npy
+valid/images/cam_1773758247_0.93_(720, 1280, 3)_833-511.jpg
+valid/images/cam_1773758247_0.93_(720, 1280, 3)_833-511.npy
+valid/images/cam_1773876644_0.93_(720, 1280, 3)_J9C-761.jpg
+valid/images/cam_1773876644_0.93_(720, 1280, 3)_J9C-761.npy
+valid/images/cam_1774037044_0.91_(720, 1280, 3)_BLN-025.jpg
+valid/images/cam_1774037044_0.91_(720, 1280, 3)_BLN-025.npy
+valid/images/cam_1774127733_0.93_(720, 1280, 3)_Y4K-707.jpg
+valid/images/cam_1774127733_0.93_(720, 1280, 3)_Y4K-707.npy
+valid/images/cam_1774286493_0.9_(720, 1280, 3)_I2M-467.jpg
+valid/images/cam_1774286493_0.9_(720, 1280, 3)_I2M-467.npy
+valid/images/cam_1774289089_0.92_(720, 1280, 3)_CJS-Z73.jpg
+valid/images/cam_1774289089_0.92_(720, 1280, 3)_CJS-Z73.npy
+valid/images/cam_1774292904_0.93_(720, 1280, 3)_BKQ-652.jpg
+valid/images/cam_1774292904_0.93_(720, 1280, 3)_BKQ-652.npy
+valid/images/cam_1774530374_0.93_(720, 1280, 3)_CRF-356.jpg
+valid/images/cam_1774530374_0.93_(720, 1280, 3)_CRF-356.npy
+valid/images/cam_1774546638_0.93_(720, 1280, 3)_V8B-495.jpg
+valid/images/cam_1774546638_0.93_(720, 1280, 3)_V8B-495.npy
+valid/images/cam_1774559716_0.93_(720, 1280, 3)_13Q-305.jpg
+valid/images/cam_1774559716_0.93_(720, 1280, 3)_13Q-305.npy
+valid/images/cam_1774709746_0.93_(720, 1280, 3)_Z6Z-445.jpg
+valid/images/cam_1774709746_0.93_(720, 1280, 3)_Z6Z-445.npy
+valid/images/cam_1774873811_0.93_(720, 1280, 3)_ZSP-873.jpg
+valid/images/cam_1774873811_0.93_(720, 1280, 3)_ZSP-873.npy
+valid/images/cam_1774874365_0.93_(720, 1280, 3)_ZSN-935.jpg
+valid/images/cam_1774874365_0.93_(720, 1280, 3)_ZSN-935.npy
+valid/images/cam_1774893153_0.95_(720, 1280, 3)_Z5P-862.jpg
+valid/images/cam_1774893153_0.95_(720, 1280, 3)_Z5P-862.npy
+valid/images/cam_1774914480_0.91_(720, 1280, 3)_SHX-083.jpg
+valid/images/cam_1774914480_0.91_(720, 1280, 3)_SHX-083.npy
+valid/images/cam_1774963860_0.93_(720, 1280, 3)_Z5H-228.jpg
+valid/images/cam_1774963860_0.93_(720, 1280, 3)_Z5H-228.npy
+valid/images/cam_1774979774_0.92_(720, 1280, 3)_215-781.jpg
+valid/images/cam_1774979774_0.92_(720, 1280, 3)_215-781.npy
+valid/images/cam_1774983682_0.93_(720, 1280, 3)_71R-949.jpg
+valid/images/cam_1774983682_0.93_(720, 1280, 3)_71R-949.npy
+valid/images/cam_1774992669_0.92_(720, 1280, 3)_VAM-157.jpg
+valid/images/cam_1774992669_0.92_(720, 1280, 3)_VAM-157.npy
+valid/images/cam_1775046712_0.93_(720, 1280, 3)_F6U-349.jpg
+valid/images/cam_1775046712_0.93_(720, 1280, 3)_F6U-349.npy
+valid/images/cam_1775047485_0.94_(720, 1280, 3)_Y3L-076.jpg
+valid/images/cam_1775047485_0.94_(720, 1280, 3)_Y3L-076.npy
+valid/images/cam_1775053869_0.94_(720, 1280, 3)_Z40-069.jpg
+valid/images/cam_1775053869_0.94_(720, 1280, 3)_Z40-069.npy
+valid/images/cam_1775055971_0.93_(720, 1280, 3)_420-200.jpg
+valid/images/cam_1775055971_0.93_(720, 1280, 3)_420-200.npy
+valid/images/cam_1775065706_0.94_(720, 1280, 3)_X3F-471.jpg
+valid/images/cam_1775065706_0.94_(720, 1280, 3)_X3F-471.npy
+valid/images/cam_1775066514_0.92_(720, 1280, 3)_X1U-889.jpg
+valid/images/cam_1775066514_0.92_(720, 1280, 3)_X1U-889.npy
+valid/images/cam_1775134873_0.93_(720, 1280, 3)_Z1B-374.jpg
+valid/images/cam_1775134873_0.93_(720, 1280, 3)_Z1B-374.npy
+valid/images/cam_1775143054_0.94_(720, 1280, 3)_AVR-782.jpg
+valid/images/cam_1775143054_0.94_(720, 1280, 3)_AVR-782.npy
+valid/images/cam_1775478578_0.93_(720, 1280, 3)_Z7Z-403.jpg
+valid/images/cam_1775478578_0.93_(720, 1280, 3)_Z7Z-403.npy
+valid/images/cam_1775506778_0.93_(720, 1280, 3)_Z4Z-210.jpg
+valid/images/cam_1775506778_0.93_(720, 1280, 3)_Z4Z-210.npy
+valid/images/cam_1775508969_0.92_(720, 1280, 3)_Z3P-133.jpg
+valid/images/cam_1775508969_0.92_(720, 1280, 3)_Z3P-133.npy
+valid/images/cam_1775561010_0.93_(720, 1280, 3)_4XM-540.jpg
+valid/images/cam_1775561010_0.93_(720, 1280, 3)_4XM-540.npy
+valid/images/cam_1775566567_0.93_(720, 1280, 3)_V7C-803.jpg
+valid/images/cam_1775566567_0.93_(720, 1280, 3)_V7C-803.npy
+valid/images/cam_1775567854_0.94_(720, 1280, 3)_C4L-772.jpg
+valid/images/cam_1775567854_0.94_(720, 1280, 3)_C4L-772.npy
+valid/images/cam_1775571147_0.94_(720, 1280, 3)_IAN-592.jpg
+valid/images/cam_1775571147_0.94_(720, 1280, 3)_IAN-592.npy
+valid/images/cam_1775592625_0.94_(720, 1280, 3)_A7N-340.jpg
+valid/images/cam_1775592625_0.94_(720, 1280, 3)_A7N-340.npy
+valid/images/cam_1775600045_0.92_(720, 1280, 3)_170-198.jpg
+valid/images/cam_1775600045_0.92_(720, 1280, 3)_170-198.npy
+valid/images/cam_1775600625_0.93_(720, 1280, 3)_66M-039.jpg
+valid/images/cam_1775600625_0.93_(720, 1280, 3)_66M-039.npy
+valid/images/cam_1775649986_0.92_(720, 1280, 3)_Z6Y-012.jpg
+valid/images/cam_1775649986_0.92_(720, 1280, 3)_Z6Y-012.npy
+valid/images/cam_1775650952_0.93_(720, 1280, 3)_A1I-326.jpg
+valid/images/cam_1775650952_0.93_(720, 1280, 3)_A1I-326.npy
+valid/images/cam_1775668676_0.93_(720, 1280, 3)_C2N-101.jpg
+valid/images/cam_1775668676_0.93_(720, 1280, 3)_C2N-101.npy
+valid/images/cam_1775669345_0.93_(720, 1280, 3)_V3G-596.jpg
+valid/images/cam_1775669345_0.93_(720, 1280, 3)_V3G-596.npy
+valid/images/cam_1775671349_0.92_(720, 1280, 3)_A07-785.jpg
+valid/images/cam_1775671349_0.92_(720, 1280, 3)_A07-785.npy
+valid/images/cam_1775673640_0.93_(720, 1280, 3)_ERC-294.jpg
+valid/images/cam_1775673640_0.93_(720, 1280, 3)_ERC-294.npy
+valid/images/cam_1775674473_0.92_(720, 1280, 3)_A7U-116.jpg
+valid/images/cam_1775674473_0.92_(720, 1280, 3)_A7U-116.npy
+valid/images/cam_1775676567_0.92_(720, 1280, 3)_Z38-326.jpg
+valid/images/cam_1775676567_0.92_(720, 1280, 3)_Z38-326.npy
+valid/images/cam_1775677668_0.92_(720, 1280, 3)_T2L-054.jpg
+valid/images/cam_1775677668_0.92_(720, 1280, 3)_T2L-054.npy
+valid/images/cam_1775733517_0.93_(720, 1280, 3)_Z6W-459.jpg
+valid/images/cam_1775733517_0.93_(720, 1280, 3)_Z6W-459.npy
+valid/images/cam_1775736565_0.92_(720, 1280, 3)_A6R-752.jpg
+valid/images/cam_1775736565_0.92_(720, 1280, 3)_A6R-752.npy
+valid/images/cam_1775736738_0.93_(720, 1280, 3)_X1J-194.jpg
+valid/images/cam_1775736738_0.93_(720, 1280, 3)_X1J-194.npy
+valid/images/cam_1775737916_0.92_(720, 1280, 3)_Z1G-291.jpg
+valid/images/cam_1775737916_0.92_(720, 1280, 3)_Z1G-291.npy
+valid/images/cam_1775739760_0.93_(720, 1280, 3)_Z3D-807.jpg
+valid/images/cam_1775739760_0.93_(720, 1280, 3)_Z3D-807.npy
+valid/images/cam_1775747858_0.93_(720, 1280, 3)_D3L-809.jpg
+valid/images/cam_1775747858_0.93_(720, 1280, 3)_D3L-809.npy
+valid/images/cam_1775831798_0.93_(720, 1280, 3)_Z2B-140.jpg
+valid/images/cam_1775831798_0.93_(720, 1280, 3)_Z2B-140.npy
+valid/images/cam_1775842418_0.94_(720, 1280, 3)_Y3Q-595.jpg
+valid/images/cam_1775842418_0.94_(720, 1280, 3)_Y3Q-595.npy
+valid/images/cam_1775844325_0.93_(720, 1280, 3)_Z8K-555.jpg
+valid/images/cam_1775844325_0.93_(720, 1280, 3)_Z8K-555.npy
+valid/images/cam_1775999623_0.93_(720, 1280, 3)_LWK-657.jpg
+valid/images/cam_1775999623_0.93_(720, 1280, 3)_LWK-657.npy
+valid/images/cam_1776109840_0.93_(720, 1280, 3)_BKT-448.jpg
+valid/images/cam_1776109840_0.93_(720, 1280, 3)_BKT-448.npy
+valid/images/cam_1776114267_0.93_(720, 1280, 3)_AUM-480.jpg
+valid/images/cam_1776114267_0.93_(720, 1280, 3)_AUM-480.npy
+valid/images/cam_1776114511_0.93_(720, 1280, 3)_TOB-364.jpg
+valid/images/cam_1776114511_0.93_(720, 1280, 3)_TOB-364.npy
+valid/images/cam_1776185124_0.93_(720, 1280, 3)_12K-098.jpg
+valid/images/cam_1776185124_0.93_(720, 1280, 3)_12K-098.npy
+valid/images/cam_1776186766_0.94_(720, 1280, 3)_Z6T-423.jpg
+valid/images/cam_1776186766_0.94_(720, 1280, 3)_Z6T-423.npy
+valid/images/cam_1776190262_0.92_(720, 1280, 3)_V51-119.jpg
+valid/images/cam_1776190262_0.92_(720, 1280, 3)_V51-119.npy
+valid/images/cam_1776276702_0.91_(720, 1280, 3)_ZOU-717.jpg
+valid/images/cam_1776276702_0.91_(720, 1280, 3)_ZOU-717.npy
+valid/images/cam_1776277488_0.92_(720, 1280, 3)_62A-758.jpg
+valid/images/cam_1776277488_0.92_(720, 1280, 3)_62A-758.npy
+valid/images/cam_1776353968_0.92_(720, 1280, 3)_AWO-693.jpg
+valid/images/cam_1776353968_0.92_(720, 1280, 3)_AWO-693.npy
+valid/images/cam_1776355226_0.93_(720, 1280, 3)_77L-933.jpg
+valid/images/cam_1776355226_0.93_(720, 1280, 3)_77L-933.npy
+valid/images/cam_1776363725_0.92_(720, 1280, 3)_DZA-906.jpg
+valid/images/cam_1776363725_0.92_(720, 1280, 3)_DZA-906.npy
+valid/images/cam_1776395696_0.94_(720, 1280, 3)_72S-516.jpg
+valid/images/cam_1776395696_0.94_(720, 1280, 3)_72S-516.npy
+valid/images/cam_1776428568_0.94_(720, 1280, 3)_VDT-950.jpg
+valid/images/cam_1776428568_0.94_(720, 1280, 3)_VDT-950.npy
+valid/images/cam_1776431003_0.94_(720, 1280, 3)_B1U-121.jpg
+valid/images/cam_1776431003_0.94_(720, 1280, 3)_B1U-121.npy
+valid/images/cam_1776447582_0.93_(720, 1280, 3)_T7S-679.jpg
+valid/images/cam_1776447582_0.93_(720, 1280, 3)_T7S-679.npy
+valid/images/cam_1776690055_0.93_(720, 1280, 3)_P3B-845.jpg
+valid/images/cam_1776690055_0.93_(720, 1280, 3)_P3B-845.npy
+valid/images/cam_1776705737_0.94_(720, 1280, 3)_Z8R-826.jpg
+valid/images/cam_1776705737_0.94_(720, 1280, 3)_Z8R-826.npy
+valid/images/cam_1776726245_0.92_(720, 1280, 3)_Z83-595.jpg
+valid/images/cam_1776726245_0.92_(720, 1280, 3)_Z83-595.npy
+valid/images/cam_1776764889_0.94_(720, 1280, 3)_DWS-056.jpg
+valid/images/cam_1776764889_0.94_(720, 1280, 3)_DWS-056.npy
+valid/images/cam_1776781300_0.94_(720, 1280, 3)_UBQ-560.jpg
+valid/images/cam_1776781300_0.94_(720, 1280, 3)_UBQ-560.npy
+valid/images/cam_1776783461_0.93_(720, 1280, 3)_U7H-508.jpg
+valid/images/cam_1776783461_0.93_(720, 1280, 3)_U7H-508.npy
+valid/images/cam_1776861099_0.92_(720, 1280, 3)_X3R-347.jpg
+valid/images/cam_1776861099_0.92_(720, 1280, 3)_X3R-347.npy
+valid/images/cam_1776878812_0.94_(720, 1280, 3)_Z25-467.jpg
+valid/images/cam_1776878812_0.94_(720, 1280, 3)_Z25-467.npy
+valid/images/cam_1776887993_0.92_(720, 1280, 3)_X2F-311.jpg
+valid/images/cam_1776887993_0.92_(720, 1280, 3)_X2F-311.npy
+valid/images/cam_1776971325_0.93_(720, 1280, 3)_ANC-25L.jpg
+valid/images/cam_1776971325_0.93_(720, 1280, 3)_ANC-25L.npy
+valid/images/cam_1776972140_0.94_(720, 1280, 3)_AZA-933.jpg
+valid/images/cam_1776972140_0.94_(720, 1280, 3)_AZA-933.npy
+valid/images/cam_1776972952_0.94_(720, 1280, 3)_Y50-163.jpg
+valid/images/cam_1776972952_0.94_(720, 1280, 3)_Y50-163.npy
+valid/images/cam_1776995295_0.92_(720, 1280, 3)_V6P-223.jpg
+valid/images/cam_1776995295_0.92_(720, 1280, 3)_V6P-223.npy
+valid/images/cam_1777208769_0.93_(720, 1280, 3)_AZV-787.jpg
+valid/images/cam_1777208769_0.93_(720, 1280, 3)_AZV-787.npy
+valid/images/cam_1777220077_0.91_(720, 1280, 3)_14B-225.jpg
+valid/images/cam_1777220077_0.91_(720, 1280, 3)_14B-225.npy
+valid/images/cam_1777309074_0.93_(720, 1280, 3)_AMN-213.jpg
+valid/images/cam_1777309074_0.93_(720, 1280, 3)_AMN-213.npy
+valid/images/cam_1777312925_0.94_(720, 1280, 3)_Y3V-674.jpg
+valid/images/cam_1777312925_0.94_(720, 1280, 3)_Y3V-674.npy
+valid/images/cam_1777409871_0.91_(720, 1280, 3)_Z7Z-097.jpg
+valid/images/cam_1777409871_0.91_(720, 1280, 3)_Z7Z-097.npy
+valid/images/cam_1777465917_0.94_(720, 1280, 3)_07G-550.jpg
+valid/images/cam_1777465917_0.94_(720, 1280, 3)_07G-550.npy
+valid/images/cam_1777487453_0.93_(720, 1280, 3)_14J-124.jpg
+valid/images/cam_1777487453_0.93_(720, 1280, 3)_14J-124.npy
+valid/images/cam_1777488963_0.92_(720, 1280, 3)_CWY-312.jpg
+valid/images/cam_1777488963_0.92_(720, 1280, 3)_CWY-312.npy
+valid/images/cam_1777563912_0.94_(720, 1280, 3)_BTA-414.jpg
+valid/images/cam_1777563912_0.94_(720, 1280, 3)_BTA-414.npy
+valid/images/cam_1777583635_0.92_(720, 1280, 3)_A5Z-S21.jpg
+valid/images/cam_1777583635_0.92_(720, 1280, 3)_A5Z-S21.npy
+valid/images/cam_1777771987_0.93_(720, 1280, 3)_FON-823.jpg
+valid/images/cam_1777771987_0.93_(720, 1280, 3)_FON-823.npy
+valid/images/cam_1777825752_0.93_(720, 1280, 3)_CED-442.jpg
+valid/images/cam_1777825752_0.93_(720, 1280, 3)_CED-442.npy
+valid/images/cam_1777897204_0.93_(720, 1280, 3)_ICE-744.jpg
+valid/images/cam_1777897204_0.93_(720, 1280, 3)_ICE-744.npy
+valid/images/cam_1777917013_0.93_(720, 1280, 3)_R1M-257.jpg
+valid/images/cam_1777917013_0.93_(720, 1280, 3)_R1M-257.npy
+valid/images/cam_1777919404_0.92_(720, 1280, 3)_Z1A-690.jpg
+valid/images/cam_1777919404_0.92_(720, 1280, 3)_Z1A-690.npy
+valid/images/cam_1777988505_0.93_(720, 1280, 3)_V6L-005.jpg
+valid/images/cam_1777988505_0.93_(720, 1280, 3)_V6L-005.npy
+valid/images/cam_1778003593_0.93_(720, 1280, 3)_Z6S-279.jpg
+valid/images/cam_1778003593_0.93_(720, 1280, 3)_Z6S-279.npy
+valid/images/cam_1778015383_0.92_(720, 1280, 3)_V3L-560.jpg
+valid/images/cam_1778015383_0.92_(720, 1280, 3)_V3L-560.npy
+valid/images/cam_1778016916_0.91_(720, 1280, 3)_Z1V-186.jpg
+valid/images/cam_1778016916_0.91_(720, 1280, 3)_Z1V-186.npy
+valid/images/cam_1778079162_0.93_(720, 1280, 3)_14E-349.jpg
+valid/images/cam_1778079162_0.93_(720, 1280, 3)_14E-349.npy
+valid/images/cam_1778090217_0.93_(720, 1280, 3)_Z6Y-755.jpg
+valid/images/cam_1778090217_0.93_(720, 1280, 3)_Z6Y-755.npy
+valid/images/cam_1778093137_0.92_(720, 1280, 3)_F7K-615.jpg
+valid/images/cam_1778093137_0.92_(720, 1280, 3)_F7K-615.npy
+valid/images/cam_1778101837_0.93_(720, 1280, 3)_Z7P-589.jpg
+valid/images/cam_1778101837_0.93_(720, 1280, 3)_Z7P-589.npy
+valid/images/cam_1778104818_0.93_(720, 1280, 3)_Z8M-649.jpg
+valid/images/cam_1778104818_0.93_(720, 1280, 3)_Z8M-649.npy
+valid/images/cam_1778105343_0.94_(720, 1280, 3)_19A-245.jpg
+valid/images/cam_1778105343_0.94_(720, 1280, 3)_19A-245.npy
+valid/images/cam_1778159000_0.92_(720, 1280, 3)_Z2G-710.jpg
+valid/images/cam_1778159000_0.92_(720, 1280, 3)_Z2G-710.npy
+valid/images/cam_1778159684_0.93_(720, 1280, 3)_V3W-454.jpg
+valid/images/cam_1778159684_0.93_(720, 1280, 3)_V3W-454.npy
+valid/images/cam_1778258603_0.92_(720, 1280, 3)_Z8G-353.jpg
+valid/images/cam_1778258603_0.92_(720, 1280, 3)_Z8G-353.npy
+valid/images/cam_1778259523_0.93_(720, 1280, 3)_A8D-752.jpg
+valid/images/cam_1778259523_0.93_(720, 1280, 3)_A8D-752.npy
+valid/images/cam_1778343369_0.93_(720, 1280, 3)_VOS-355.jpg
+valid/images/cam_1778343369_0.93_(720, 1280, 3)_VOS-355.npy
+valid/images/cam_1778460543_0.93_(720, 1280, 3)_240-402.jpg
+valid/images/cam_1778460543_0.93_(720, 1280, 3)_240-402.npy
+valid/images/cam_1778524971_0.93_(720, 1280, 3)_XZH-959.jpg
+valid/images/cam_1778524971_0.93_(720, 1280, 3)_XZH-959.npy
+valid/images/cam_1778531762_0.92_(720, 1280, 3)_BAK-40L.jpg
+valid/images/cam_1778531762_0.92_(720, 1280, 3)_BAK-40L.npy
+valid/images/cam_1778589824_0.93_(720, 1280, 3)_15L-848.jpg
+valid/images/cam_1778589824_0.93_(720, 1280, 3)_15L-848.npy
+valid/images/cam_1778589868_0.92_(720, 1280, 3)_230-961.jpg
+valid/images/cam_1778589868_0.92_(720, 1280, 3)_230-961.npy
+valid/images/cam_1778590889_0.93_(720, 1280, 3)_V1K-291.jpg
+valid/images/cam_1778590889_0.93_(720, 1280, 3)_V1K-291.npy
+valid/images/cam_1778615284_0.94_(720, 1280, 3)_Y3H-030.jpg
+valid/images/cam_1778615284_0.94_(720, 1280, 3)_Y3H-030.npy
+valid/images/cam_1778674608_0.94_(720, 1280, 3)_CPL-271.jpg
+valid/images/cam_1778674608_0.94_(720, 1280, 3)_CPL-271.npy
+valid/images/cam_1778687672_0.93_(720, 1280, 3)_75F-044.jpg
+valid/images/cam_1778687672_0.93_(720, 1280, 3)_75F-044.npy
+valid/images/cam_1778700059_0.94_(720, 1280, 3)_K2N-54L.jpg
+valid/images/cam_1778700059_0.94_(720, 1280, 3)_K2N-54L.npy
+valid/images/cam_1778703818_0.91_(720, 1280, 3)_Z5Z-152.jpg
+valid/images/cam_1778703818_0.91_(720, 1280, 3)_Z5Z-152.npy
+valid/images/cam_1778762406_0.83_1280x720_BOB-743.jpg
+valid/images/cam_1778762406_0.83_1280x720_BOB-743.npy
+valid/images/cam_1778791516_0.90_1280x720_167-703.jpg
+valid/images/cam_1778791516_0.90_1280x720_167-703.npy
+valid/images/cam_1778808827_0.94_1280x720_Z6Z-336.jpg
+valid/images/cam_1778808827_0.94_1280x720_Z6Z-336.npy
+valid/images/cam_1779643436_0.94_1280x720_737-560.jpg
+valid/images/cam_1779643436_0.94_1280x720_737-560.npy
+valid/images/cam_1780061636_0.93_1280x720_V1J-760.jpg
+valid/images/cam_1780061636_0.93_1280x720_V1J-760.npy
+valid/images/cam_1780072786_0.93_1280x720_771-100.jpg
+valid/images/cam_1780072786_0.93_1280x720_771-100.npy
+valid/images/cam_1780079584_0.92_1280x720_L8X-827.jpg
+valid/images/cam_1780079584_0.92_1280x720_L8X-827.npy
+valid/images/cam_1780163742_0.86_1280x720_78G-660.jpg
+valid/images/cam_1780163742_0.86_1280x720_78G-660.npy
+valid/images/cam_1780319886_0.92_1280x720_BZV-922.jpg
+valid/images/cam_1780319886_0.92_1280x720_BZV-922.npy
+valid/images/cam_1780321142_0.93_1280x720_AEB-426.jpg
+valid/images/cam_1780321142_0.93_1280x720_AEB-426.npy
+valid/images/cam_1780341585_0.93_1280x720_Z5D-476.jpg
+valid/images/cam_1780341585_0.93_1280x720_Z5D-476.npy
+valid/images/cam_1780435226_0.90_1280x720_LDI-OC1.jpg
+valid/images/cam_1780435226_0.90_1280x720_LDI-OC1.npy
+valid/images/cam_1780496944_0.91_1280x720_17H-510.jpg
+valid/images/cam_1780496944_0.91_1280x720_17H-510.npy
+valid/images/cam_1780516831_0.92_1280x720_VOF-204.jpg
+valid/images/cam_1780516831_0.92_1280x720_VOF-204.npy
+valid/images/cam_1780524503_0.93_1280x720_ZSH-697.jpg
+valid/images/cam_1780524503_0.93_1280x720_ZSH-697.npy
+valid/images/cam_1780590250_0.93_1280x720_14T-760.jpg
+valid/images/cam_1780590250_0.93_1280x720_14T-760.npy
+valid/images/cam_1780676257_0.93_1280x720_J9U-506.jpg
+valid/images/cam_1780676257_0.93_1280x720_J9U-506.npy
+valid/images/cam_1780680798_0.93_1280x720_76S-433.jpg
+valid/images/cam_1780680798_0.93_1280x720_76S-433.npy
+valid/images/cam_1780693228_0.93_1280x720_V6G-277.jpg
+valid/images/cam_1780693228_0.93_1280x720_V6G-277.npy
+valid/images/cam_1780696568_0.90_1280x720_X4T-501.jpg
+valid/images/cam_1780696568_0.90_1280x720_X4T-501.npy
+valid/images/cam_1780868929_0.94_1280x720_ZSB-644.jpg
+valid/images/cam_1780868929_0.94_1280x720_ZSB-644.npy
+valid/images/cam_1780921979_0.94_1280x720_75L-420.jpg
+valid/images/cam_1780921979_0.94_1280x720_75L-420.npy
+valid/images/cam_1780925230_0.91_1280x720_LAS-778.jpg
+valid/images/cam_1780925230_0.91_1280x720_LAS-778.npy
+valid/images/cam_1780936622_0.93_1280x720_APF-183.jpg
+valid/images/cam_1780936622_0.93_1280x720_APF-183.npy
+valid/images/cam_1780957845_0.93_1280x720_X10-365.jpg
+valid/images/cam_1780957845_0.93_1280x720_X10-365.npy
+valid/images/cam_1781009811_0.75_1280x720_L2K-580.jpg
+valid/images/cam_1781009811_0.75_1280x720_L2K-580.npy
+valid/images/cam_1781025122_0.93_1280x720_Z7U-698.jpg
+valid/images/cam_1781025122_0.93_1280x720_Z7U-698.npy
+valid/images/cam_1781038801_0.92_1280x720_781-600.jpg
+valid/images/cam_1781038801_0.92_1280x720_781-600.npy
+valid/images/cam_1781038863_0.91_1280x720_X3L-165.jpg
+valid/images/cam_1781038863_0.91_1280x720_X3L-165.npy
+valid/images/cam_1781125856_0.94_1280x720_CHC-098.jpg
+valid/images/cam_1781125856_0.94_1280x720_CHC-098.npy
+valid/images/cam_1781181914_0.92_1280x720_Z4Y-553.jpg
+valid/images/cam_1781181914_0.92_1280x720_Z4Y-553.npy
+valid/images/cam_1781289097_0.92_1280x720_C4E-425.jpg
+valid/images/cam_1781289097_0.92_1280x720_C4E-425.npy
+valid/images/cam_1781527544_0.93_1280x720_F61-149.jpg
+valid/images/cam_1781527544_0.93_1280x720_F61-149.npy
+valid/images/cam_1781531487_0.93_1280x720_V1U-319.jpg
+valid/images/cam_1781531487_0.93_1280x720_V1U-319.npy
+valid/images/cam_1781539612_0.93_1280x720_P4H-134.jpg
+valid/images/cam_1781539612_0.93_1280x720_P4H-134.npy
+valid/images/cam_1781547150_0.94_1280x720_Z6G-575.jpg
+valid/images/cam_1781547150_0.94_1280x720_Z6G-575.npy
+valid/images/mob_000179492W_jpg.rf.0e1e14a136038dcc9225c951ca6227a5.jpg
+valid/images/mob_000179492W_jpg.rf.0e1e14a136038dcc9225c951ca6227a5.npy
+valid/images/mob_000356269W_jpg.rf.7a2a68837f87ee2271cabf8f3cb2569a.jpg
+valid/images/mob_000356269W_jpg.rf.7a2a68837f87ee2271cabf8f3cb2569a.npy
+valid/images/mob_133927641_3832321003464969_501639101925786366_n_jpg.rf.3b1250b16dadd889e0a84b8dc3203098.jpg
+valid/images/mob_133927641_3832321003464969_501639101925786366_n_jpg.rf.3b1250b16dadd889e0a84b8dc3203098.npy
+valid/images/mob_14082025_1334_jpg.rf.0199ad321e3ab8237171dad5a481a2ec.jpg
+valid/images/mob_14082025_1334_jpg.rf.0199ad321e3ab8237171dad5a481a2ec.npy
+valid/images/mob_14082025_1344_jpg.rf.45629921398ad753bb8707b192621b26.jpg
+valid/images/mob_14082025_1344_jpg.rf.45629921398ad753bb8707b192621b26.npy
+valid/images/mob_14082025_1370_jpg.rf.3e2a80ca870d94413a90f77afadde911.jpg
+valid/images/mob_14082025_1370_jpg.rf.3e2a80ca870d94413a90f77afadde911.npy
+valid/images/mob_14082025_1377_jpg.rf.34c0cfde47497fdf49c542ac172278c4.jpg
+valid/images/mob_14082025_1377_jpg.rf.34c0cfde47497fdf49c542ac172278c4.npy
+valid/images/mob_14082025_1380_jpg.rf.8564b91b1c997be43265aaf59c8d189b.jpg
+valid/images/mob_14082025_1380_jpg.rf.8564b91b1c997be43265aaf59c8d189b.npy
+valid/images/mob_14082025_1438_jpg.rf.2a45df2435b94b6f346e9b954fa910ae.jpg
+valid/images/mob_14082025_1438_jpg.rf.2a45df2435b94b6f346e9b954fa910ae.npy
+valid/images/mob_14082025_1456_jpg.rf.4154ef9a29d94d8e1f61f52505e866f4.jpg
+valid/images/mob_14082025_1456_jpg.rf.4154ef9a29d94d8e1f61f52505e866f4.npy
+valid/images/mob_14082025_1457_jpg.rf.7446613d5a152246a496665003bfea4e.jpg
+valid/images/mob_14082025_1457_jpg.rf.7446613d5a152246a496665003bfea4e.npy
+valid/images/mob_14082025_1468_jpg.rf.010ea7ec0b6908a4a1ecdfc09fa251ef.jpg
+valid/images/mob_14082025_1468_jpg.rf.010ea7ec0b6908a4a1ecdfc09fa251ef.npy
+valid/images/mob_14082025_1490_jpg.rf.16c3e8e7061a85a2b54c5e2cab44e77c.jpg
+valid/images/mob_14082025_1490_jpg.rf.16c3e8e7061a85a2b54c5e2cab44e77c.npy
+valid/images/mob_14082025_1495_jpg.rf.d4ac5fe6915f6a2b32976c6afbb1760e.jpg
+valid/images/mob_14082025_1495_jpg.rf.d4ac5fe6915f6a2b32976c6afbb1760e.npy
+valid/images/mob_14082025_1501_jpg.rf.3b3dfe7959e0c6157e3451532e898e26.jpg
+valid/images/mob_14082025_1501_jpg.rf.3b3dfe7959e0c6157e3451532e898e26.npy
+valid/images/mob_14082025_1502_jpg.rf.3c97408ebddea0fdd852e96b6524f5f8.jpg
+valid/images/mob_14082025_1502_jpg.rf.3c97408ebddea0fdd852e96b6524f5f8.npy
+valid/images/mob_14082025_1509_jpg.rf.74b579e5e12013b42f986de7823fee0d.jpg
+valid/images/mob_14082025_1509_jpg.rf.74b579e5e12013b42f986de7823fee0d.npy
+valid/images/mob_14082025_1518_jpg.rf.44222621be8c8315af517301881eb05e.jpg
+valid/images/mob_14082025_1518_jpg.rf.44222621be8c8315af517301881eb05e.npy
+valid/images/mob_14082025_1522_jpg.rf.80517c43a4cb1a276d668d1bf298e435.jpg
+valid/images/mob_14082025_1522_jpg.rf.80517c43a4cb1a276d668d1bf298e435.npy
+valid/images/mob_14082025_1544_jpg.rf.26a4dd419dae21b51aad4492175f0c4e.jpg
+valid/images/mob_14082025_1544_jpg.rf.26a4dd419dae21b51aad4492175f0c4e.npy
+valid/images/mob_14082025_1545_jpg.rf.17703f5ecc6d68fc654b64b119fd0db1.jpg
+valid/images/mob_14082025_1545_jpg.rf.17703f5ecc6d68fc654b64b119fd0db1.npy
+valid/images/mob_14082025_1550_jpg.rf.6a227a969875babbd1e6353c12be4536.jpg
+valid/images/mob_14082025_1550_jpg.rf.6a227a969875babbd1e6353c12be4536.npy
+valid/images/mob_14082025_1555_jpg.rf.972a38758bd20ec6826b59248dd243d6.jpg
+valid/images/mob_14082025_1555_jpg.rf.972a38758bd20ec6826b59248dd243d6.npy
+valid/images/mob_14082025_1576_jpg.rf.af4eaacea920516f5da632cedc0f184d.jpg
+valid/images/mob_14082025_1576_jpg.rf.af4eaacea920516f5da632cedc0f184d.npy
+valid/images/mob_14082025_1580_jpg.rf.1eb1b7ae614e77adb5a74c8c30adb55b.jpg
+valid/images/mob_14082025_1580_jpg.rf.1eb1b7ae614e77adb5a74c8c30adb55b.npy
+valid/images/mob_14082025_1584_jpg.rf.0d36c4b8a7d098212c514406939ad60e.jpg
+valid/images/mob_14082025_1584_jpg.rf.0d36c4b8a7d098212c514406939ad60e.npy
+valid/images/mob_14082025_1591_jpg.rf.62afe9caf1cf7f6e816c9cd82a7f2fda.jpg
+valid/images/mob_14082025_1591_jpg.rf.62afe9caf1cf7f6e816c9cd82a7f2fda.npy
+valid/images/mob_14082025_1598_jpg.rf.4de10bf67bb56f4e95100d064eb9d4a7.jpg
+valid/images/mob_14082025_1598_jpg.rf.4de10bf67bb56f4e95100d064eb9d4a7.npy
+valid/images/mob_14082025_1619_jpg.rf.bdd98ce6f8bca23bc404cd50f60e95fd.jpg
+valid/images/mob_14082025_1619_jpg.rf.bdd98ce6f8bca23bc404cd50f60e95fd.npy
+valid/images/mob_14082025_1621_jpg.rf.02bd8b4f9711fa4506413abd2561e88e.jpg
+valid/images/mob_14082025_1621_jpg.rf.02bd8b4f9711fa4506413abd2561e88e.npy
+valid/images/mob_14082025_1630_jpg.rf.d07142386ed1251ba35640940f188f6c.jpg
+valid/images/mob_14082025_1630_jpg.rf.d07142386ed1251ba35640940f188f6c.npy
+valid/images/mob_14082025_1631_jpg.rf.193d1723e16e5d33491642c9c43f876f.jpg
+valid/images/mob_14082025_1631_jpg.rf.193d1723e16e5d33491642c9c43f876f.npy
+valid/images/mob_14082025_1646_jpg.rf.8e613488119cef90c5bdca20cfb2a065.jpg
+valid/images/mob_14082025_1646_jpg.rf.8e613488119cef90c5bdca20cfb2a065.npy
+valid/images/mob_14082025_1704_jpg.rf.14a25340fb7687c049c5468544f95609.jpg
+valid/images/mob_14082025_1704_jpg.rf.14a25340fb7687c049c5468544f95609.npy
+valid/images/mob_14082025_1745_jpg.rf.2a92f3bfc179a08374632f0e9ee944c9.jpg
+valid/images/mob_14082025_1745_jpg.rf.2a92f3bfc179a08374632f0e9ee944c9.npy
+valid/images/mob_14082025_1780_jpg.rf.240cdd11b43217fa94e58a3466d62460.jpg
+valid/images/mob_14082025_1780_jpg.rf.240cdd11b43217fa94e58a3466d62460.npy
+valid/images/mob_14082025_1849_jpg.rf.3f51634a08e96422902072fecc739482.jpg
+valid/images/mob_14082025_1849_jpg.rf.3f51634a08e96422902072fecc739482.npy
+valid/images/mob_14082025_1858_jpg.rf.900ff820c5ca1bcad5cc9ba81b886249.jpg
+valid/images/mob_14082025_1858_jpg.rf.900ff820c5ca1bcad5cc9ba81b886249.npy
+valid/images/mob_14082025_1859_jpg.rf.2d7cbadf28a2638c6784f97099d74dba.jpg
+valid/images/mob_14082025_1859_jpg.rf.2d7cbadf28a2638c6784f97099d74dba.npy
+valid/images/mob_14082025_1861_jpg.rf.07e9a441a886636d216cf809e4e6485b.jpg
+valid/images/mob_14082025_1861_jpg.rf.07e9a441a886636d216cf809e4e6485b.npy
+valid/images/mob_14082025_1871_jpg.rf.258010f9ce02b6473a76a00445086fb6.jpg
+valid/images/mob_14082025_1871_jpg.rf.258010f9ce02b6473a76a00445086fb6.npy
+valid/images/mob_14082025_1969_jpg.rf.b63ffa76a47cf3583a244ce73c1ba946.jpg
+valid/images/mob_14082025_1969_jpg.rf.b63ffa76a47cf3583a244ce73c1ba946.npy
+valid/images/mob_14082025_2076_jpg.rf.b94cdb59c3cd8c0615f405578f5b4624.jpg
+valid/images/mob_14082025_2076_jpg.rf.b94cdb59c3cd8c0615f405578f5b4624.npy
+valid/images/mob_14082025_2077_jpg.rf.014e582d4afd45fe10c725278f78e3ad.jpg
+valid/images/mob_14082025_2077_jpg.rf.014e582d4afd45fe10c725278f78e3ad.npy
+valid/images/mob_14082025_2193_jpg.rf.a83d8ba1b7fc5f1fd358cc67437a5914.jpg
+valid/images/mob_14082025_2193_jpg.rf.a83d8ba1b7fc5f1fd358cc67437a5914.npy
+valid/images/mob_14082025_2240_jpg.rf.a93934ae122f523f437775223363b5b1.jpg
+valid/images/mob_14082025_2240_jpg.rf.a93934ae122f523f437775223363b5b1.npy
+valid/images/mob_14082025_2241_jpg.rf.607bb86e0756415240cff5bed93e3cd3.jpg
+valid/images/mob_14082025_2241_jpg.rf.607bb86e0756415240cff5bed93e3cd3.npy
+valid/images/mob_14082025_2249_jpg.rf.5c4fa4904544d0eb74f2ad32dfd9e0fd.jpg
+valid/images/mob_14082025_2249_jpg.rf.5c4fa4904544d0eb74f2ad32dfd9e0fd.npy
+valid/images/mob_14082025_2263_jpg.rf.af17e7a54f3e705317aff0918a5bab38.jpg
+valid/images/mob_14082025_2263_jpg.rf.af17e7a54f3e705317aff0918a5bab38.npy
+valid/images/mob_14082025_2328_jpg.rf.d7ccbafdff921dc6a14dc895a608f234.jpg
+valid/images/mob_14082025_2328_jpg.rf.d7ccbafdff921dc6a14dc895a608f234.npy
+valid/images/mob_14082025_2349_jpg.rf.9d8da2f8b387df035170d5896e4973fa.jpg
+valid/images/mob_14082025_2349_jpg.rf.9d8da2f8b387df035170d5896e4973fa.npy
+valid/images/mob_14082025_2356_jpg.rf.5df9376ab8705f88a43f2f553591b28e.jpg
+valid/images/mob_14082025_2356_jpg.rf.5df9376ab8705f88a43f2f553591b28e.npy
+valid/images/mob_14082025_2392_jpg.rf.b375f3335d2f13419cae254b25675330.jpg
+valid/images/mob_14082025_2392_jpg.rf.b375f3335d2f13419cae254b25675330.npy
+valid/images/mob_14082025_2404_jpg.rf.265deab1d23c1e9060f3e9cb9465ee51.jpg
+valid/images/mob_14082025_2404_jpg.rf.265deab1d23c1e9060f3e9cb9465ee51.npy
+valid/images/mob_14082025_2449_jpg.rf.03d7f396f05f18df679988e1b0615dac.jpg
+valid/images/mob_14082025_2449_jpg.rf.03d7f396f05f18df679988e1b0615dac.npy
+valid/images/mob_14082025_2525_jpg.rf.25156303c718dc94911e25c79daef315.jpg
+valid/images/mob_14082025_2525_jpg.rf.25156303c718dc94911e25c79daef315.npy
+valid/images/mob_14082025_2526_jpg.rf.3bf669786361a2bd166c28f786b13b67.jpg
+valid/images/mob_14082025_2526_jpg.rf.3bf669786361a2bd166c28f786b13b67.npy
+valid/images/mob_14082025_2607_jpg.rf.b14cbc904fc708c40f7cdd66bdb4cff3.jpg
+valid/images/mob_14082025_2607_jpg.rf.b14cbc904fc708c40f7cdd66bdb4cff3.npy
+valid/images/mob_14082025_2623_jpg.rf.5702282c551a30b08659b96a907b14f2.jpg
+valid/images/mob_14082025_2623_jpg.rf.5702282c551a30b08659b96a907b14f2.npy
+valid/images/mob_14082025_2649_jpg.rf.6a313ed69f72d9d1ff09a11d7422cc74.jpg
+valid/images/mob_14082025_2649_jpg.rf.6a313ed69f72d9d1ff09a11d7422cc74.npy
+valid/images/mob_14082025_6840_png.rf.a6214a83d0e38e1733ea493092eabf2d.jpg
+valid/images/mob_14082025_6840_png.rf.a6214a83d0e38e1733ea493092eabf2d.npy
+valid/images/mob_14082025_6847_png.rf.c3281fac94111c46908cbf1185bd134d.jpg
+valid/images/mob_14082025_6847_png.rf.c3281fac94111c46908cbf1185bd134d.npy
+valid/images/mob_14082025_6848_png.rf.40d433bc8d9d9532241cb871050d96cc.jpg
+valid/images/mob_14082025_6848_png.rf.40d433bc8d9d9532241cb871050d96cc.npy
+valid/images/mob_14082025_6853_png.rf.8b803ecf8d5879c26ba1802271b28a55.jpg
+valid/images/mob_14082025_6853_png.rf.8b803ecf8d5879c26ba1802271b28a55.npy
+valid/images/mob_14082025_6858_png.rf.131640ef523ab8d59de4c29cadeaa30a.jpg
+valid/images/mob_14082025_6858_png.rf.131640ef523ab8d59de4c29cadeaa30a.npy
+valid/images/mob_14082025_6865_png.rf.5fe0447a33dadbe4917eae79f2cd4840.jpg
+valid/images/mob_14082025_6865_png.rf.5fe0447a33dadbe4917eae79f2cd4840.npy
+valid/images/mob_14082025_6870_png.rf.6b722699f5f6ce25d0b6da7b4f146e2d.jpg
+valid/images/mob_14082025_6870_png.rf.6b722699f5f6ce25d0b6da7b4f146e2d.npy
+valid/images/mob_14082025_6871_png.rf.9c5f4f78121125e86414cc64342801ce.jpg
+valid/images/mob_14082025_6871_png.rf.9c5f4f78121125e86414cc64342801ce.npy
+valid/images/mob_14082025_6881_png.rf.42d17fa1dc0d1f179dbcdfc447440b0a.jpg
+valid/images/mob_14082025_6881_png.rf.42d17fa1dc0d1f179dbcdfc447440b0a.npy
+valid/images/mob_14082025_6885_png.rf.33138b0bbc4b915182b05add6ffa85ed.jpg
+valid/images/mob_14082025_6885_png.rf.33138b0bbc4b915182b05add6ffa85ed.npy
+valid/images/mob_14082025_6896_png.rf.2c5f8b45316e62d8c8fa9a691396bbd4.jpg
+valid/images/mob_14082025_6896_png.rf.2c5f8b45316e62d8c8fa9a691396bbd4.npy
+valid/images/mob_14082025_6899_png.rf.212f14c798fc3eb898d8b72dd9b2914e.jpg
+valid/images/mob_14082025_6899_png.rf.212f14c798fc3eb898d8b72dd9b2914e.npy
+valid/images/mob_14082025_6902_png.rf.17b09377c7a447ff7e2e2e9d7fdb32d7.jpg
+valid/images/mob_14082025_6902_png.rf.17b09377c7a447ff7e2e2e9d7fdb32d7.npy
+valid/images/mob_14082025_6903_png.rf.6e00a1764427b96a7149ff090edd6849.jpg
+valid/images/mob_14082025_6903_png.rf.6e00a1764427b96a7149ff090edd6849.npy
+valid/images/mob_14082025_6910_png.rf.51066bef277a1184ca3b422143adab4f.jpg
+valid/images/mob_14082025_6910_png.rf.51066bef277a1184ca3b422143adab4f.npy
+valid/images/mob_14082025_6924_png.rf.f2c54540f99bc4261196ce2f52183d6c.jpg
+valid/images/mob_14082025_6924_png.rf.f2c54540f99bc4261196ce2f52183d6c.npy
+valid/images/mob_14082025_6929_png.rf.33a19d4c9f51e6e2df565d18361e8356.jpg
+valid/images/mob_14082025_6929_png.rf.33a19d4c9f51e6e2df565d18361e8356.npy
+valid/images/mob_14082025_6941_png.rf.ce55e3fdeb5fbd3bbc65cc4235fc4161.jpg
+valid/images/mob_14082025_6941_png.rf.ce55e3fdeb5fbd3bbc65cc4235fc4161.npy
+valid/images/mob_14082025_6944_png.rf.526ee0c7ba46ffdfe981f30cd6f8b0d8.jpg
+valid/images/mob_14082025_6944_png.rf.526ee0c7ba46ffdfe981f30cd6f8b0d8.npy
+valid/images/mob_14082025_6954_png.rf.53b83fc78c1b23d1f88f41187c39d922.jpg
+valid/images/mob_14082025_6954_png.rf.53b83fc78c1b23d1f88f41187c39d922.npy
+valid/images/mob_14082025_6962_png.rf.49c99f93521bced9c0309e354f33d0d0.jpg
+valid/images/mob_14082025_6962_png.rf.49c99f93521bced9c0309e354f33d0d0.npy
+valid/images/mob_14082025_6964_png.rf.2739bcf53674fb38ca4b71f9a1df6c12.jpg
+valid/images/mob_14082025_6964_png.rf.2739bcf53674fb38ca4b71f9a1df6c12.npy
+valid/images/mob_14082025_6990_png.rf.502c020ba029840d9ec7600d39084863.jpg
+valid/images/mob_14082025_6990_png.rf.502c020ba029840d9ec7600d39084863.npy
+valid/images/mob_14082025_6994_png.rf.0a5ac9acf8c65d569f0575c67a79c670.jpg
+valid/images/mob_14082025_6994_png.rf.0a5ac9acf8c65d569f0575c67a79c670.npy
+valid/images/mob_14082025_7025_png.rf.415866ef041e74c10bdea3f8e6901fd3.jpg
+valid/images/mob_14082025_7025_png.rf.415866ef041e74c10bdea3f8e6901fd3.npy
+valid/images/mob_14082025_7045_png.rf.66ce8f736bd961a78c6ed2a6a7b1a5a7.jpg
+valid/images/mob_14082025_7045_png.rf.66ce8f736bd961a78c6ed2a6a7b1a5a7.npy
+valid/images/mob_14082025_7081_png.rf.b962b04297a8b862327463564823d6dc.jpg
+valid/images/mob_14082025_7081_png.rf.b962b04297a8b862327463564823d6dc.npy
+valid/images/mob_14082025_7083_png.rf.8a857478a6041059b6b623389fb9ec89.jpg
+valid/images/mob_14082025_7083_png.rf.8a857478a6041059b6b623389fb9ec89.npy
+valid/images/mob_14082025_7087_png.rf.044d5090b3b5f02045140ec69d979306.jpg
+valid/images/mob_14082025_7087_png.rf.044d5090b3b5f02045140ec69d979306.npy
+valid/images/mob_14082025_7091_png.rf.1d628ad70dc09e02668d84379d96f370.jpg
+valid/images/mob_14082025_7091_png.rf.1d628ad70dc09e02668d84379d96f370.npy
+valid/images/mob_14082025_7093_png.rf.d43dba8d8d98698b71b6a30a0391ae06.jpg
+valid/images/mob_14082025_7093_png.rf.d43dba8d8d98698b71b6a30a0391ae06.npy
+valid/images/mob_14082025_7094_png.rf.2a1bbf7e58ce2a565c0e3846a575a7d3.jpg
+valid/images/mob_14082025_7094_png.rf.2a1bbf7e58ce2a565c0e3846a575a7d3.npy
+valid/images/mob_14082025_7097_png.rf.9e11b92b416f60952823a2eb8831f797.jpg
+valid/images/mob_14082025_7097_png.rf.9e11b92b416f60952823a2eb8831f797.npy
+valid/images/mob_14082025_7098_png.rf.1ecc06054f2793cb94d52bcb1743d036.jpg
+valid/images/mob_14082025_7098_png.rf.1ecc06054f2793cb94d52bcb1743d036.npy
+valid/images/mob_14082025_7100_png.rf.3cd490ebf107c0d3d5311443f386b280.jpg
+valid/images/mob_14082025_7100_png.rf.3cd490ebf107c0d3d5311443f386b280.npy
+valid/images/mob_14082025_7114_png.rf.84dd5199622af11b5a367e8b534b359f.jpg
+valid/images/mob_14082025_7114_png.rf.84dd5199622af11b5a367e8b534b359f.npy
+valid/images/mob_14082025_7121_png.rf.4fa5dd871a41170c4b98e98a4883462a.jpg
+valid/images/mob_14082025_7121_png.rf.4fa5dd871a41170c4b98e98a4883462a.npy
+valid/images/mob_14082025_7125_png.rf.62c535542307e6510bfa50c02570957c.jpg
+valid/images/mob_14082025_7125_png.rf.62c535542307e6510bfa50c02570957c.npy
+valid/images/mob_14082025_7127_png.rf.9ce5331238b0ca2e7ee7c12db3a4367f.jpg
+valid/images/mob_14082025_7127_png.rf.9ce5331238b0ca2e7ee7c12db3a4367f.npy
+valid/images/mob_14082025_7128_png.rf.0418c463c623fefe7e7f3023fac0024b.jpg
+valid/images/mob_14082025_7128_png.rf.0418c463c623fefe7e7f3023fac0024b.npy
+valid/images/mob_14082025_7182_png.rf.3a143be98958faa27be1192a5e5da23f.jpg
+valid/images/mob_14082025_7182_png.rf.3a143be98958faa27be1192a5e5da23f.npy
+valid/images/mob_14082025_7196_png.rf.2670e8b9a08a2bd5efa8398208ed6757.jpg
+valid/images/mob_14082025_7196_png.rf.2670e8b9a08a2bd5efa8398208ed6757.npy
+valid/images/mob_14082025_7215_png.rf.db0fde00753057385231a7868c034d79.jpg
+valid/images/mob_14082025_7215_png.rf.db0fde00753057385231a7868c034d79.npy
+valid/images/mob_14082025_7217_png.rf.9b41614cf2d9cf59e5c9433be8761d7d.jpg
+valid/images/mob_14082025_7217_png.rf.9b41614cf2d9cf59e5c9433be8761d7d.npy
+valid/images/mob_14082025_7219_png.rf.2cc26c577178b49992640a9530109276.jpg
+valid/images/mob_14082025_7219_png.rf.2cc26c577178b49992640a9530109276.npy
+valid/images/mob_14082025_7221_png.rf.c1dd63c192fb776b7179a143aec04122.jpg
+valid/images/mob_14082025_7221_png.rf.c1dd63c192fb776b7179a143aec04122.npy
+valid/images/mob_14082025_7223_png.rf.420198679cdb9c06be1a1fb460243ec8.jpg
+valid/images/mob_14082025_7223_png.rf.420198679cdb9c06be1a1fb460243ec8.npy
+valid/images/mob_14082025_7228_png.rf.20ea5609bb2d69d80c297863034b190f.jpg
+valid/images/mob_14082025_7228_png.rf.20ea5609bb2d69d80c297863034b190f.npy
+valid/images/mob_14082025_7237_png.rf.311703beb3f91eff939e12979de428a1.jpg
+valid/images/mob_14082025_7237_png.rf.311703beb3f91eff939e12979de428a1.npy
+valid/images/mob_14082025_7241_png.rf.4258f1312838afad810a469870d672d9.jpg
+valid/images/mob_14082025_7241_png.rf.4258f1312838afad810a469870d672d9.npy
+valid/images/mob_14082025_7246_png.rf.3c1541f7d51a84f8e9311a42fc95039d.jpg
+valid/images/mob_14082025_7246_png.rf.3c1541f7d51a84f8e9311a42fc95039d.npy
+valid/images/mob_14082025_7257_png.rf.15f5cdb5575586a2ed74d5cfe4e42adf.jpg
+valid/images/mob_14082025_7257_png.rf.15f5cdb5575586a2ed74d5cfe4e42adf.npy
+valid/images/mob_14082025_7278_png.rf.9dc40396dbd515f87dd7ead0a8bef9e8.jpg
+valid/images/mob_14082025_7278_png.rf.9dc40396dbd515f87dd7ead0a8bef9e8.npy
+valid/images/mob_14082025_7279_png.rf.1be112fb0530d97e6c75fc07c8e2cd17.jpg
+valid/images/mob_14082025_7279_png.rf.1be112fb0530d97e6c75fc07c8e2cd17.npy
+valid/images/mob_14082025_7297_png.rf.cacf3df60f93fe105d8cdbbc4f4b4d44.jpg
+valid/images/mob_14082025_7297_png.rf.cacf3df60f93fe105d8cdbbc4f4b4d44.npy
+valid/images/mob_14082025_7305_png.rf.73d2bbf1678cce6808473f152c14d87b.jpg
+valid/images/mob_14082025_7305_png.rf.73d2bbf1678cce6808473f152c14d87b.npy
+valid/images/mob_14082025_7340_png.rf.aea510a8252cbb61b6e3a64aaa40f00d.jpg
+valid/images/mob_14082025_7340_png.rf.aea510a8252cbb61b6e3a64aaa40f00d.npy
+valid/images/mob_14082025_7343_png.rf.8cfd3675021d22071d7090378beb82c9.jpg
+valid/images/mob_14082025_7343_png.rf.8cfd3675021d22071d7090378beb82c9.npy
+valid/images/mob_14082025_7350_png.rf.ee767011f540265b223e7df2aab57d15.jpg
+valid/images/mob_14082025_7350_png.rf.ee767011f540265b223e7df2aab57d15.npy
+valid/images/mob_14082025_7351_png.rf.28506ee96f6a0b9c76ef554cffd2f6d8.jpg
+valid/images/mob_14082025_7351_png.rf.28506ee96f6a0b9c76ef554cffd2f6d8.npy
+valid/images/mob_14082025_7366_png.rf.d9bb65b61e24666a449c11617cc56280.jpg
+valid/images/mob_14082025_7366_png.rf.d9bb65b61e24666a449c11617cc56280.npy
+valid/images/mob_14082025_7367_png.rf.cb3b2b07cdc17e141bb3ea828b636b5e.jpg
+valid/images/mob_14082025_7367_png.rf.cb3b2b07cdc17e141bb3ea828b636b5e.npy
+valid/images/mob_14082025_7373_png.rf.3f136a51ce2624ca8f0d7155d486f23e.jpg
+valid/images/mob_14082025_7373_png.rf.3f136a51ce2624ca8f0d7155d486f23e.npy
+valid/images/mob_14082025_7378_png.rf.4991da9052d581253c092b15e701df3f.jpg
+valid/images/mob_14082025_7378_png.rf.4991da9052d581253c092b15e701df3f.npy
+valid/images/mob_14082025_7380_png.rf.29aa8c2fbe287f54954b5bf2950d4f42.jpg
+valid/images/mob_14082025_7380_png.rf.29aa8c2fbe287f54954b5bf2950d4f42.npy
+valid/images/mob_14082025_7393_png.rf.7c80e6af477dbf62c7a63421e6301eee.jpg
+valid/images/mob_14082025_7393_png.rf.7c80e6af477dbf62c7a63421e6301eee.npy
+valid/images/mob_14082025_7416_png.rf.02174437b54d098ba5960d193fd3b3c7.jpg
+valid/images/mob_14082025_7416_png.rf.02174437b54d098ba5960d193fd3b3c7.npy
+valid/images/mob_14082025_7422_png.rf.72e3a7cb1f403393e254857a56d93577.jpg
+valid/images/mob_14082025_7422_png.rf.72e3a7cb1f403393e254857a56d93577.npy
+valid/images/mob_14082025_7423_png.rf.288ff67efc9a447533f469a95a41feb5.jpg
+valid/images/mob_14082025_7423_png.rf.288ff67efc9a447533f469a95a41feb5.npy
+valid/images/mob_14082025_7437_png.rf.cf9110f51bd5ee7172657a2067703431.jpg
+valid/images/mob_14082025_7437_png.rf.cf9110f51bd5ee7172657a2067703431.npy
+valid/images/mob_14082025_7444_png.rf.4239d89a6b7d784a791264eda1cd6cdb.jpg
+valid/images/mob_14082025_7444_png.rf.4239d89a6b7d784a791264eda1cd6cdb.npy
+valid/images/mob_14082025_7448_png.rf.3c43e6f01d3e8c45df4b704fec7a222e.jpg
+valid/images/mob_14082025_7448_png.rf.3c43e6f01d3e8c45df4b704fec7a222e.npy
+valid/images/mob_14082025_7451_png.rf.72adfff0d09d1dbf8329879889396a1d.jpg
+valid/images/mob_14082025_7451_png.rf.72adfff0d09d1dbf8329879889396a1d.npy
+valid/images/mob_14082025_7452_png.rf.66c6f09857e12d2e4a8a7351d549fdf7.jpg
+valid/images/mob_14082025_7452_png.rf.66c6f09857e12d2e4a8a7351d549fdf7.npy
+valid/images/mob_14082025_7459_png.rf.a168d12bb812fe899d9aca141f8117e0.jpg
+valid/images/mob_14082025_7459_png.rf.a168d12bb812fe899d9aca141f8117e0.npy
+valid/images/mob_14082025_7466_png.rf.476ef377fe6160b26df2f7f6f37239ba.jpg
+valid/images/mob_14082025_7466_png.rf.476ef377fe6160b26df2f7f6f37239ba.npy
+valid/images/mob_14082025_7471_png.rf.8e72ba5bbc0295fe46f08d50595f55f4.jpg
+valid/images/mob_14082025_7471_png.rf.8e72ba5bbc0295fe46f08d50595f55f4.npy
+valid/images/mob_14082025_7472_png.rf.5c0c20a2e370b03246a52df6be4e8e5c.jpg
+valid/images/mob_14082025_7472_png.rf.5c0c20a2e370b03246a52df6be4e8e5c.npy
+valid/images/mob_14082025_7475_png.rf.a7dcf1d9a19502dfcc509c25b538e18b.jpg
+valid/images/mob_14082025_7475_png.rf.a7dcf1d9a19502dfcc509c25b538e18b.npy
+valid/images/mob_14082025_7477_png.rf.388cfdc86bacb300310d8c30782fa344.jpg
+valid/images/mob_14082025_7477_png.rf.388cfdc86bacb300310d8c30782fa344.npy
+valid/images/mob_14082025_7496_png.rf.17dea582ac7507d8a8f0e9e470e0c877.jpg
+valid/images/mob_14082025_7496_png.rf.17dea582ac7507d8a8f0e9e470e0c877.npy
+valid/images/mob_14082025_7511_png.rf.4fa1f9c417ff6122187cb894d0957ef2.jpg
+valid/images/mob_14082025_7511_png.rf.4fa1f9c417ff6122187cb894d0957ef2.npy
+valid/images/mob_14082025_7519_png.rf.30cf70cfa208cfbc73c9f61e9db5543a.jpg
+valid/images/mob_14082025_7519_png.rf.30cf70cfa208cfbc73c9f61e9db5543a.npy
+valid/images/mob_14082025_7520_png.rf.7b668110407361a98708992675ffcea0.jpg
+valid/images/mob_14082025_7520_png.rf.7b668110407361a98708992675ffcea0.npy
+valid/images/mob_14082025_7521_png.rf.837faa9603c82a709e0890d3331aa980.jpg
+valid/images/mob_14082025_7521_png.rf.837faa9603c82a709e0890d3331aa980.npy
+valid/images/mob_14082025_7522_png.rf.46b07f67c2c89f3ad19e63e34e3ead3a.jpg
+valid/images/mob_14082025_7522_png.rf.46b07f67c2c89f3ad19e63e34e3ead3a.npy
+valid/images/mob_14082025_7530_png.rf.c81ac367a139c95efa167d62d9b18b26.jpg
+valid/images/mob_14082025_7530_png.rf.c81ac367a139c95efa167d62d9b18b26.npy
+valid/images/mob_14082025_7533_png.rf.7891ebed038ca835b89be49a98c334ad.jpg
+valid/images/mob_14082025_7533_png.rf.7891ebed038ca835b89be49a98c334ad.npy
+valid/images/mob_14082025_7550_png.rf.726bb4272c64ea6c97e095f4cba0adce.jpg
+valid/images/mob_14082025_7550_png.rf.726bb4272c64ea6c97e095f4cba0adce.npy
+valid/images/mob_14082025_7563_png.rf.a8d6e9c8b43333f8a7501127df28b393.jpg
+valid/images/mob_14082025_7563_png.rf.a8d6e9c8b43333f8a7501127df28b393.npy
+valid/images/mob_14082025_7587_png.rf.64ac5cf2f6fb8caeb0a339b240259abe.jpg
+valid/images/mob_14082025_7587_png.rf.64ac5cf2f6fb8caeb0a339b240259abe.npy
+valid/images/mob_14082025_7591_png.rf.fd974bd0de96ad45f7a04845f66e8f0d.jpg
+valid/images/mob_14082025_7591_png.rf.fd974bd0de96ad45f7a04845f66e8f0d.npy
+valid/images/mob_14082025_7599_png.rf.71e270b5f2bc94735af9c476320cec2d.jpg
+valid/images/mob_14082025_7599_png.rf.71e270b5f2bc94735af9c476320cec2d.npy
+valid/images/mob_14082025_7603_png.rf.9a0cfeffa225882544372ea51a2bc85f.jpg
+valid/images/mob_14082025_7603_png.rf.9a0cfeffa225882544372ea51a2bc85f.npy
+valid/images/mob_14082025_7609_png.rf.1d0091c445b06374ccf57425198c98f4.jpg
+valid/images/mob_14082025_7609_png.rf.1d0091c445b06374ccf57425198c98f4.npy
+valid/images/mob_14082025_7617_png.rf.5ad6669f6c764ec3a3aeaea77f328ede.jpg
+valid/images/mob_14082025_7617_png.rf.5ad6669f6c764ec3a3aeaea77f328ede.npy
+valid/images/mob_14082025_7628_png.rf.2d25b85628c72f08f250902cdb974601.jpg
+valid/images/mob_14082025_7628_png.rf.2d25b85628c72f08f250902cdb974601.npy
+valid/images/mob_14082025_7631_png.rf.a027a4b9dadc628a4abb91a6f3144d43.jpg
+valid/images/mob_14082025_7631_png.rf.a027a4b9dadc628a4abb91a6f3144d43.npy
+valid/images/mob_14082025_7678_png.rf.021dcf9d65b13ce35f061727a5256773.jpg
+valid/images/mob_14082025_7678_png.rf.021dcf9d65b13ce35f061727a5256773.npy
+valid/images/mob_14082025_7679_png.rf.f5ecd038699e68a988c55002711b2449.jpg
+valid/images/mob_14082025_7679_png.rf.f5ecd038699e68a988c55002711b2449.npy
+valid/images/mob_14082025_7682_png.rf.2a411b8e841b930a3c577df03dc0f00b.jpg
+valid/images/mob_14082025_7682_png.rf.2a411b8e841b930a3c577df03dc0f00b.npy
+valid/images/mob_14082025_7685_png.rf.42729bcee8d6e2d4c0d08dd96aa89aa3.jpg
+valid/images/mob_14082025_7685_png.rf.42729bcee8d6e2d4c0d08dd96aa89aa3.npy
+valid/images/mob_14082025_7693_png.rf.649ec86b04613a1a46ea1aee4249785b.jpg
+valid/images/mob_14082025_7693_png.rf.649ec86b04613a1a46ea1aee4249785b.npy
+valid/images/mob_14082025_7702_png.rf.d47e33999f2e1cdcf5fcf73bc202da5f.jpg
+valid/images/mob_14082025_7702_png.rf.d47e33999f2e1cdcf5fcf73bc202da5f.npy
+valid/images/mob_14082025_7704_png.rf.44cee8aabc5ecc7a022a76f24a4924f9.jpg
+valid/images/mob_14082025_7704_png.rf.44cee8aabc5ecc7a022a76f24a4924f9.npy
+valid/images/mob_14082025_7708_png.rf.1172433dc18d58e239f9c0ab8ea380f6.jpg
+valid/images/mob_14082025_7708_png.rf.1172433dc18d58e239f9c0ab8ea380f6.npy
+valid/images/mob_14082025_7727_png.rf.3ab8ac1e27f27aec1162536acc8aca5c.jpg
+valid/images/mob_14082025_7727_png.rf.3ab8ac1e27f27aec1162536acc8aca5c.npy
+valid/images/mob_14082025_7728_png.rf.40745d79c5e7ecabf3deab46347c2c32.jpg
+valid/images/mob_14082025_7728_png.rf.40745d79c5e7ecabf3deab46347c2c32.npy
+valid/images/mob_14082025_7736_png.rf.0b07c8b3e3b94a1a90909661eb128f2a.jpg
+valid/images/mob_14082025_7736_png.rf.0b07c8b3e3b94a1a90909661eb128f2a.npy
+valid/images/mob_14082025_7755_png.rf.bff225a7205dfd965aaa80018707b01a.jpg
+valid/images/mob_14082025_7755_png.rf.bff225a7205dfd965aaa80018707b01a.npy
+valid/images/mob_14082025_7782_png.rf.a2b5e440a08eb5e792ac0b6af48b83b7.jpg
+valid/images/mob_14082025_7782_png.rf.a2b5e440a08eb5e792ac0b6af48b83b7.npy
+valid/images/mob_14082025_7790_png.rf.00a4bf2939b06de4390a116ed343e520.jpg
+valid/images/mob_14082025_7790_png.rf.00a4bf2939b06de4390a116ed343e520.npy
+valid/images/mob_14082025_7795_png.rf.0749fcdbbef93ccf066729c105112980.jpg
+valid/images/mob_14082025_7795_png.rf.0749fcdbbef93ccf066729c105112980.npy
+valid/images/mob_14082025_7813_png.rf.8fa4e655d434c7fb5b70dbced25b6149.jpg
+valid/images/mob_14082025_7813_png.rf.8fa4e655d434c7fb5b70dbced25b6149.npy
+valid/images/mob_14082025_7817_png.rf.2e3f59c1799bafc78b2df0a1995ba694.jpg
+valid/images/mob_14082025_7817_png.rf.2e3f59c1799bafc78b2df0a1995ba694.npy
+valid/images/mob_14082025_7825_png.rf.db3aa34769ca6e00645a5ee10d8e451b.jpg
+valid/images/mob_14082025_7825_png.rf.db3aa34769ca6e00645a5ee10d8e451b.npy
+valid/images/mob_14082025_7838_png.rf.5ba6b2205bb1307e1452a35e2eda3ef7.jpg
+valid/images/mob_14082025_7838_png.rf.5ba6b2205bb1307e1452a35e2eda3ef7.npy
+valid/images/mob_20231009_192616_jpg.rf.028d797f1f1582e37346f8b658d966a3.jpg
+valid/images/mob_20231009_192616_jpg.rf.028d797f1f1582e37346f8b658d966a3.npy
+valid/images/mob_20231009_192753_jpg.rf.0298d14636914046c4628c6d99d58ad4.jpg
+valid/images/mob_20231009_192753_jpg.rf.0298d14636914046c4628c6d99d58ad4.npy
+valid/images/mob_20231009_192839_jpg.rf.13f00df2cb494a340c6056330671deb3.jpg
+valid/images/mob_20231009_192839_jpg.rf.13f00df2cb494a340c6056330671deb3.npy
+valid/images/mob_20231009_193114_jpg.rf.076202410aef4f57d26f3d108208bf68.jpg
+valid/images/mob_20231009_193114_jpg.rf.076202410aef4f57d26f3d108208bf68.npy
+valid/images/mob_20231009_193631_jpg.rf.034c0897ce97a168d0a3b8d22619a997.jpg
+valid/images/mob_20231009_193631_jpg.rf.034c0897ce97a168d0a3b8d22619a997.npy
+valid/images/mob_20231009_194041_jpg.rf.10683104dccdd381d352a980741395a7.jpg
+valid/images/mob_20231009_194041_jpg.rf.10683104dccdd381d352a980741395a7.npy
+valid/images/mob_20231009_194053_jpg.rf.3147d48e0a876ca451276355b03bf542.jpg
+valid/images/mob_20231009_194053_jpg.rf.3147d48e0a876ca451276355b03bf542.npy
+valid/images/mob_20231009_194932_jpg.rf.084511af01dccf503c6340d99cf7dd60.jpg
+valid/images/mob_20231009_194932_jpg.rf.084511af01dccf503c6340d99cf7dd60.npy
+valid/images/mob_20231009_195124_jpg.rf.208b466fb784fb0d8410ad91feced029.jpg
+valid/images/mob_20231009_195124_jpg.rf.208b466fb784fb0d8410ad91feced029.npy
+valid/images/mob_20231009_195311_jpg.rf.355b3fbf80229a7c2ebc256fb89f79db.jpg
+valid/images/mob_20231009_195311_jpg.rf.355b3fbf80229a7c2ebc256fb89f79db.npy
+valid/images/mob_20231009_195321_jpg.rf.04761e6bda9ca1a91037cad9087b25fa.jpg
+valid/images/mob_20231009_195321_jpg.rf.04761e6bda9ca1a91037cad9087b25fa.npy
+valid/images/mob_20231009_195421_jpg.rf.1606cfbc08789a666dfb8d907ea1ea1c.jpg
+valid/images/mob_20231009_195421_jpg.rf.1606cfbc08789a666dfb8d907ea1ea1c.npy
+valid/images/mob_20231009_200854_jpg.rf.031d35c5d0ebde046f6bcc220f31240e.jpg
+valid/images/mob_20231009_200854_jpg.rf.031d35c5d0ebde046f6bcc220f31240e.npy
+valid/images/mob_20231009_200955_jpg.rf.0ae195c8ef1c3f4bf6ba2a576b75ac39.jpg
+valid/images/mob_20231009_200955_jpg.rf.0ae195c8ef1c3f4bf6ba2a576b75ac39.npy
+valid/images/mob_20231009_201908_jpg.rf.0423cef459fb9d141eb1bc3ddb204956.jpg
+valid/images/mob_20231009_201908_jpg.rf.0423cef459fb9d141eb1bc3ddb204956.npy
+valid/images/mob_20231009_202025_jpg.rf.39e58c04caad6f5f983ddb07595108c1.jpg
+valid/images/mob_20231009_202025_jpg.rf.39e58c04caad6f5f983ddb07595108c1.npy
+valid/images/mob_20231009_202048_jpg.rf.95fa05dca09253bc95a2b1a1378da3b3.jpg
+valid/images/mob_20231009_202048_jpg.rf.95fa05dca09253bc95a2b1a1378da3b3.npy
+valid/images/mob_20231009_202156_jpg.rf.454f6f5b631a70df22d7134ba45295ac.jpg
+valid/images/mob_20231009_202156_jpg.rf.454f6f5b631a70df22d7134ba45295ac.npy
+valid/images/mob_20231009_202301_jpg.rf.66bb4b1e2c93c175bdc56625a5330bf6.jpg
+valid/images/mob_20231009_202301_jpg.rf.66bb4b1e2c93c175bdc56625a5330bf6.npy
+valid/images/mob_20231009_202458_jpg.rf.379857a2fc9728c090051d781a244b49.jpg
+valid/images/mob_20231009_202458_jpg.rf.379857a2fc9728c090051d781a244b49.npy
+valid/images/mob_20231009_202630_jpg.rf.048cbc6f31d15553a6b4aedf75828e0f.jpg
+valid/images/mob_20231009_202630_jpg.rf.048cbc6f31d15553a6b4aedf75828e0f.npy
+valid/images/mob_27-de-abril-9_jpg.rf.1a6a441983cb28a7c4bf2953e236e725.jpg
+valid/images/mob_27-de-abril-9_jpg.rf.1a6a441983cb28a7c4bf2953e236e725.npy
+valid/images/mob_345923160_206658102178877_3194393537085474595_n_jpg.rf.07d01e041dc2420f92ec20d31e0f6ff2.jpg
+valid/images/mob_345923160_206658102178877_3194393537085474595_n_jpg.rf.07d01e041dc2420f92ec20d31e0f6ff2.npy
+valid/images/mob_44_jpg.rf.429bdbc55ccd2e1959bb4b5aea158cd4.jpg
+valid/images/mob_44_jpg.rf.429bdbc55ccd2e1959bb4b5aea158cd4.npy
+valid/images/mob_46_jpg.rf.51386136834bfe9358528c54be821079.jpg
+valid/images/mob_46_jpg.rf.51386136834bfe9358528c54be821079.npy
+valid/images/mob_6511ba546520db0dd209bd85_jpg.rf.135916feb43228172b7bc8977b93dc5b.jpg
+valid/images/mob_6511ba546520db0dd209bd85_jpg.rf.135916feb43228172b7bc8977b93dc5b.npy
+valid/images/mob_7A4YSQS6MRHGLIVM667H3ZRZ4A_jpg.rf.050dace2b092515d46c563f407808daf.jpg
+valid/images/mob_7A4YSQS6MRHGLIVM667H3ZRZ4A_jpg.rf.050dace2b092515d46c563f407808daf.npy
+valid/images/mob_7IDM53RGBBGW5KZIASYSCL53SQ_jpg.rf.0407b118d41906f74861cbf8088c8363.jpg
+valid/images/mob_7IDM53RGBBGW5KZIASYSCL53SQ_jpg.rf.0407b118d41906f74861cbf8088c8363.npy
+valid/images/mob_7_jpg.rf.269602d2e0c152ddeaaa8871d645fa48.jpg
+valid/images/mob_7_jpg.rf.269602d2e0c152ddeaaa8871d645fa48.npy
+valid/images/mob_AEFJLBQR5FA2HBWWRHVUPZGPLE_jpeg.rf.6cabfb575c35ee0c6691c420d9a6ba47.jpg
+valid/images/mob_AEFJLBQR5FA2HBWWRHVUPZGPLE_jpeg.rf.6cabfb575c35ee0c6691c420d9a6ba47.npy
+valid/images/mob_Despiste-de-camioneta-en-via-Piura-Chulucanas-deja-un-muerto-y-dos-heridos_jpg.rf.1c8fd9e5d28157cab8b07eb71339a990.jpg
+valid/images/mob_Despiste-de-camioneta-en-via-Piura-Chulucanas-deja-un-muerto-y-dos-heridos_jpg.rf.1c8fd9e5d28157cab8b07eb71339a990.npy
+valid/images/mob_Foto-Placa-10-_jpg.rf.1bd5acca49722d5304b10d056284e41f.jpg
+valid/images/mob_Foto-Placa-10-_jpg.rf.1bd5acca49722d5304b10d056284e41f.npy
+valid/images/mob_Foto-Placa-101-_jpg.rf.22dc4435e499e33e727a12eceb70c066.jpg
+valid/images/mob_Foto-Placa-101-_jpg.rf.22dc4435e499e33e727a12eceb70c066.npy
+valid/images/mob_Foto-Placa-103-_jpg.rf.23e57ce43f7a88ac30106e4e2716f03b.jpg
+valid/images/mob_Foto-Placa-103-_jpg.rf.23e57ce43f7a88ac30106e4e2716f03b.npy
+valid/images/mob_Foto-Placa-112-_jpg.rf.296a752256349533b79c596953c16612.jpg
+valid/images/mob_Foto-Placa-112-_jpg.rf.296a752256349533b79c596953c16612.npy
+valid/images/mob_Foto-Placa-126-_jpg.rf.3ff5dd50eb643abd6c034f2b1b904752.jpg
+valid/images/mob_Foto-Placa-126-_jpg.rf.3ff5dd50eb643abd6c034f2b1b904752.npy
+valid/images/mob_Foto-Placa-143-_jpg.rf.7b404ced3ac7693854290c6157a042c6.jpg
+valid/images/mob_Foto-Placa-143-_jpg.rf.7b404ced3ac7693854290c6157a042c6.npy
+valid/images/mob_Foto-Placa-147-_jpg.rf.022575aa837673dce0c350c34393d028.jpg
+valid/images/mob_Foto-Placa-147-_jpg.rf.022575aa837673dce0c350c34393d028.npy
+valid/images/mob_Foto-Placa-163-_jpg.rf.527ee1157e166fc519b5182b708f3944.jpg
+valid/images/mob_Foto-Placa-163-_jpg.rf.527ee1157e166fc519b5182b708f3944.npy
+valid/images/mob_Foto-Placa-170-_jpg.rf.3415ad7b051d13f0c132334a12825c59.jpg
+valid/images/mob_Foto-Placa-170-_jpg.rf.3415ad7b051d13f0c132334a12825c59.npy
+valid/images/mob_Foto-Placa-175-_jpg.rf.13fdc11edd8c9cf1878e80b010888fc7.jpg
+valid/images/mob_Foto-Placa-175-_jpg.rf.13fdc11edd8c9cf1878e80b010888fc7.npy
+valid/images/mob_Foto-Placa-180-_jpg.rf.b0371a520045f4e9bc26323afc72766a.jpg
+valid/images/mob_Foto-Placa-180-_jpg.rf.b0371a520045f4e9bc26323afc72766a.npy
+valid/images/mob_Foto-Placa-181-_jpg.rf.0632f1e5dde0b86c66ed9afcce77cb8b.jpg
+valid/images/mob_Foto-Placa-181-_jpg.rf.0632f1e5dde0b86c66ed9afcce77cb8b.npy
+valid/images/mob_Foto-Placa-182-_jpg.rf.2211b2ba56d26d2efc42fcf9fb574356.jpg
+valid/images/mob_Foto-Placa-182-_jpg.rf.2211b2ba56d26d2efc42fcf9fb574356.npy
+valid/images/mob_Foto-Placa-188-_jpg.rf.a5128eece3f147b81b439f02c7ed099a.jpg
+valid/images/mob_Foto-Placa-188-_jpg.rf.a5128eece3f147b81b439f02c7ed099a.npy
+valid/images/mob_Foto-Placa-199-_jpg.rf.abdbea8732e33a3d23b3c846f3c3ba77.jpg
+valid/images/mob_Foto-Placa-199-_jpg.rf.abdbea8732e33a3d23b3c846f3c3ba77.npy
+valid/images/mob_Foto-Placa-20-_jpg.rf.1089dfbf6766928d175671ecd801d1ce.jpg
+valid/images/mob_Foto-Placa-20-_jpg.rf.1089dfbf6766928d175671ecd801d1ce.npy
+valid/images/mob_Foto-Placa-210-_jpg.rf.0b78c5acb1ab55505c4a3d716196d707.jpg
+valid/images/mob_Foto-Placa-210-_jpg.rf.0b78c5acb1ab55505c4a3d716196d707.npy
+valid/images/mob_Foto-Placa-213-_jpg.rf.1dfdd4278b3aa6530b51e9d34e79f6db.jpg
+valid/images/mob_Foto-Placa-213-_jpg.rf.1dfdd4278b3aa6530b51e9d34e79f6db.npy
+valid/images/mob_Foto-Placa-214-_jpg.rf.237101934a7b89ef57f1aeb2599e0e23.jpg
+valid/images/mob_Foto-Placa-214-_jpg.rf.237101934a7b89ef57f1aeb2599e0e23.npy
+valid/images/mob_Foto-Placa-225-_jpg.rf.12735c2551ced6f3a5f2d72517259523.jpg
+valid/images/mob_Foto-Placa-225-_jpg.rf.12735c2551ced6f3a5f2d72517259523.npy
+valid/images/mob_Foto-Placa-226-_jpg.rf.6cfd2f0a23b68f08830ff664fb2fcaee.jpg
+valid/images/mob_Foto-Placa-226-_jpg.rf.6cfd2f0a23b68f08830ff664fb2fcaee.npy
+valid/images/mob_Foto-Placa-238-_jpg.rf.15c43da27a306d150adef72c3aec4ba7.jpg
+valid/images/mob_Foto-Placa-238-_jpg.rf.15c43da27a306d150adef72c3aec4ba7.npy
+valid/images/mob_Foto-Placa-243-_jpg.rf.37ca743ca8cf976fde6bb4a1895d7de9.jpg
+valid/images/mob_Foto-Placa-243-_jpg.rf.37ca743ca8cf976fde6bb4a1895d7de9.npy
+valid/images/mob_Foto-Placa-255-_jpg.rf.2beaebc0db47b57c8b53ff503fc2c116.jpg
+valid/images/mob_Foto-Placa-255-_jpg.rf.2beaebc0db47b57c8b53ff503fc2c116.npy
+valid/images/mob_Foto-Placa-268-_jpg.rf.014d00fe815d61b40393031b458ce02a.jpg
+valid/images/mob_Foto-Placa-268-_jpg.rf.014d00fe815d61b40393031b458ce02a.npy
+valid/images/mob_Foto-Placa-27-_jpg.rf.09ffa58728588a4b73f441e027357881.jpg
+valid/images/mob_Foto-Placa-27-_jpg.rf.09ffa58728588a4b73f441e027357881.npy
+valid/images/mob_Foto-Placa-273-_jpg.rf.3221609a114cdbb9bff629e4cea8aaac.jpg
+valid/images/mob_Foto-Placa-273-_jpg.rf.3221609a114cdbb9bff629e4cea8aaac.npy
+valid/images/mob_Foto-Placa-276-_jpg.rf.01a8f2a42b07416d0eed382625c7a485.jpg
+valid/images/mob_Foto-Placa-276-_jpg.rf.01a8f2a42b07416d0eed382625c7a485.npy
+valid/images/mob_Foto-Placa-279-_jpg.rf.01ece55be1664f2861f46e4f2593bcf0.jpg
+valid/images/mob_Foto-Placa-279-_jpg.rf.01ece55be1664f2861f46e4f2593bcf0.npy
+valid/images/mob_Foto-Placa-280-_jpg.rf.0457236cbb4bbc876fc5dab83688b59c.jpg
+valid/images/mob_Foto-Placa-280-_jpg.rf.0457236cbb4bbc876fc5dab83688b59c.npy
+valid/images/mob_Foto-Placa-281-_jpg.rf.340749f9c261f7dd2d125495ae6d12d2.jpg
+valid/images/mob_Foto-Placa-281-_jpg.rf.340749f9c261f7dd2d125495ae6d12d2.npy
+valid/images/mob_Foto-Placa-293-_jpg.rf.090f5a6c754bb6c60e73e324ea10d9e3.jpg
+valid/images/mob_Foto-Placa-293-_jpg.rf.090f5a6c754bb6c60e73e324ea10d9e3.npy
+valid/images/mob_Foto-Placa-298-_jpg.rf.353184e608596d1e4c42ca3e396726b8.jpg
+valid/images/mob_Foto-Placa-298-_jpg.rf.353184e608596d1e4c42ca3e396726b8.npy
+valid/images/mob_Foto-Placa-3-_jpg.rf.093d42f3f5d4672e234b1bb34beca19f.jpg
+valid/images/mob_Foto-Placa-3-_jpg.rf.093d42f3f5d4672e234b1bb34beca19f.npy
+valid/images/mob_Foto-Placa-303-_jpg.rf.5e7d476d7a1059327f1b57725aa2b993.jpg
+valid/images/mob_Foto-Placa-303-_jpg.rf.5e7d476d7a1059327f1b57725aa2b993.npy
+valid/images/mob_Foto-Placa-310-_jpg.rf.3a63e67880d5fda24d6fe644aefc6686.jpg
+valid/images/mob_Foto-Placa-310-_jpg.rf.3a63e67880d5fda24d6fe644aefc6686.npy
+valid/images/mob_Foto-Placa-314-_jpg.rf.086b3ef7429dccc5df12e515d0d19f0e.jpg
+valid/images/mob_Foto-Placa-314-_jpg.rf.086b3ef7429dccc5df12e515d0d19f0e.npy
+valid/images/mob_Foto-Placa-32-_jpg.rf.071b8442ce1fd92b4b8297c10f58c06b.jpg
+valid/images/mob_Foto-Placa-32-_jpg.rf.071b8442ce1fd92b4b8297c10f58c06b.npy
+valid/images/mob_Foto-Placa-328-_jpg.rf.1b7f21d7e7b3ddc6c39f652763dc2e48.jpg
+valid/images/mob_Foto-Placa-328-_jpg.rf.1b7f21d7e7b3ddc6c39f652763dc2e48.npy
+valid/images/mob_Foto-Placa-357-_jpg.rf.02c85618cb4cb8b09f4d90e5ec6c0587.jpg
+valid/images/mob_Foto-Placa-357-_jpg.rf.02c85618cb4cb8b09f4d90e5ec6c0587.npy
+valid/images/mob_Foto-Placa-371-_jpg.rf.2ed0d562e2620aae2186f6f79d31dae8.jpg
+valid/images/mob_Foto-Placa-371-_jpg.rf.2ed0d562e2620aae2186f6f79d31dae8.npy
+valid/images/mob_Foto-Placa-374-_jpg.rf.062404ec02657cf471a363b38b52bd2c.jpg
+valid/images/mob_Foto-Placa-374-_jpg.rf.062404ec02657cf471a363b38b52bd2c.npy
+valid/images/mob_Foto-Placa-38-_jpg.rf.0e75c2a3b083c45bbff8d279ab32affa.jpg
+valid/images/mob_Foto-Placa-38-_jpg.rf.0e75c2a3b083c45bbff8d279ab32affa.npy
+valid/images/mob_Foto-Placa-380-_jpg.rf.1cce7b4b5ca1796cae177b9b674f8fd0.jpg
+valid/images/mob_Foto-Placa-380-_jpg.rf.1cce7b4b5ca1796cae177b9b674f8fd0.npy
+valid/images/mob_Foto-Placa-383-_jpg.rf.0c80a0da4054f3525f0a83c22b69d262.jpg
+valid/images/mob_Foto-Placa-383-_jpg.rf.0c80a0da4054f3525f0a83c22b69d262.npy
+valid/images/mob_Foto-Placa-389-_jpg.rf.2ca214e85978f7a9a7848078827cdd8f.jpg
+valid/images/mob_Foto-Placa-389-_jpg.rf.2ca214e85978f7a9a7848078827cdd8f.npy
+valid/images/mob_Foto-Placa-390-_jpg.rf.ac320dce9d79aacb5fb4ad9b191f7008.jpg
+valid/images/mob_Foto-Placa-390-_jpg.rf.ac320dce9d79aacb5fb4ad9b191f7008.npy
+valid/images/mob_Foto-Placa-398-_jpg.rf.a3dffd662d3610c651cd63a8dd760e87.jpg
+valid/images/mob_Foto-Placa-398-_jpg.rf.a3dffd662d3610c651cd63a8dd760e87.npy
+valid/images/mob_Foto-Placa-406-_jpg.rf.11ebf2363c6acb26210f7a7ddeeb9f41.jpg
+valid/images/mob_Foto-Placa-406-_jpg.rf.11ebf2363c6acb26210f7a7ddeeb9f41.npy
+valid/images/mob_Foto-Placa-414-_jpg.rf.215970512352ec0d193cd97f29b349af.jpg
+valid/images/mob_Foto-Placa-414-_jpg.rf.215970512352ec0d193cd97f29b349af.npy
+valid/images/mob_Foto-Placa-416-_jpg.rf.8e1ac017031d3ea13d4b8ed1d7fcdb64.jpg
+valid/images/mob_Foto-Placa-416-_jpg.rf.8e1ac017031d3ea13d4b8ed1d7fcdb64.npy
+valid/images/mob_Foto-Placa-420-_jpg.rf.468d800373f78e20d79a503b9e90048d.jpg
+valid/images/mob_Foto-Placa-420-_jpg.rf.468d800373f78e20d79a503b9e90048d.npy
+valid/images/mob_Foto-Placa-421-_jpg.rf.20fdbda879072bb5d28ea7c8cb36c43b.jpg
+valid/images/mob_Foto-Placa-421-_jpg.rf.20fdbda879072bb5d28ea7c8cb36c43b.npy
+valid/images/mob_Foto-Placa-436-_jpg.rf.13da40ec9a6f90aee20c84e9757ad767.jpg
+valid/images/mob_Foto-Placa-436-_jpg.rf.13da40ec9a6f90aee20c84e9757ad767.npy
+valid/images/mob_Foto-Placa-443-_jpg.rf.126538766ac54103f0d41ed1e9025bf9.jpg
+valid/images/mob_Foto-Placa-443-_jpg.rf.126538766ac54103f0d41ed1e9025bf9.npy
+valid/images/mob_Foto-Placa-447-_jpg.rf.104491d432247173b9c3258777c497ce.jpg
+valid/images/mob_Foto-Placa-447-_jpg.rf.104491d432247173b9c3258777c497ce.npy
+valid/images/mob_Foto-Placa-449-_jpg.rf.018ea85116b69b0d76f531ebb9394275.jpg
+valid/images/mob_Foto-Placa-449-_jpg.rf.018ea85116b69b0d76f531ebb9394275.npy
+valid/images/mob_Foto-Placa-466-_jpg.rf.0c34aee798ae893eee921b274faf29f6.jpg
+valid/images/mob_Foto-Placa-466-_jpg.rf.0c34aee798ae893eee921b274faf29f6.npy
+valid/images/mob_Foto-Placa-487-_jpg.rf.d0849ebfcf59739f2a732174706acf36.jpg
+valid/images/mob_Foto-Placa-487-_jpg.rf.d0849ebfcf59739f2a732174706acf36.npy
+valid/images/mob_Foto-Placa-490-_jpg.rf.2ad4c117e56178a0338cc961ca56bce9.jpg
+valid/images/mob_Foto-Placa-490-_jpg.rf.2ad4c117e56178a0338cc961ca56bce9.npy
+valid/images/mob_Foto-Placa-493-_jpg.rf.188fe6015659a73283a79c59686f9694.jpg
+valid/images/mob_Foto-Placa-493-_jpg.rf.188fe6015659a73283a79c59686f9694.npy
+valid/images/mob_Foto-Placa-507-_jpg.rf.7044576fe3e49aec0772912ba7d7ea03.jpg
+valid/images/mob_Foto-Placa-507-_jpg.rf.7044576fe3e49aec0772912ba7d7ea03.npy
+valid/images/mob_Foto-Placa-509-_jpg.rf.cb90bd893a1b0c730d231c50d17367df.jpg
+valid/images/mob_Foto-Placa-509-_jpg.rf.cb90bd893a1b0c730d231c50d17367df.npy
+valid/images/mob_Foto-Placa-51-_jpg.rf.05178f11e73308e329af4c80f99ed78f.jpg
+valid/images/mob_Foto-Placa-51-_jpg.rf.05178f11e73308e329af4c80f99ed78f.npy
+valid/images/mob_Foto-Placa-515-_jpg.rf.648f8fece842445a6c73d58ece037ea5.jpg
+valid/images/mob_Foto-Placa-515-_jpg.rf.648f8fece842445a6c73d58ece037ea5.npy
+valid/images/mob_Foto-Placa-519-_jpg.rf.0a9166a4a967cb0263aad86a5982c0bd.jpg
+valid/images/mob_Foto-Placa-519-_jpg.rf.0a9166a4a967cb0263aad86a5982c0bd.npy
+valid/images/mob_Foto-Placa-521-_jpg.rf.6df977ccbaed33f9ce83bb911869a120.jpg
+valid/images/mob_Foto-Placa-521-_jpg.rf.6df977ccbaed33f9ce83bb911869a120.npy
+valid/images/mob_Foto-Placa-523-_jpg.rf.0c4c7599cb556c8b641313f3421be541.jpg
+valid/images/mob_Foto-Placa-523-_jpg.rf.0c4c7599cb556c8b641313f3421be541.npy
+valid/images/mob_Foto-Placa-53-_jpg.rf.027a9c71d758ec3de760ebd4b226c48e.jpg
+valid/images/mob_Foto-Placa-53-_jpg.rf.027a9c71d758ec3de760ebd4b226c48e.npy
+valid/images/mob_Foto-Placa-55-_jpg.rf.1ae854ca3a83d3353fbf5c25b6ae7704.jpg
+valid/images/mob_Foto-Placa-55-_jpg.rf.1ae854ca3a83d3353fbf5c25b6ae7704.npy
+valid/images/mob_Foto-Placa-60-_jpg.rf.189d53a21d04e0fffe89c1cd55584901.jpg
+valid/images/mob_Foto-Placa-60-_jpg.rf.189d53a21d04e0fffe89c1cd55584901.npy
+valid/images/mob_Foto-Placa-61-_jpg.rf.0a4d1579c3d495e2b3e185ee1a109e03.jpg
+valid/images/mob_Foto-Placa-61-_jpg.rf.0a4d1579c3d495e2b3e185ee1a109e03.npy
+valid/images/mob_Foto-Placa-68-_jpg.rf.14888f6616407c8e232ffb56a8f9a46b.jpg
+valid/images/mob_Foto-Placa-68-_jpg.rf.14888f6616407c8e232ffb56a8f9a46b.npy
+valid/images/mob_Foto-Placa-7-_jpg.rf.3b051c283e417d2a0d4311ff430e33e4.jpg
+valid/images/mob_Foto-Placa-7-_jpg.rf.3b051c283e417d2a0d4311ff430e33e4.npy
+valid/images/mob_Foto-Placa-70-_jpg.rf.213c23e416ee59bb07ea6bbff433009e.jpg
+valid/images/mob_Foto-Placa-70-_jpg.rf.213c23e416ee59bb07ea6bbff433009e.npy
+valid/images/mob_Foto-Placa-73-_jpg.rf.dc20938a232b2d4324571b474bcdf6d5.jpg
+valid/images/mob_Foto-Placa-73-_jpg.rf.dc20938a232b2d4324571b474bcdf6d5.npy
+valid/images/mob_Foto-Placa-8-_jpg.rf.1aa2456fb32b03bc26b3a58418df199d.jpg
+valid/images/mob_Foto-Placa-8-_jpg.rf.1aa2456fb32b03bc26b3a58418df199d.npy
+valid/images/mob_Foto-Placa-84-_jpg.rf.16a78f714681fe9267aae25494231e3f.jpg
+valid/images/mob_Foto-Placa-84-_jpg.rf.16a78f714681fe9267aae25494231e3f.npy
+valid/images/mob_Foto-Placa-85-_jpg.rf.d6ff2721129f10f85e4638fcdebf0615.jpg
+valid/images/mob_Foto-Placa-85-_jpg.rf.d6ff2721129f10f85e4638fcdebf0615.npy
+valid/images/mob_Foto-Placa-90-_jpg.rf.55ce49a8754afedd3732a3a69596b487.jpg
+valid/images/mob_Foto-Placa-90-_jpg.rf.55ce49a8754afedd3732a3a69596b487.npy
+valid/images/mob_Foto-Placa-91-_jpg.rf.68a2f156f034cecc08283b90e6d844ee.jpg
+valid/images/mob_Foto-Placa-91-_jpg.rf.68a2f156f034cecc08283b90e6d844ee.npy
+valid/images/mob_Foto-Placa-92-_jpg.rf.1c2e05ca883b89db53a1d829e4bb6977.jpg
+valid/images/mob_Foto-Placa-92-_jpg.rf.1c2e05ca883b89db53a1d829e4bb6977.npy
+valid/images/mob_Foto-Placa-95-_jpg.rf.15ea03d4fc247f3e9871f296ab43671a.jpg
+valid/images/mob_Foto-Placa-95-_jpg.rf.15ea03d4fc247f3e9871f296ab43671a.npy
+valid/images/mob_H7GFWAXH4BEJDF4IG5MFKRQE4A_jpg.rf.1b64c7db2299880b3176eb0da2ebb9df.jpg
+valid/images/mob_H7GFWAXH4BEJDF4IG5MFKRQE4A_jpg.rf.1b64c7db2299880b3176eb0da2ebb9df.npy
+valid/images/mob_HIYSQP2ESFBY3BV5SI6JJTRJSY_png.rf.32ffa1b974bbc46c166d3f8778b8707b.jpg
+valid/images/mob_HIYSQP2ESFBY3BV5SI6JJTRJSY_png.rf.32ffa1b974bbc46c166d3f8778b8707b.npy
+valid/images/mob_HNLQUOYUU5D5TP2JTYYEOMJCSY_jpeg.rf.59d188ce231a55e45a9efefc120c2f5a.jpg
+valid/images/mob_HNLQUOYUU5D5TP2JTYYEOMJCSY_jpeg.rf.59d188ce231a55e45a9efefc120c2f5a.npy
+valid/images/mob_OKMLZLSUWBH5ZL3F4RA4VOBUNM_jpg.rf.03cdf77896be1ab6cac9b6e642c18f93.jpg
+valid/images/mob_OKMLZLSUWBH5ZL3F4RA4VOBUNM_jpg.rf.03cdf77896be1ab6cac9b6e642c18f93.npy
+valid/images/mob_SOYUZ-820x480-1_jpg.rf.0974d8afd5bc5a0522f3851f7c8acb73.jpg
+valid/images/mob_SOYUZ-820x480-1_jpg.rf.0974d8afd5bc5a0522f3851f7c8acb73.npy
+valid/images/mob_TWBQHZIH7JG4HA6S6WGPT36EGM_png.rf.091904b08b4faa7c09685fb6086cb8c0.jpg
+valid/images/mob_TWBQHZIH7JG4HA6S6WGPT36EGM_png.rf.091904b08b4faa7c09685fb6086cb8c0.npy
+valid/images/mob_WhatsApp-Image-2024-01-09-at-4-49-18-PM_jpeg.rf.59df479ca8efd5a0b0d4bd3dce5257e4.jpg
+valid/images/mob_WhatsApp-Image-2024-01-09-at-4-49-18-PM_jpeg.rf.59df479ca8efd5a0b0d4bd3dce5257e4.npy
+valid/images/mob_WhatsApp-Image-2024-01-10-at-4-41-15-PM-2-_jpeg.rf.0f40422c946f7045cf04fa0b66e0f8f3.jpg
+valid/images/mob_WhatsApp-Image-2024-01-10-at-4-41-15-PM-2-_jpeg.rf.0f40422c946f7045cf04fa0b66e0f8f3.npy
+valid/images/mob_WhatsApp-Image-2024-01-10-at-5-02-17-PM-3-_jpeg.rf.25c52d7be34204310e4605a9284cb363.jpg
+valid/images/mob_WhatsApp-Image-2024-01-10-at-5-02-17-PM-3-_jpeg.rf.25c52d7be34204310e4605a9284cb363.npy
+valid/images/mob_WhatsApp-Image-2024-01-13-at-7-32-46-PM_jpeg.rf.03f5c75322e2540a2e5fa5e1fd6e3077.jpg
+valid/images/mob_WhatsApp-Image-2024-01-13-at-7-32-46-PM_jpeg.rf.03f5c75322e2540a2e5fa5e1fd6e3077.npy
+valid/images/mob_WhatsApp-Image-2024-01-13-at-7-32-48-PM_jpeg.rf.35a20b3889172bfcb665c62ac6382363.jpg
+valid/images/mob_WhatsApp-Image-2024-01-13-at-7-32-48-PM_jpeg.rf.35a20b3889172bfcb665c62ac6382363.npy
+valid/images/mob_WhatsApp-Image-2024-01-15-at-10-35-59-AM_jpeg.rf.7fe25e7c1565221dfa9b80b8074da7a5.jpg
+valid/images/mob_WhatsApp-Image-2024-01-15-at-10-35-59-AM_jpeg.rf.7fe25e7c1565221dfa9b80b8074da7a5.npy
+valid/images/mob_WhatsApp-Image-2024-01-19-at-2-14-12-PM-1-_jpeg.rf.40c97ba16d04a44845ef0ba9af0473ac.jpg
+valid/images/mob_WhatsApp-Image-2024-01-19-at-2-14-12-PM-1-_jpeg.rf.40c97ba16d04a44845ef0ba9af0473ac.npy
+valid/images/mob_WhatsApp-Image-2024-01-25-at-12-09-12-PM-2-_jpeg.rf.4db25be5d5e5e1af1bed47556af6f961.jpg
+valid/images/mob_WhatsApp-Image-2024-01-25-at-12-09-12-PM-2-_jpeg.rf.4db25be5d5e5e1af1bed47556af6f961.npy
+valid/images/mob_WhatsApp-Image-2024-01-26-at-6-09-55-PM-1-_jpeg.rf.5552a36743c6e1e703e308123f30c2b0.jpg
+valid/images/mob_WhatsApp-Image-2024-01-26-at-6-09-55-PM-1-_jpeg.rf.5552a36743c6e1e703e308123f30c2b0.npy
+valid/images/mob_WhatsApp-Image-2024-01-26-at-6-09-55-PM_jpeg.rf.11dbb4de32bb2d96cf704248a8b35307.jpg
+valid/images/mob_WhatsApp-Image-2024-01-26-at-6-09-55-PM_jpeg.rf.11dbb4de32bb2d96cf704248a8b35307.npy
+valid/images/mob_WhatsApp-Image-2024-01-26-at-6-32-37-PM-1-_jpeg.rf.3a4eeb7b499585ba915aeea8d3d79e11.jpg
+valid/images/mob_WhatsApp-Image-2024-01-26-at-6-32-37-PM-1-_jpeg.rf.3a4eeb7b499585ba915aeea8d3d79e11.npy
+valid/images/mob_WhatsApp-Image-2024-01-26-at-6-32-37-PM-2-_jpeg.rf.03740b4ba68db7d8dd8600779d0a30d3.jpg
+valid/images/mob_WhatsApp-Image-2024-01-26-at-6-32-37-PM-2-_jpeg.rf.03740b4ba68db7d8dd8600779d0a30d3.npy
+valid/images/mob_WhatsApp-Image-2024-01-29-at-4-18-05-PM_jpeg.rf.1dc2ef7ab450a93446d27607e181e6ac.jpg
+valid/images/mob_WhatsApp-Image-2024-01-29-at-4-18-05-PM_jpeg.rf.1dc2ef7ab450a93446d27607e181e6ac.npy
+valid/images/mob_WhatsApp-Image-2024-01-30-at-11-39-34-AM_jpeg.rf.19354de262fd263e34e987e1a89fb018.jpg
+valid/images/mob_WhatsApp-Image-2024-01-30-at-11-39-34-AM_jpeg.rf.19354de262fd263e34e987e1a89fb018.npy
+valid/images/mob_WhatsApp-Image-2024-02-01-at-5-18-23-PM_jpeg.rf.128ad9c9e8e0c48378b164eedd81b3ca.jpg
+valid/images/mob_WhatsApp-Image-2024-02-01-at-5-18-23-PM_jpeg.rf.128ad9c9e8e0c48378b164eedd81b3ca.npy
+valid/images/mob_acf567b71926de1717a5575303627df2_jpg.rf.ee301858e89e384bea666f928754a1a4.jpg
+valid/images/mob_acf567b71926de1717a5575303627df2_jpg.rf.ee301858e89e384bea666f928754a1a4.npy
+valid/images/mob_arequipa-transporte-sit-1_jpg.rf.595de668c00cd639995b979a0f5bd63a.jpg
+valid/images/mob_arequipa-transporte-sit-1_jpg.rf.595de668c00cd639995b979a0f5bd63a.npy
+valid/images/mob_f66a2fdd6cd7a9741479f4ad35fb1048__400x209_jpeg.rf.110cac46b19c52b8779bbb9186895c7e.jpg
+valid/images/mob_f66a2fdd6cd7a9741479f4ad35fb1048__400x209_jpeg.rf.110cac46b19c52b8779bbb9186895c7e.npy
+valid/images/mob_fpe-noticias-peru-nat-geo-run-1_jpg.rf.21f3bfaed1d0179b752fb3a84bceb5f4.jpg
+valid/images/mob_fpe-noticias-peru-nat-geo-run-1_jpg.rf.21f3bfaed1d0179b752fb3a84bceb5f4.npy
+valid/images/mob_hqdefault_jpg.rf.3adc00fa804a9546ab63362d2f5bdc9b.jpg
+valid/images/mob_hqdefault_jpg.rf.3adc00fa804a9546ab63362d2f5bdc9b.npy
+valid/images/mob_standard_Carros-1_jpg.rf.113fc67bf85a2635884ada3f23805a19.jpg
+valid/images/mob_standard_Carros-1_jpg.rf.113fc67bf85a2635884ada3f23805a19.npy
+valid/images/mob_standard_WhatsApp-Image-2021-08-25-at-4-21-13-PM-jpeg_jpeg.rf.1506698b5743437ea51c9956d1d48f2e.jpg
+valid/images/mob_standard_WhatsApp-Image-2021-08-25-at-4-21-13-PM-jpeg_jpeg.rf.1506698b5743437ea51c9956d1d48f2e.npy
+valid/images/mob_standard_WhatsApp-Image-2022-01-27-at-3-29-20-PM-jpeg_jpeg.rf.4af3d94f832c478ef24299d7acf72362.jpg
+valid/images/mob_standard_WhatsApp-Image-2022-01-27-at-3-29-20-PM-jpeg_jpeg.rf.4af3d94f832c478ef24299d7acf72362.npy
+valid/images/mob_standard_alcalde-francisco-delgado-jpg_jpg.rf.0f602fdad09551e98405bd934930537e.jpg
+valid/images/mob_standard_alcalde-francisco-delgado-jpg_jpg.rf.0f602fdad09551e98405bd934930537e.npy
+valid/images/mob_util-e-interesante-lunas-polarizadas-conoce-nivel-opacidad-permitido-ley-n300507-640x360-1037825_jpeg.rf.3c83b7585df0710c4376043b6fdd0f9a.jpg
+valid/images/mob_util-e-interesante-lunas-polarizadas-conoce-nivel-opacidad-permitido-ley-n300507-640x360-1037825_jpeg.rf.3c83b7585df0710c4376043b6fdd0f9a.npy
+valid/images/mob_van-accidente-31012021_jpg.rf.a26a163495ecbe71e4805df81bf9b8b9.jpg
+valid/images/mob_van-accidente-31012021_jpg.rf.a26a163495ecbe71e4805df81bf9b8b9.npy
